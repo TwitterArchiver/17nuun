@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063981649004781879",
+    "created_at": "2026-06-08T19:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064061272052634071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1509516510569500675",
+          "start": 0,
+          "username": "XixIccn_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064061272052634071",
+    "in_reply_to_user_id": "1509516510569500675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063981649004781879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XixIccn_n 烦躁的时候先别砸会伤到自己的东西…\n可以砸枕头/捏纸团，或者去洗把脸喘一会儿🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063981649004781879",
+        "created_at": "2026-06-08T19:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064061272052634071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1509516510569500675",
+              "start": 0,
+              "username": "XixIccn_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064061272052634071",
+        "in_reply_to_user_id": "1509516510569500675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063981649004781879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XixIccn_n 烦躁的时候先别砸会伤到自己的东西…\n可以砸枕头/捏纸团，或者去洗把脸喘一会儿🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509516510569500675",
+        "conversation_id": "2063981649004781879",
+        "created_at": "2026-06-08T13:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063981649004781879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063981649004781879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想砸东西\n好烦躁😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 30,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 167
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T13:03:09.000Z",
+        "description": "本体は満月です🌕｜人形正面情绪吸收仪，会主动吸收掉身边的温柔善良真诚可爱元素💛｜努力克服所有的负面情绪，成为一个温柔善良真诚可爱的人✨｜梦想是过上自由平静无人打扰的生活🌅｜爱好一切有艺术感的事物💫｜是抱抱贴贴揉揉捏捏教忠实教徒！面点大师🍞",
+        "id": "1509516510569500675",
+        "location": "Eutopia",
+        "name": "月月喵🍥",
+        "pinned_tweet_id": "1713866239729430767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710958574506262528/8BRdkfGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 311,
+          "like_count": 2401,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 1975
+        },
+        "username": "XixIccn_n",
+        "verified": false
+      }
+    ]
+  }
+}

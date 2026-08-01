@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065929771054481408"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065929781179551767",
+    "created_at": "2026-06-13T22:50:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T23:50:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065929781179551767"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RKfxSYWMGI",
+          "end": 88,
+          "expanded_url": "https://x.com/17nuun/status/2065929781179551767/photo/1",
+          "media_key": "3_2065929771054481408",
+          "start": 65,
+          "url": "https://t.co/RKfxSYWMGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065929781179551767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好难受，好不容易回来了大小号被封了，然后用新账号没有人信我唔...\n八千代还把我拉黑\n17是不是陷入自证陷阱？\n17怎么自证呢？ https://t.co/RKfxSYWMGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_2065929771054481408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuoLlabQAAS_kI.jpg",
+        "width": 1475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065929771054481408"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065929781179551767",
+        "created_at": "2026-06-13T22:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T23:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065929781179551767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKfxSYWMGI",
+              "end": 88,
+              "expanded_url": "https://x.com/17nuun/status/2065929781179551767/photo/1",
+              "media_key": "3_2065929771054481408",
+              "start": 65,
+              "url": "https://t.co/RKfxSYWMGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065929781179551767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受，好不容易回来了大小号被封了，然后用新账号没有人信我唔...\n八千代还把我拉黑\n17是不是陷入自证陷阱？\n17怎么自证呢？ https://t.co/RKfxSYWMGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 42,
+          "like_count": 162,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 516
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

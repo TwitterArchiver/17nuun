@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2073731096165204304",
+    "created_at": "2026-07-05T11:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073731096165204304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2066487415678918657",
+          "start": 3,
+          "username": "danshuishuimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073731096165204304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073730938111201464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @danshuishuimu: 我真的不是经常o\n但是最近这几天很痛苦…\n\n正好普瑞巴林的药效还在，正好父母回家，趁着pr对社交功能增强等药效总算是扛过去了\n否则看到父母来找我按我现在的状态会直接崩溃\n\n很抱歉还没恢复\n请给水母再多一点点时间\n\n最后声明：水母真的不会o出…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2073731096165204304",
+        "created_at": "2026-07-05T11:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073731096165204304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2066487415678918657",
+              "start": 3,
+              "username": "danshuishuimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073731096165204304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073730938111201464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @danshuishuimu: 我真的不是经常o\n但是最近这几天很痛苦…\n\n正好普瑞巴林的药效还在，正好父母回家，趁着pr对社交功能增强等药效总算是扛过去了\n否则看到父母来找我按我现在的状态会直接崩溃\n\n很抱歉还没恢复\n请给水母再多一点点时间\n\n最后声明：水母真的不会o出…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2073730938111201464",
+        "created_at": "2026-07-05T11:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073730938111201464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073730938111201464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不是经常o\n但是最近这几天很痛苦…\n\n正好普瑞巴林的药效还在，正好父母回家，趁着pr对社交功能增强等药效总算是扛过去了\n否则看到父母来找我按我现在的状态会直接崩溃\n\n很抱歉还没恢复\n请给水母再多一点点时间\n\n最后声明：水母真的不会o出事，请放心…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 107,
+          "like_count": 461,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "不再是心理委员，但是依然爱着你/此账号为个人账号\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/大号@17nuun\n频道链接https://t.co/fH6wssz2c5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 86,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 121,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 98,
+                "url": "https://t.co/fH6wssz2c5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "location": "正在抱住你",
+        "name": "海月淡水水母17🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116790475296768/Qu3Pj1bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 347,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/3JPf2UoHaa",
+        "username": "danshuishuimu",
+        "verified": false
+      }
+    ]
+  }
+}

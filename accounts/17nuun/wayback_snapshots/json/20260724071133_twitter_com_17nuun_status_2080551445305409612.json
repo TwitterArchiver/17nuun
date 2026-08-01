@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2080551445305409612",
+    "created_at": "2026-07-24T07:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:11:06.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080551328741494906",
+      "2080551445305409612"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080551445305409612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是唐毓文\n17目前没事 但是把账号委派（我可以登录 但是是17使用）给我了\n我平时不会使用这个号\n但是如果17出意外的话\n我会帮忙用这个号通知\n希望不要是讣告"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2080551328741494906",
+        "created_at": "2026-07-24T07:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:11:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080551328741494906",
+          "2080551445305409612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080551328741494906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是唐毓文\n17目前没事 但是把账号委派给我了\n我平时不会使用这个号\n但是如果17出意外的话\n我会帮忙用这个号通知\n希望不要是讣告"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2080551445305409612",
+        "created_at": "2026-07-24T07:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:11:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080551328741494906",
+          "2080551445305409612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080551445305409612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是唐毓文\n17目前没事 但是把账号委派（我可以登录 但是是17使用）给我了\n我平时不会使用这个号\n但是如果17出意外的话\n我会帮忙用这个号通知\n希望不要是讣告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 140,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 117,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2478,
+          "following_count": 190,
+          "like_count": 749,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

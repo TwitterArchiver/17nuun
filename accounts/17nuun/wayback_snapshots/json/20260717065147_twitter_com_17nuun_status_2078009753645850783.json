@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2077985960000909618",
+    "created_at": "2026-07-17T06:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078009753645850783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580456162050584577",
+          "start": 0,
+          "username": "chushouplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078009753645850783",
+    "in_reply_to_user_id": "1580456162050584577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077992042714820894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chushouplay 可爱可爱(*≧ω≦)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077992033369968640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNaCvqMb0AAzUUe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2077985960000909618",
+        "created_at": "2026-07-17T06:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078009753645850783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580456162050584577",
+              "start": 0,
+              "username": "chushouplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078009753645850783",
+        "in_reply_to_user_id": "1580456162050584577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077992042714820894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chushouplay 可爱可爱(*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077992033369968640"
+          ]
+        },
+        "author_id": "1580456162050584577",
+        "conversation_id": "2077985960000909618",
+        "created_at": "2026-07-17T05:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077992042714820894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhbMgshH8z",
+              "end": 52,
+              "expanded_url": "https://x.com/chushouplay/status/2077992042714820894/photo/1",
+              "media_key": "3_2077992033369968640",
+              "start": 29,
+              "url": "https://t.co/zhbMgshH8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077992042714820894",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077987770639999406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 没有人可以管咱以后，送外卖咱都是这个亚子 https://t.co/zhbMgshH8z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 137,
+          "like_count": 560,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T07:11:58.000Z",
+        "description": "175/50kg，xyn。mtf🏳️‍⚧️｜无证含🍥中｜HRT🍥：26.3.21 ｜不od（没药），感觉死亡无所谓了，不疼的话死就死了吧｜现在已经润到上海，且和家里断联\nhttps://t.co/JMXtEerJaC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chushouplay",
+                "end": 108,
+                "expanded_url": "https://ngl.link/chushouplay",
+                "start": 85,
+                "url": "https://t.co/JMXtEerJaC"
+              }
+            ]
+          }
+        },
+        "id": "1580456162050584577",
+        "name": "精灵_Elf🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065613332477005824/SDup7AFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 57,
+          "like_count": 311,
+          "listed_count": 7,
+          "media_count": 67,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "chushouplay",
+        "verified": true
+      }
+    ]
+  }
+}

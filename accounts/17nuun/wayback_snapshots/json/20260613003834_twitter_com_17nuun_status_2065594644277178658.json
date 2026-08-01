@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065594644277178658",
+    "created_at": "2026-06-13T00:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065594644277178658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/N0rthern_Land/…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/N0rthern_Land/status/2065327748961444079",
+          "start": 46,
+          "url": "https://t.co/IT1fE0osOi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065594644277178658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065327748961444079",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉更像是，会用工具的人变贵了w 生图只能给个方向，真到规范、排版、矢量和交付还是人来收拾 https://t.co/IT1fE0osOi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065594644277178658",
+        "created_at": "2026-06-13T00:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065594644277178658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N0rthern_Land/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/N0rthern_Land/status/2065327748961444079",
+              "start": 46,
+              "url": "https://t.co/IT1fE0osOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065594644277178658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065327748961444079",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉更像是，会用工具的人变贵了w 生图只能给个方向，真到规范、排版、矢量和交付还是人来收拾 https://t.co/IT1fE0osOi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346974977434771460",
+        "conversation_id": "2065327748961444079",
+        "created_at": "2026-06-12T06:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065327748961444079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065327748961444079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每次一提到作图就有人说用ai，然后美术生失业什么的，其实如果真的做设计行业ai没你们想的用处那么大，我承认效率和门槛有降低，而且也是不得不学习的一件事，但其实很多时候只是能做生图参考而已，而且生图都是要花钱要积分的，前期要收集素材喂ai规范生成物料，后期要做矢量文件排版都不得不人工。在矢量logo制图、精准的配色系统、工艺规范方面，AI短板表现非常明显，特别容易改稿无效鬼打墙，当然如果你用习惯了有自己的sop就还好，但最终恐怕仍需Illustrator手动制作。整一版真的可投入使用的详情页都不容易，而且ai做的logo设计，产品造型、视觉元素感觉都是网上已有案例数据的融合再加工，商业味儿和同质化严重，很多时候都是需要手动修改的。\n那些营销号一天到晚说一键生成，根本不可能。而且其实现在在做ai生图的那批人很多其实还是美术生，现在除了要和客户斗智斗勇还要和ai斗智斗勇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4603,
+          "like_count": 56,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "每次一提到作图就有人说用ai，然后美术生失业什么的，其实如果真的做设计行业ai没你们想的用处那么大，我承认效率和门槛有降低，而且也是不得不学习的一件事，但其实很多时候只是能做生图参考而已，而且生图都是要花钱要积分的，前期要收集素材喂ai规范生成物料，后期要做矢量文件排版都不得不人工。在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 135,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 472
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T00:20:49.000Z",
+        "description": "bi/日常推/从那不勒斯到今天走了有多远/🏳️‍🌈/看黄男别关注我/目前只有×&小红书账号，其他平台出现均为盗窃。女朋友：@ayashikinoco\n私信和误ban解除请发在里账：@Private_plot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "ayashikinoco"
+              },
+              {
+                "end": 103,
+                "start": 90,
+                "username": "Private_plot"
+              }
+            ]
+          }
+        },
+        "id": "1346974977434771460",
+        "name": "南长尾山雀",
+        "pinned_tweet_id": "1777993830031302950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056942176878444544/dwWBMQ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63620,
+          "following_count": 889,
+          "like_count": 116330,
+          "listed_count": 155,
+          "media_count": 3709,
+          "tweet_count": 37125
+        },
+        "username": "N0rthern_Land",
+        "verified": true
+      }
+    ]
+  }
+}

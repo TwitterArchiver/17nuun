@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066409919868481612",
+    "created_at": "2026-06-15T07:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066418451313459400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748064252521545731",
+          "start": 0,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066418451313459400",
+    "in_reply_to_user_id": "1748064252521545731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066409919868481612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mihuanhuanhuan 允许od，想怎么o就怎么o\n17是自由猫猫，要自由药药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066409919868481612",
+        "created_at": "2026-06-15T07:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066418451313459400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066418451313459400",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066409919868481612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 允许od，想怎么o就怎么o\n17是自由猫猫，要自由药药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066409917049942016"
+          ]
+        },
+        "author_id": "1748064252521545731",
+        "conversation_id": "2066409919868481612",
+        "created_at": "2026-06-15T06:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066409919868481612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066409919868481612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实挺想知道大家意见的\n当然激烈评论过我的那几个人\n我不会给你们任何面子\n\n不过至少反制手段也在我手里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 53,
+          "like_count": 226,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 571
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "………………………………………………",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2066409919868481612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 495,
+          "like_count": 3443,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 3680
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

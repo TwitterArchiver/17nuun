@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066001600716693702",
+    "created_at": "2026-06-14T03:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066001600716693702"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066001600716693702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一说一tyw对17挺不错的\n章鱼对我也很好\n花花也是\n大家对17都超好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066001600716693702",
+        "created_at": "2026-06-14T03:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066001600716693702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066001600716693702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一tyw对17挺不错的\n章鱼对我也很好\n花花也是\n大家对17都超好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 45,
+          "like_count": 179,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 530
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

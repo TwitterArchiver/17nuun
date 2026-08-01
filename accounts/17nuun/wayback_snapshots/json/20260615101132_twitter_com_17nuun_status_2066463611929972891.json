@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066463611929972891",
+    "created_at": "2026-06-15T10:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066463611929972891"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066463611929972891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "得了离开推特就活不下去得病呜呜\n\n好想恢复大号，好想重新被大家关注到呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066463611929972891",
+        "created_at": "2026-06-15T10:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066463611929972891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066463611929972891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "得了离开推特就活不下去得病呜呜\n\n好想恢复大号，好想重新被大家关注到呜呜😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 54,
+          "like_count": 234,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 578
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

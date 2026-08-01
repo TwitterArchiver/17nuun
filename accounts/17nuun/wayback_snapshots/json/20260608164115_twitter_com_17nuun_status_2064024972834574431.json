@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063905240550617468",
+    "created_at": "2026-06-08T16:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064024972834574431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        },
+        {
+          "end": 25,
+          "id": "1474731769530224640",
+          "start": 14,
+          "username": "Vinkim_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064024972834574431",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064021847365345377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa @Vinkim_qwq 怎么了…先别急\n我在看（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063905240550617468",
+        "created_at": "2026-06-08T16:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064024972834574431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            },
+            {
+              "end": 25,
+              "id": "1474731769530224640",
+              "start": 14,
+              "username": "Vinkim_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064024972834574431",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064021847365345377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa @Vinkim_qwq 怎么了…先别急\n我在看（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2063905240550617468",
+        "created_at": "2026-06-08T16:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064021847365345377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            },
+            {
+              "end": 19,
+              "id": "1474731769530224640",
+              "start": 8,
+              "username": "Vinkim_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064021847365345377",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064021460029456388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun @Vinkim_qwq 我真求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 30,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 158
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "已经 HRT 几年的 MTF | 18 岁 | 同类互 fo | ASD | 程序开发 | 不 od 不割手 | 我的性别认同是自出生以来就有的，我不是效仿和盲从 | 喜欢唐毓文❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MioKitsukawa",
+                "end": 23,
+                "expanded_url": "http://t.me/MioKitsukawa",
+                "start": 0,
+                "url": "https://t.co/qFaaLHTasJ"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2063479038107340889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 177,
+          "like_count": 117,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/qFaaLHTasJ",
+        "username": "MioKitsukawa",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-25T13:20:37.000Z",
+        "description": "大二 | 自学计算机 | 深圳 | 日记本 | 想和大家贴贴🥺",
+        "id": "1474731769530224640",
+        "name": "万锦音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046447271261454336/WJSEkmn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 50,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 107
+        },
+        "username": "Vinkim_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

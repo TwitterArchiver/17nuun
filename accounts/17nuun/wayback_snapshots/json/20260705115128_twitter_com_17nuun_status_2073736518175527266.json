@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073736445505032192"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2073736518175527266",
+    "created_at": "2026-07-05T11:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073736518175527266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sUuoounp8Z",
+          "end": 26,
+          "expanded_url": "https://x.com/17nuun/status/2073736518175527266/video/1",
+          "media_key": "13_2073736445505032192",
+          "start": 3,
+          "url": "https://t.co/sUuoounp8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073736518175527266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "干杯 https://t.co/sUuoounp8Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16927,
+        "height": 720,
+        "media_key": "13_2073736445505032192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073736445505032192/img/jkc9u3xOU1cbJPqQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073736445505032192/vid/avc1/330x270/xqiJjG1xo4wxN63D.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073736445505032192/vid/avc1/440x360/x3mHKz2o4wz2e7M1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073736445505032192/vid/avc1/880x720/moREreAXFZY3M0k6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073736445505032192/pl/VuK7PIF4h3B5Wyw5.m3u8"
+          }
+        ],
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073736445505032192"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2073736518175527266",
+        "created_at": "2026-07-05T11:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073736518175527266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUuoounp8Z",
+              "end": 26,
+              "expanded_url": "https://x.com/17nuun/status/2073736518175527266/video/1",
+              "media_key": "13_2073736445505032192",
+              "start": 3,
+              "url": "https://t.co/sUuoounp8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073736518175527266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "干杯 https://t.co/sUuoounp8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2607,
+          "following_count": 107,
+          "like_count": 461,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

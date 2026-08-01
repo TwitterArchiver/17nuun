@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074729969532784640"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074729981708779940",
+    "created_at": "2026-07-08T05:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T06:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074729981708779940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6366qNKlb",
+          "end": 36,
+          "expanded_url": "https://x.com/17nuun/status/2074729981708779940/photo/1",
+          "media_key": "3_2074729969532784640",
+          "start": 13,
+          "url": "https://t.co/P6366qNKlb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074729981708779940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "见面被tyw扇了两巴掌（ https://t.co/P6366qNKlb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074729969532784640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrr6jbb0AABwVu.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074729969532784640"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074729981708779940",
+        "created_at": "2026-07-08T05:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T06:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074729981708779940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6366qNKlb",
+              "end": 36,
+              "expanded_url": "https://x.com/17nuun/status/2074729981708779940/photo/1",
+              "media_key": "3_2074729969532784640",
+              "start": 13,
+              "url": "https://t.co/P6366qNKlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074729981708779940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "见面被tyw扇了两巴掌（ https://t.co/P6366qNKlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 111,
+          "like_count": 472,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

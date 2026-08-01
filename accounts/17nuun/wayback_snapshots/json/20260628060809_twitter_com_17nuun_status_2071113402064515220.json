@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2070787115173007392",
+    "created_at": "2026-06-28T06:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071113402064515220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993659774370758656",
+          "start": 0,
+          "username": "weiyux2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071113402064515220",
+    "in_reply_to_user_id": "1993659774370758656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070787115173007392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiyux2021 未解锁就是第一种，解锁了就是第二种，原因是防止误触，滑动接听就不会误触了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070787094998360064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzp5DLXIAAOBhV.jpg",
+        "width": 1888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2070787115173007392",
+        "created_at": "2026-06-28T06:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071113402064515220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993659774370758656",
+              "start": 0,
+              "username": "weiyux2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071113402064515220",
+        "in_reply_to_user_id": "1993659774370758656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070787115173007392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiyux2021 未解锁就是第一种，解锁了就是第二种，原因是防止误触，滑动接听就不会误触了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070787094998360064"
+          ]
+        },
+        "author_id": "1993659774370758656",
+        "conversation_id": "2070787115173007392",
+        "created_at": "2026-06-27T08:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070787115173007392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHtajos6yP",
+              "end": 42,
+              "expanded_url": "https://x.com/weiyux2021/status/2070787115173007392/photo/1",
+              "media_key": "3_2070787094998360064",
+              "start": 19,
+              "url": "https://t.co/JHtajos6yP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070787115173007392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 3791517,
+          "like_count": 1015,
+          "quote_count": 6,
+          "reply_count": 692,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "为什么苹果手机会有两种来电显示界面？ https://t.co/JHtajos6yP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 /小号是@danshuishuimu @mizukix178\n👇下面加tg或问问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 143,
+                "start": 132,
+                "username": "mizukix178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/51bucExiuc"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 1333,
+          "like_count": 442,
+          "listed_count": 4,
+          "media_count": 389,
+          "tweet_count": 1059
+        },
+        "url": "https://t.co/51bucExiuc",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-26T12:35:38.000Z",
+        "description": "是自由职业者，也是超级奶爸，35岁实现人生当中第一次自驾游，分享个人成长经历及搞钱经验",
+        "id": "1993659774370758656",
+        "location": "Manchester, England",
+        "name": "动物园园长",
+        "pinned_tweet_id": "2053735690353971217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993662305121574912/H9i36Qhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63129,
+          "following_count": 579,
+          "like_count": 153,
+          "listed_count": 183,
+          "media_count": 1638,
+          "tweet_count": 9560
+        },
+        "url": "",
+        "username": "weiyux2021",
+        "verified": true
+      }
+    ]
+  }
+}

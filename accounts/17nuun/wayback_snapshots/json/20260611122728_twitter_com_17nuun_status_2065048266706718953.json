@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065025648360604042",
+    "created_at": "2026-06-11T12:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065048266706718953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065048266706718953",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065025648360604042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 这记录方式有点危险啊，大家注意保护隐私喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065025648360604042",
+        "created_at": "2026-06-11T12:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065048266706718953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065048266706718953",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065025648360604042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 这记录方式有点危险啊，大家注意保护隐私喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2065025648360604042",
+        "created_at": "2026-06-11T10:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065025648360604042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065025648360604042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通知📢：いいちゃん正在記錄每一個跨友的聯絡方式，在記錄後會被刪除，在一段時間後（具體時間長度未知）會添加、望周知喵🐱～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 34,
+          "like_count": 111,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 403
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "請叫我いいちゃん喵～\n臺、日推\n繁體中國語、日本語\n請多多關照喵🐱～\n2007～永遠\n職業樂手\n電子產品維修與銷售\n插畫（探索ung）\n寫程式 （探索ing）\n官方：@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "日本東京、臺灣台北",
+        "name": "いいちゃん",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 740,
+          "like_count": 2893,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2615
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

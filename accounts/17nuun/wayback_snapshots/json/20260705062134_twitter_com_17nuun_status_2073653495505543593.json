@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2073653495505543593",
+    "created_at": "2026-07-05T06:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073653495505543593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/danshuishuimu/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/danshuishuimu/status/2073643851114582437",
+          "start": 47,
+          "url": "https://t.co/eOGTjHKIDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073653495505543593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073643851114582437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晕乎乎，终于来了…\n感觉好多了 不再痛苦了 平静的抱着鲨鲨躺在床上呢\n\n对不起所有人\n对不起 https://t.co/eOGTjHKIDk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2073653495505543593",
+        "created_at": "2026-07-05T06:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073653495505543593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/danshuishuimu/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/danshuishuimu/status/2073643851114582437",
+              "start": 47,
+              "url": "https://t.co/eOGTjHKIDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073653495505543593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073643851114582437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晕乎乎，终于来了…\n感觉好多了 不再痛苦了 平静的抱着鲨鲨躺在床上呢\n\n对不起所有人\n对不起 https://t.co/eOGTjHKIDk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2073643851114582437",
+        "created_at": "2026-07-05T05:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073643851114582437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073643851114582437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么1200mg普瑞巴林没什么反应\n明明很久没吃了\n明明只是想要救一下自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 107,
+          "like_count": 461,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "不再是心理委员，但是依然爱着你/此账号为个人账号\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/大号@17nuun\n频道链接https://t.co/fH6wssz2c5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 86,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 121,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 98,
+                "url": "https://t.co/fH6wssz2c5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "location": "正在抱住你",
+        "name": "海月淡水水母17🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116790475296768/Qu3Pj1bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 347,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/3JPf2UoHaa",
+        "username": "danshuishuimu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076330243640692736"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2076330263253307408",
+    "created_at": "2026-07-12T15:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076330263253307408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WqgqzVCg4T",
+          "end": 34,
+          "expanded_url": "https://x.com/17nuun/status/2076330263253307408/photo/1",
+          "media_key": "3_2076330243640692736",
+          "start": 11,
+          "url": "https://t.co/WqgqzVCg4T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076330263253307408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被照顾了喵，好开心🥰 https://t.co/WqgqzVCg4T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076330243640692736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCbWxCakAA5tgd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076330243640692736"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076330263253307408",
+        "created_at": "2026-07-12T15:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076330263253307408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqgqzVCg4T",
+              "end": 34,
+              "expanded_url": "https://x.com/17nuun/status/2076330263253307408/photo/1",
+              "media_key": "3_2076330243640692736",
+              "start": 11,
+              "url": "https://t.co/WqgqzVCg4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076330263253307408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被照顾了喵，好开心🥰 https://t.co/WqgqzVCg4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 140,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 117,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 121,
+          "like_count": 508,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

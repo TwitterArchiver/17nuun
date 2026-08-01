@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066101850483663196",
+    "created_at": "2026-06-14T13:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066152388893999513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1672461374180450305",
+          "start": 0,
+          "username": "6mhzph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066152388893999513",
+    "in_reply_to_user_id": "1672461374180450305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066151954628436060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6mhzph 呜呜好坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066101850483663196",
+        "created_at": "2026-06-14T13:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066152388893999513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1672461374180450305",
+              "start": 0,
+              "username": "6mhzph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066152388893999513",
+        "in_reply_to_user_id": "1672461374180450305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066151954628436060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6mhzph 呜呜好坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672461374180450305",
+        "conversation_id": "2066101850483663196",
+        "created_at": "2026-06-14T13:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066151954628436060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066151954628436060",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066115659948564630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 被禁足了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 52,
+          "like_count": 211,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 555
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T04:27:28.000Z",
+        "description": "想成为大家的情绪垃圾桶🗑️｜🇮 🇳 🇫 🇵 / 互fo请私 / #树洞 / 精神病人 / 缺爱ing / 大一休学 / 艾拉厨 / ✝️自傷重度依賴✝️｜下面有好玩的喵↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "树洞"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp/mikutap/",
+                "end": 23,
+                "expanded_url": "https://aidn.jp/mikutap/",
+                "start": 0,
+                "url": "https://t.co/U7b6ZO9vMm"
+              }
+            ]
+          }
+        },
+        "id": "1672461374180450305",
+        "location": "距离520km",
+        "name": "inia🌠",
+        "pinned_tweet_id": "1998113705805193226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057702761849110528/kih3Yb0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 273,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/U7b6ZO9vMm",
+        "username": "6mhzph",
+        "verified": true
+      }
+    ]
+  }
+}

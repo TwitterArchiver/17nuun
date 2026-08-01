@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2076778781814210635",
+    "created_at": "2026-07-13T21:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T22:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076778781814210635"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076778781814210635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实感谢自杀干预\n尽管…并不希望被干预，我的自杀是理智的，是策划计划很久的谋杀，对自己的谋杀。\n并且认为自己并不值得被拯救，是很烂的人。\n我又能倾诉什么呢，又能被干预什么？\n实际上水母也做过自杀干预…\n自杀干预，有时遇到我这样的人，不如说临终关怀更好一些.\n毕竟谁又能拯救我呢？\n永恒痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2076778781814210635",
+        "created_at": "2026-07-13T21:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T22:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076778781814210635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076778781814210635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实感谢自杀干预\n尽管…并不希望被干预，我的自杀是理智的，是策划计划很久的谋杀，对自己的谋杀。\n并且认为自己并不值得被拯救，是很烂的人。\n我又能倾诉什么呢，又能被干预什么？\n实际上水母也做过自杀干预…\n自杀干预，有时遇到我这样的人，不如说临终关怀更好一些.\n毕竟谁又能拯救我呢？\n永恒痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 140,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 117,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 126,
+          "like_count": 516,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

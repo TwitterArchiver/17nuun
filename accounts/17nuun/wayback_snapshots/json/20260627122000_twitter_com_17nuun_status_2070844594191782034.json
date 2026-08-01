@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070047434185875456"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2070844594191782034",
+    "created_at": "2026-06-27T12:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070844594191782034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9QQZyrG8nl",
+          "end": 38,
+          "expanded_url": "https://x.com/17nuun/status/2070844594191782034/photo/1",
+          "media_key": "3_2070047434185875456",
+          "start": 15,
+          "url": "https://t.co/9QQZyrG8nl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070844594191782034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "异世界指定传送器吗,有点意思 https://t.co/9QQZyrG8nl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 970,
+        "media_key": "3_2070047434185875456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpJLH7boAAl0Z3.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070047434185875456"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2070844594191782034",
+        "created_at": "2026-06-27T12:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070844594191782034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QQZyrG8nl",
+              "end": 38,
+              "expanded_url": "https://x.com/17nuun/status/2070844594191782034/photo/1",
+              "media_key": "3_2070047434185875456",
+              "start": 15,
+              "url": "https://t.co/9QQZyrG8nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070844594191782034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "异世界指定传送器吗,有点意思 https://t.co/9QQZyrG8nl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 /小号是@danshuishuimu @mizukix178\n👇下面加tg或问问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 143,
+                "start": 132,
+                "username": "mizukix178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/51bucExiuc"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 1200,
+          "like_count": 438,
+          "listed_count": 4,
+          "media_count": 385,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/51bucExiuc",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

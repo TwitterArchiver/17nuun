@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063951395162595829",
+    "created_at": "2026-06-08T14:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063989546832765035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851416603990405120",
+          "start": 0,
+          "username": "ogsa1687497"
+        },
+        {
+          "end": 26,
+          "id": "2060679315126439936",
+          "start": 13,
+          "username": "MioKitsukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063989546832765035",
+    "in_reply_to_user_id": "1851416603990405120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063983137324138852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ogsa1687497 @MioKitsukawa 偶尔也是会说实话的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063951395162595829",
+        "created_at": "2026-06-08T14:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063989546832765035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851416603990405120",
+              "start": 0,
+              "username": "ogsa1687497"
+            },
+            {
+              "end": 26,
+              "id": "2060679315126439936",
+              "start": 13,
+              "username": "MioKitsukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063989546832765035",
+        "in_reply_to_user_id": "1851416603990405120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063983137324138852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ogsa1687497 @MioKitsukawa 偶尔也是会说实话的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851416603990405120",
+        "conversation_id": "2063951395162595829",
+        "created_at": "2026-06-08T13:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063983137324138852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            },
+            {
+              "end": 21,
+              "id": "2060679315126439936",
+              "start": 8,
+              "username": "MioKitsukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063983137324138852",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063954418949652494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun @MioKitsukawa 终于说了句实话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 30,
+          "like_count": 43,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 146
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T00:11:41.000Z",
+        "description": "嗯……不开心☹️",
+        "id": "1851416603990405120",
+        "location": "Hong Kong",
+        "name": "青菜猫🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058297012102344704/VJEZoNRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 337,
+          "like_count": 192,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 270
+        },
+        "username": "ogsa1687497",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "已经 HRT 几年的 MTF | 18 岁 | 同类互 fo | ASD | 程序开发 | 不 od 不割手 | 我的性别认同是自出生以来就有的，我不是效仿和盲从 | 喜欢唐毓文❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MioKitsukawa",
+                "end": 23,
+                "expanded_url": "http://t.me/MioKitsukawa",
+                "start": 0,
+                "url": "https://t.co/qFaaLHTasJ"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2063479038107340889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 163,
+          "like_count": 106,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/qFaaLHTasJ",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

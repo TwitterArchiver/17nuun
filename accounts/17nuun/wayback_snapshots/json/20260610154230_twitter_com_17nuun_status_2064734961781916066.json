@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064504251343400960"
+      ],
+      "media_source_tweet_id": [
+        "2064504263968240002"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064734961781916066",
+    "created_at": "2026-06-10T15:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064734961781916066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "itsCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Be7Uc2lChZ",
+          "end": 46,
+          "expanded_url": "https://x.com/itsCatRoll/status/2064504263968240002/photo/1",
+          "media_key": "3_2064504251343400960",
+          "start": 23,
+          "url": "https://t.co/Be7Uc2lChZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064734961781916066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064504263968240002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @itsCatRoll: 今天是暹罗猫 https://t.co/Be7Uc2lChZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064504251343400960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaXraqbcAA5M1r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064504251343400960"
+          ],
+          "media_source_tweet_id": [
+            "2064504263968240002"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064734961781916066",
+        "created_at": "2026-06-10T15:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064734961781916066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "itsCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Be7Uc2lChZ",
+              "end": 46,
+              "expanded_url": "https://x.com/itsCatRoll/status/2064504263968240002/photo/1",
+              "media_key": "3_2064504251343400960",
+              "start": 23,
+              "url": "https://t.co/Be7Uc2lChZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064734961781916066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064504263968240002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @itsCatRoll: 今天是暹罗猫 https://t.co/Be7Uc2lChZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064504251343400960"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "2064504263968240002",
+        "created_at": "2026-06-10T00:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064504263968240002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Be7Uc2lChZ",
+              "end": 30,
+              "expanded_url": "https://x.com/itsCatRoll/status/2064504263968240002/photo/1",
+              "media_key": "3_2064504251343400960",
+              "start": 7,
+              "url": "https://t.co/Be7Uc2lChZ"
+            },
+            {
+              "display_url": "x.com/itscatroll/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/itscatroll/status/2062727619066597626",
+              "start": 31,
+              "url": "https://t.co/SBVEtBFJRJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064504263968240002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 952,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062727619066597626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "今天是暹罗猫 https://t.co/Be7Uc2lChZ https://t.co/SBVEtBFJRJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 31,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 368
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "需要各种🍥🍬请私信我，尽量tg，私信有时不推送\n💌@hobartr6 可爱妹妹@leetfs1 大猫咪@_furryfur_ 笨蛋肥鸟@hoshi_asuka0089\n\n里账号 @LTSxn0z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "hobartr6"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "leetfs1"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "LTSxn0z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺➡️",
+        "name": "猫卷🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060910085187219456/yA1wVEhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4019,
+          "following_count": 840,
+          "like_count": 4172,
+          "listed_count": 9,
+          "media_count": 73,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

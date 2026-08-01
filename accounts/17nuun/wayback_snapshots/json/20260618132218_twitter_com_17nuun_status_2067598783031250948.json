@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2067598783031250948",
+    "created_at": "2026-06-18T13:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067598783031250948"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067598783031250948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又ptsd？或者恐音症犯了...\n好难受\n听到母亲打哈欠的声音或者咀嚼声或者姐姐的什么声音就忍不住的难受，忍不住的扇自己或者锤什么东西。\n只有母亲和姐姐会让17难受\n这个症状给医生说过\n可是医生从来都不在意\n可是每天都会难受\n每天都会呜....\n\n好痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067598783031250948",
+        "created_at": "2026-06-18T13:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067598783031250948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067598783031250948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又ptsd？或者恐音症犯了...\n好难受\n听到母亲打哈欠的声音或者咀嚼声或者姐姐的什么声音就忍不住的难受，忍不住的扇自己或者锤什么东西。\n只有母亲和姐姐会让17难受\n这个症状给医生说过\n可是医生从来都不在意\n可是每天都会难受\n每天都会呜....\n\n好痛苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067504461292179924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 630,
+          "like_count": 362,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 673
+        },
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064995528891396352",
+    "created_at": "2026-06-11T08:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064995528891396352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/B_cat38324/status/2064916517373018476",
+          "start": 11,
+          "url": "https://t.co/HPaW1iF95E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064995528891396352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064916517373018476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈这反转绝了 https://t.co/HPaW1iF95E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064995528891396352",
+        "created_at": "2026-06-11T08:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064995528891396352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/B_cat38324/status/2064916517373018476",
+              "start": 11,
+              "url": "https://t.co/HPaW1iF95E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064995528891396352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064916517373018476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈这反转绝了 https://t.co/HPaW1iF95E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2064916517373018476",
+        "created_at": "2026-06-11T03:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064916517373018476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064916517373018476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3478,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药娘的父亲也去看邸晓兰。\n\n邸晓兰：想当女孩子多久了？\n父亲：我儿子小的时候，我就偷穿他高跟鞋。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 34,
+          "like_count": 111,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 388
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23095,
+          "following_count": 197,
+          "like_count": 729,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 23761
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

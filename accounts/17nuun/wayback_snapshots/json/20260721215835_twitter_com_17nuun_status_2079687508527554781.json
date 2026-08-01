@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2079541009575510031",
+    "created_at": "2026-07-21T21:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079687508527554781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "OuO_QwQg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079687508527554781",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079687300955639961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO_QwQg 17想要，17得到，17什么都有渠道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2079541009575510031",
+        "created_at": "2026-07-21T21:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079687508527554781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "OuO_QwQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079687508527554781",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079687300955639961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO_QwQg 17想要，17得到，17什么都有渠道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2079541009575510031",
+        "created_at": "2026-07-21T21:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079687300955639961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079687300955639961",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079541009575510031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 哎哎？我记得雪尘不是停售了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 167,
+          "like_count": 674,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027768091149840384/B-OhTElb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 76,
+          "like_count": 12689,
+          "listed_count": 4,
+          "media_count": 442,
+          "tweet_count": 5385
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "OuO_QwQg",
+        "verified": false
+      }
+    ]
+  }
+}

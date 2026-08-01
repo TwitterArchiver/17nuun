@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066001600716693702",
+    "created_at": "2026-06-14T04:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066009045740499213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818546901899509760",
+          "start": 0,
+          "username": "XiaoQi_077s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066009045740499213",
+    "in_reply_to_user_id": "1818546901899509760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066002725851271535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQi_077s 才不傻！哈气！哈！（弓背）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066001600716693702",
+        "created_at": "2026-06-14T04:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066009045740499213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818546901899509760",
+              "start": 0,
+              "username": "XiaoQi_077s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066009045740499213",
+        "in_reply_to_user_id": "1818546901899509760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066002725851271535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQi_077s 才不傻！哈气！哈！（弓背）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818546901899509760",
+        "conversation_id": "2066001600716693702",
+        "created_at": "2026-06-14T03:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066002725851271535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066002725851271535",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066001600716693702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 17是不是被王烟洛调傻掉了，好心疼你呜呜😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 45,
+          "like_count": 182,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 532
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T07:19:14.000Z",
+        "description": "一个xyn喵丨断糖了喵丨还想HRT喵丨自残丨无证丨家长反对党丨会刷机丨会Python丨喜欢折腾各种Android设备喵丨爱你喵",
+        "id": "1818546901899509760",
+        "name": "小柒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 130,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 235
+        },
+        "username": "XiaoQi_077s",
+        "verified": false
+      }
+    ]
+  }
+}

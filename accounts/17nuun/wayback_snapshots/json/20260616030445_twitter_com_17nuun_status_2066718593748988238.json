@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2066718593748988238",
+    "created_at": "2026-06-16T03:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066718593748988238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haiyueshuimuxi…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/haiyueshuimuxia/status/2066714602885550373",
+          "start": 45,
+          "url": "https://t.co/gaU5td1FoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066718593748988238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066714602885550373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小17现在在努力生活哦...大概吧...\n\n至少，没有打算去死\n\n至少，自我伤害不是死亡 https://t.co/gaU5td1FoJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066718593748988238",
+        "created_at": "2026-06-16T03:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066718593748988238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haiyueshuimuxi…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/haiyueshuimuxia/status/2066714602885550373",
+              "start": 45,
+              "url": "https://t.co/gaU5td1FoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066718593748988238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066714602885550373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小17现在在努力生活哦...大概吧...\n\n至少，没有打算去死\n\n至少，自我伤害不是死亡 https://t.co/gaU5td1FoJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2066714602885550373",
+        "created_at": "2026-06-16T02:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066714602885550373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066714602885550373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于回家了,小17时隔很久回家呢\n\n收拾东西,计划健康的用药(抗精神病药)\n\n整理个人物品,脱毛美白减肥计划等.....\n\n唔,小17能恢复活力吗\n\n每次想到一堆麻烦事都想用死来逃避...\n\n好烦,但是,为了不让大家失望,17尽量多活一活!...吧...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 65,
+          "like_count": 253,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 587
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "",
+        "id": "2066487415678918657",
+        "name": "海月水水母小17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488575466872832/r7LqRx6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 24,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "haiyueshuimuxia",
+        "verified": false
+      }
+    ]
+  }
+}

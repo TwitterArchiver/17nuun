@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066287226657648713",
+    "created_at": "2026-06-14T22:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066287226657648713"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066287226657648713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前往北京～\n\n今天是来看17的精神疾病（到底是双相还是重抑郁啊）以及开小证！！！\n\n一个半小时后落地见啦～\n\n要是有多余时间面面别的木桶饭呢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066287226657648713",
+        "created_at": "2026-06-14T22:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066287226657648713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066287226657648713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前往北京～\n\n今天是来看17的精神疾病（到底是双相还是重抑郁啊）以及开小证！！！\n\n一个半小时后落地见啦～\n\n要是有多余时间面面别的木桶饭呢喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 53,
+          "like_count": 214,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 558
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

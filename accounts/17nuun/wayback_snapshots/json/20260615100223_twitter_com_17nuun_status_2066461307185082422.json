@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066409919868481612",
+    "created_at": "2026-06-15T10:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066461307185082422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818546901899509760",
+          "start": 0,
+          "username": "XiaoQi_077s"
+        },
+        {
+          "end": 28,
+          "id": "1748064252521545731",
+          "start": 13,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066461307185082422",
+    "in_reply_to_user_id": "1818546901899509760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066454230471512180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQi_077s @mihuanhuanhuan 好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066409919868481612",
+        "created_at": "2026-06-15T10:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066461307185082422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818546901899509760",
+              "start": 0,
+              "username": "XiaoQi_077s"
+            },
+            {
+              "end": 28,
+              "id": "1748064252521545731",
+              "start": 13,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066461307185082422",
+        "in_reply_to_user_id": "1818546901899509760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066454230471512180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQi_077s @mihuanhuanhuan 好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818546901899509760",
+        "conversation_id": "2066409919868481612",
+        "created_at": "2026-06-15T09:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066454230471512180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            },
+            {
+              "end": 23,
+              "id": "1748064252521545731",
+              "start": 8,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066454230471512180",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066418451313459400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun @mihuanhuanhuan 小17o少一点好不好喵😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 54,
+          "like_count": 230,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 576
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T07:19:14.000Z",
+        "description": "一个xyn喵丨断糖了喵丨还想HRT喵丨自残丨无证丨家长反对党丨会刷机丨会Python丨喜欢折腾各种Android设备喵丨同类互fo丨爱你喵",
+        "id": "1818546901899509760",
+        "name": "小柒🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064202259366608896/X4b484HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 94,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 284
+        },
+        "username": "XiaoQi_077s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "………………………………………………",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "pinned_tweet_id": "2066409919868481612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 495,
+          "like_count": 3445,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 3681
+        },
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063457816569082263",
+    "created_at": "2026-06-07T05:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063492607926476909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063492607926476909",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063491250230038718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 愛你呀…\n谢谢你还在这里呢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063457816569082263",
+        "created_at": "2026-06-07T05:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063492607926476909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063492607926476909",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063491250230038718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 愛你呀…\n谢谢你还在这里呢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2063457816569082263",
+        "created_at": "2026-06-07T05:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063491250230038718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063491250230038718",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063457816569082263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 愛你⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "請叫我いいちゃん喵～\n臺、日推\n繁體中國語、日本語\n請多多關照喵🐱～\n2007～永遠\nmtf\nhrt：since2026/5/6～2026/5/12（）已斷糖\n無證（正在攢錢去開）\n職業樂手\n電子產品維修與銷售\n官方：@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 109,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "日本東京、臺灣台北",
+        "name": "いいちゃん🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 703,
+          "like_count": 2723,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2473
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

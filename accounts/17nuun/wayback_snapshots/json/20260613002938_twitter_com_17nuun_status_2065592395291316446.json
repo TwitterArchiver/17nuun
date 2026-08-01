@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065592395291316446",
+    "created_at": "2026-06-13T00:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065592395291316446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/levie/status/2…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/levie/status/2065287110744297809",
+          "start": 17,
+          "url": "https://t.co/uuXXo4fW6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065592395291316446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065287110744297809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉更像是，会用工具的人变贵了w https://t.co/uuXXo4fW6W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 967,
+        "media_key": "3_2065287108135452672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlfrrebgAAJk75.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065592395291316446",
+        "created_at": "2026-06-13T00:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065592395291316446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/levie/status/2…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/levie/status/2065287110744297809",
+              "start": 17,
+              "url": "https://t.co/uuXXo4fW6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065592395291316446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065287110744297809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉更像是，会用工具的人变贵了w https://t.co/uuXXo4fW6W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065287108135452672"
+          ]
+        },
+        "author_id": "914061",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "CEO of Amazon",
+              "id": "826764782443253760",
+              "name": "Jeff Bezos"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "CEO of Amazon",
+              "id": "826764782443253760",
+              "name": "Jeff Bezos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2065287110744297809",
+        "created_at": "2026-06-12T04:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065287110744297809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlO0hvRUg4",
+              "end": 303,
+              "expanded_url": "https://x.com/levie/status/2065287110744297809/photo/1",
+              "media_key": "3_2065287108135452672",
+              "start": 280,
+              "url": "https://t.co/MlO0hvRUg4"
+            },
+            {
+              "display_url": "x.com/polymarket/sta…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/polymarket/status/2065083087248056657",
+              "start": 304,
+              "url": "https://t.co/LIoxbzFLv8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065287110744297809",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "At Box, we just surveyed 1,640 IT leaders across the US, Japan, and Europe about agentic AI adoption. Many standout findings, but a big one was that the companies that adopted AI the most are planning to grow headcount the most.\n\nObviously lots of ways you can read that data and variables mixed in, but it’s actually quite intuitive that the companies that become most productive want to (and are able to) reinvest back into the business to keep getting the gains going. \n\nThe narrative of jobs being wiped out assumes that companies will take a fixed approach to what they want to be able for work on. What’s happening in practice is it’s causing companies to want to light up more engineering projects, sell to more customers, automate more processes to give time back, and more. That all leads to more work to be done by people."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 36144,
+          "like_count": 215,
+          "quote_count": 8,
+          "reply_count": 44,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065083087248056657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "At Box, we just surveyed 1,640 IT leaders across the US, Japan, and Europe about agentic AI adoption. Many standout findings, but a big one was that the companies that adopted AI the most are planning to grow headcount the most.\n\nObviously lots of ways you can read that data and https://t.co/MlO0hvRUg4 https://t.co/LIoxbzFLv8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 134,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 466
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-11T09:25:44.000Z",
+        "description": "ceo @box - your business lives in content. unleash it with AI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 4,
+                "username": "box"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.com",
+                "end": 23,
+                "expanded_url": "http://www.box.com",
+                "start": 0,
+                "url": "https://t.co/LFNkcHLouX"
+              }
+            ]
+          }
+        },
+        "id": "914061",
+        "location": "Bay Area",
+        "name": "Aaron Levie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850778,
+          "following_count": 792,
+          "like_count": 105530,
+          "listed_count": 7638,
+          "media_count": 1148,
+          "tweet_count": 11573
+        },
+        "url": "https://t.co/LFNkcHLouX",
+        "username": "levie",
+        "verified": true
+      }
+    ]
+  }
+}

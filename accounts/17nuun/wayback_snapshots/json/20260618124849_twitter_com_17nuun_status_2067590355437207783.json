@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2067590355437207783",
+    "created_at": "2026-06-18T12:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067590355437207783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2067585268077715531",
+          "start": 21,
+          "url": "https://t.co/3H1dGc06el"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067590355437207783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067585268077715531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再把自己的棍子噶掉，绝对是突破跨圈的王者 https://t.co/3H1dGc06el"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067590355437207783",
+        "created_at": "2026-06-18T12:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067590355437207783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2067585268077715531",
+              "start": 21,
+              "url": "https://t.co/3H1dGc06el"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067590355437207783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067585268077715531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再把自己的棍子噶掉，绝对是突破跨圈的王者 https://t.co/3H1dGc06el"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2067585268077715531",
+        "created_at": "2026-06-18T12:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067585268077715531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067585268077715531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025年6月30\n14岁的唐发誓要闯出一番名气，让跨性别圈永远记住自己😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067504461292179924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 628,
+          "like_count": 362,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 672
+        },
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2067518664522502270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 26,
+          "like_count": 83,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 515
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

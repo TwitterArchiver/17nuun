@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064975264833315279",
+    "created_at": "2026-06-11T08:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064986986574672118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064986986574672118",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064975264833315279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C 植物提取多肽激素 笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064975264833315279",
+        "created_at": "2026-06-11T08:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064986986574672118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064986986574672118",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064975264833315279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C 植物提取多肽激素 笑死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2064975264833315279",
+        "created_at": "2026-06-11T07:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064975264833315279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SetsunaWoon/st…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/SetsunaWoon/status/2064287251371302989",
+              "start": 140,
+              "url": "https://t.co/0Il5Lnjjbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064975264833315279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064287251371302989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生长激素与泌乳激素属多肽蛋白质类大分子\n结构易被胃酸、消化道蛋白酶彻底水解破坏，无法通过化学修饰制成有效口服剂型；\n并且，此类人体特异性激素不可以由植物提取获得\n其标注“纯植物提取”与产品名称的组合，我认为违背化学结构与药代动力学基本原理\n其化学特性也决定其极难通过修饰制剂口服 https://t.co/0Il5Lnjjbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 34,
+          "like_count": 111,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 380
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 2313,
+          "like_count": 11991,
+          "listed_count": 2,
+          "media_count": 604,
+          "tweet_count": 1109
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

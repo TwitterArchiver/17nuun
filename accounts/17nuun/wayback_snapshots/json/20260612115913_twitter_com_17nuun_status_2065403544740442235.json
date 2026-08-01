@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065403544740442235",
+    "created_at": "2026-06-12T11:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T12:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065403544740442235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dzcwys/status/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/dzcwys/status/2065134928988434450",
+          "start": 20,
+          "url": "https://t.co/t8ucjPsqg1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065403544740442235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065134928988434450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请以实物为准笑死了，兔耳绒布球限定版w https://t.co/t8ucjPsqg1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2065134926459174912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjVRijaAAAZwgo.jpg",
+        "width": 468
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065403544740442235",
+        "created_at": "2026-06-12T11:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065403544740442235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dzcwys/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/dzcwys/status/2065134928988434450",
+              "start": 20,
+              "url": "https://t.co/t8ucjPsqg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065403544740442235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065134928988434450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请以实物为准笑死了，兔耳绒布球限定版w https://t.co/t8ucjPsqg1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065134926459174912"
+          ]
+        },
+        "author_id": "1257822205905219584",
+        "conversation_id": "2065134928988434450",
+        "created_at": "2026-06-11T18:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065134928988434450"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "雌小鬼"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "可爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OubNVGzN9D",
+              "end": 140,
+              "expanded_url": "https://x.com/dzcwys/status/2065134928988434450/photo/1",
+              "media_key": "3_2065134926459174912",
+              "start": 117,
+              "url": "https://t.co/OubNVGzN9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065134928988434450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1202,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实网络上的雌小鬼很可爱，因为现实中是一推就倒的体质，你抓着她的手，她就不会反抗，只会害羞的躲开视线。\n\n也就是说，哪怕只是轻度的调教和玩弄，也能让她短暂的陷入“我是绒布球”的自我认知中（上述仅供参考，请以实物为准）#雌小鬼 #可爱 https://t.co/OubNVGzN9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 124,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 452
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T23:59:22.000Z",
+        "description": "爱读轻小说，喜欢可爱的事物，是🍥xyn～，世界的观察者🍥（hrt→2023/02/03）\n想要认识更多的人，经历更多的事，欢迎大家私信，人与人的相遇也是一种幸运。",
+        "id": "1257822205905219584",
+        "location": "梦幻中的伊甸园",
+        "name": "樱下 琉璃🏳️‍⚧️",
+        "pinned_tweet_id": "2063441973370098042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002104162159636483/8n4PwQqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 647,
+          "like_count": 4299,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1460
+        },
+        "username": "dzcwys",
+        "verified": false
+      }
+    ]
+  }
+}

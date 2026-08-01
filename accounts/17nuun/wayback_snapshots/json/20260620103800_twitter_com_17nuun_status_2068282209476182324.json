@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068242667562315776"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068282209476182324",
+    "created_at": "2026-06-20T10:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068282209476182324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q1FTjWk8zy",
+          "end": 42,
+          "expanded_url": "https://x.com/17nuun/status/2068282209476182324/photo/1",
+          "media_key": "3_2068242667562315776",
+          "start": 19,
+          "url": "https://t.co/q1FTjWk8zy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068282209476182324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很明显她是女生,因为根本没有装机吧. https://t.co/q1FTjWk8zy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2068242667562315776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPfv4VbsAAf6Nz.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068242667562315776"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068282209476182324",
+        "created_at": "2026-06-20T10:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068282209476182324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q1FTjWk8zy",
+              "end": 42,
+              "expanded_url": "https://x.com/17nuun/status/2068282209476182324/photo/1",
+              "media_key": "3_2068242667562315776",
+              "start": 19,
+              "url": "https://t.co/q1FTjWk8zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068282209476182324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很明显她是女生,因为根本没有装机吧. https://t.co/q1FTjWk8zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 767,
+          "like_count": 388,
+          "listed_count": 5,
+          "media_count": 87,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

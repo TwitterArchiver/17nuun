@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2080815243115233402",
+    "created_at": "2026-07-25T00:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T01:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080815243115233402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/17nuun/status/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/17nuun/status/2080643855549190454",
+          "start": 21,
+          "url": "https://t.co/ERyuBKfALI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080815243115233402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080643855549190454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至今仍未知道sb精卫给我注射了什么东西… https://t.co/ERyuBKfALI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2080815243115233402",
+        "created_at": "2026-07-25T00:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080815243115233402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/17nuun/status/2080643855549190454",
+              "start": 21,
+              "url": "https://t.co/ERyuBKfALI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080815243115233402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080643855549190454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至今仍未知道sb精卫给我注射了什么东西… https://t.co/ERyuBKfALI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2080643855549190454",
+        "created_at": "2026-07-24T13:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080643855549190454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080643855549190454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 539,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来住院时候的经历了\n不记得当时被注射的什么药，导致我忍不住的抬头眼球上翻看天花板。\n平躺下来也只能暂时缓解，起身就又发病，这辈子见过最离奇药物的副作用了🤔….\n医生知道了也不管…，单纯让我找个地方躺着，没床位我又只能躺地上…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 140,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 117,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 196,
+          "like_count": 787,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065051294281203858",
+    "created_at": "2026-06-11T12:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065051294281203858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linwei130/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/linwei130/status/2064932996906672518",
+          "start": 19,
+          "url": "https://t.co/vTEuMDBeQZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065051294281203858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064932996906672518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱就是正义w gd治好了那还得了… https://t.co/vTEuMDBeQZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064932984760004608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgdm_GbcAAPk1a.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065051294281203858",
+        "created_at": "2026-06-11T12:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065051294281203858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linwei130/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/linwei130/status/2064932996906672518",
+              "start": 19,
+              "url": "https://t.co/vTEuMDBeQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065051294281203858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064932996906672518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱就是正义w gd治好了那还得了… https://t.co/vTEuMDBeQZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064932984760004608"
+          ]
+        },
+        "author_id": "1926506432276348928",
+        "conversation_id": "2064932996906672518",
+        "created_at": "2026-06-11T04:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064932996906672518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qC67tI0DdF",
+              "end": 51,
+              "expanded_url": "https://x.com/linwei130/status/2064932996906672518/photo/1",
+              "media_key": "3_2064932984760004608",
+              "start": 28,
+              "url": "https://t.co/qC67tI0DdF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064932996906672518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 446,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去我去我去我今天怎么能这么可爱啊啊啊啊啊我gd治好了 https://t.co/qC67tI0DdF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 35,
+          "like_count": 111,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 404
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:12:03.000Z",
+        "description": "MTF🏳️‍⚧️｜小证含糖🍥｜小证2026.5.12｜已出柜 ｜ISFP-T｜碎碎念｜抑郁中｜同类互fo喵（没看到请在评论区说一下或者私信）｜老婆@Angel_SaveUsAll共号中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Angel_SaveUsAll"
+              }
+            ]
+          }
+        },
+        "id": "1926506432276348928",
+        "location": "距离你520m",
+        "name": "堇&小救2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046139436388524032/4kuTsCGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 610,
+          "like_count": 5924,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 812
+        },
+        "username": "linwei130",
+        "verified": false
+      }
+    ]
+  }
+}

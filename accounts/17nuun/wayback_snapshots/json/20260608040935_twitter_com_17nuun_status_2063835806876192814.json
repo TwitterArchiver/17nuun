@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Aaron Levie",
+          "id": "1053014433838981121",
+          "name": "Aaron Levie"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology",
+          "id": "857879456773357569",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Aaron Levie",
+          "id": "1053014433838981121",
+          "name": "Aaron Levie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2063055332545540096",
+    "created_at": "2026-06-08T04:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063835806876192814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860187381841711104",
+          "start": 0,
+          "username": "boymanrobshit"
+        },
+        {
+          "end": 21,
+          "id": "914061",
+          "start": 15,
+          "username": "levie"
+        },
+        {
+          "end": 33,
+          "id": "14546264",
+          "start": 22,
+          "username": "BenBajarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063835806876192814",
+    "in_reply_to_user_id": "1860187381841711104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063640724990546367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boymanrobshit @levie @BenBajarin 可能是喵\n代码本身结构化、反馈快\n所以先被打穿\n\n但真正难的部分会往「判断要做什么」那边挪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2063055332545540096",
+        "created_at": "2026-06-08T04:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063835806876192814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860187381841711104",
+              "start": 0,
+              "username": "boymanrobshit"
+            },
+            {
+              "end": 21,
+              "id": "914061",
+              "start": 15,
+              "username": "levie"
+            },
+            {
+              "end": 33,
+              "id": "14546264",
+              "start": 22,
+              "username": "BenBajarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063835806876192814",
+        "in_reply_to_user_id": "1860187381841711104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063640724990546367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boymanrobshit @levie @BenBajarin 可能是喵\n代码本身结构化、反馈快\n所以先被打穿\n\n但真正难的部分会往「判断要做什么」那边挪…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860187381841711104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2063055332545540096",
+        "created_at": "2026-06-07T15:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063640724990546367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "914061",
+              "start": 0,
+              "username": "levie"
+            },
+            {
+              "end": 18,
+              "id": "14546264",
+              "start": 7,
+              "username": "BenBajarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063640724990546367",
+        "in_reply_to_user_id": "914061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 522,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063055332545540096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@levie @BenBajarin Pushback here is that coding was the low hanging fruit as the simplest thing to automate"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 29,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T05:03:41.000Z",
+        "description": "AI Inference Product/GTM. Rambling thoughts. Market focused. Philosophy-driven. Phish. Nothing for sale",
+        "id": "1860187381841711104",
+        "name": "boymanrobshit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051013449438597121/p8we1v1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 198,
+          "like_count": 1262,
+          "listed_count": 12,
+          "media_count": 64,
+          "tweet_count": 2304
+        },
+        "username": "boymanrobshit",
+        "verified": true
+      },
+      {
+        "created_at": "2007-03-11T09:25:44.000Z",
+        "description": "ceo @box - your business lives in content. unleash it with AI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 4,
+                "username": "box"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.com",
+                "end": 23,
+                "expanded_url": "http://www.box.com",
+                "start": 0,
+                "url": "https://t.co/LFNkcHLouX"
+              }
+            ]
+          }
+        },
+        "id": "914061",
+        "location": "Bay Area",
+        "name": "Aaron Levie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812198,
+          "following_count": 790,
+          "like_count": 105191,
+          "listed_count": 7622,
+          "media_count": 1145,
+          "tweet_count": 11563
+        },
+        "url": "https://t.co/LFNkcHLouX",
+        "username": "levie",
+        "verified": true
+      },
+      {
+        "created_at": "2008-04-26T15:13:01.000Z",
+        "description": "CEO & Principal Analyst @creativestrat. Full-stack tech analysis from silicon to markets. Advisor to tech leaders. Technologist at heart. Keeper of Bees.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "creativestrat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "creativestrategies.com",
+                "end": 23,
+                "expanded_url": "http://www.creativestrategies.com",
+                "start": 0,
+                "url": "https://t.co/dEwfOJj5yh"
+              }
+            ]
+          }
+        },
+        "id": "14546264",
+        "location": "San Jose, CA",
+        "name": "Ben Bajarin",
+        "pinned_tweet_id": "2062661576117952967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007193847433179139/N4Z9gIsH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44790,
+          "following_count": 2282,
+          "like_count": 11358,
+          "listed_count": 1815,
+          "media_count": 3032,
+          "tweet_count": 57812
+        },
+        "url": "https://t.co/dEwfOJj5yh",
+        "username": "BenBajarin",
+        "verified": true
+      }
+    ]
+  }
+}

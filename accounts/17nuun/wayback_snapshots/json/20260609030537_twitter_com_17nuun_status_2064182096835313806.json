@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064146773329707356",
+    "created_at": "2026-06-09T03:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T04:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064182096835313806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2030455725374550016",
+          "start": 0,
+          "username": "AAcfun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064182096835313806",
+    "in_reply_to_user_id": "2030455725374550016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064179428729757771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAcfun 纯黑最稳了w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064146773329707356",
+        "created_at": "2026-06-09T03:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064182096835313806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2030455725374550016",
+              "start": 0,
+              "username": "AAcfun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064182096835313806",
+        "in_reply_to_user_id": "2030455725374550016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064179428729757771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAcfun 纯黑最稳了w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030455725374550016",
+        "conversation_id": "2064146773329707356",
+        "created_at": "2026-06-09T02:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064179428729757771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064179428729757771",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064146773329707356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 纯黑色😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 184
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T01:29:09.000Z",
+        "description": "‍",
+        "id": "2030455725374550016",
+        "location": "自己的小房间",
+        "name": "云兮🏳️‍⚧️",
+        "pinned_tweet_id": "2063509014928138526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052950670878404608/-ahKaRcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 152,
+          "like_count": 9415,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1812
+        },
+        "username": "AAcfun",
+        "verified": true
+      }
+    ]
+  }
+}

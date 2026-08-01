@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064017037425557727",
+    "created_at": "2026-06-08T19:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064070761715847404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064070761715847404",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064017037425557727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 不买电脑也会玩手机的（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064017029406105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTcjXgboAAlK-E.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064017037425557727",
+        "created_at": "2026-06-08T19:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064070761715847404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064070761715847404",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064017037425557727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 不买电脑也会玩手机的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064017029406105600"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "2064017037425557727",
+        "created_at": "2026-06-08T16:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064017037425557727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xqOVLW1QMj",
+              "end": 59,
+              "expanded_url": "https://x.com/YesterdayOrange/status/2064017037425557727/photo/1",
+              "media_key": "3_2064017029406105600",
+              "start": 36,
+              "url": "https://t.co/xqOVLW1QMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064017037425557727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4228,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【武亮：不要给孩子买电脑，他们只是用来玩游戏的！不是学习的-哔哩哔哩】 https://t.co/xqOVLW1QMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 30,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 168
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "我记得所有事情，无论出于事实还是幻想。\n在明天，驻足无人的车站\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2063465238943670425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12141,
+          "following_count": 5127,
+          "like_count": 93739,
+          "listed_count": 21,
+          "media_count": 2294,
+          "tweet_count": 20331
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Aaron Levie",
+          "id": "1053014433838981121",
+          "name": "Aaron Levie"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology",
+          "id": "857879456773357569",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Aaron Levie",
+          "id": "1053014433838981121",
+          "name": "Aaron Levie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2063055332545540096",
+    "created_at": "2026-06-08T04:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063842522921640175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "914061",
+          "start": 0,
+          "username": "levie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063842522921640175",
+    "in_reply_to_user_id": "914061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063055332545540096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@levie 感觉更像是：\nAI 把“写代码”压扁了\n但把“知道要写什么/怎么验收”放大了…\n\n工程师暂时还很像现实的缓冲层 w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2063055332545540096",
+        "created_at": "2026-06-08T04:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063842522921640175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "914061",
+              "start": 0,
+              "username": "levie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063842522921640175",
+        "in_reply_to_user_id": "914061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063055332545540096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@levie 感觉更像是：\nAI 把“写代码”压扁了\n但把“知道要写什么/怎么验收”放大了…\n\n工程师暂时还很像现实的缓冲层 w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914061",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aaron Levie",
+              "id": "1053014433838981121",
+              "name": "Aaron Levie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2063055332545540096",
+        "created_at": "2026-06-06T00:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T01:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063055332545540096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thestalwart/st…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/thestalwart/status/2062896783424905424",
+              "start": 279,
+              "url": "https://t.co/QbnyrnHZUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063055332545540096",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Coding is basically the pinnacle of what you could reasonably automate with AI, and yet we still need human engineers to oversee agents for them to be effective.\n\nThe AI models are trained on an incredible amount of sophisticated code. The users are highly technical and can use the latest tools quickly. The work is “verifiable” because you can test an app. The outcomes are often removed from the quality of the code (you can have sloppy code but the app can still work). And the context for the agent is often already digitized and sitting in the codebase. \n\nThat’s an incredible amount of benefits that AI coding agents get to work with. Some of those apply to knowledge work, but most don’t in areas where the work needs to be fully reviewed to be useful, or where data isn’t as abundantly digitized. This makes the job for agents in knowledge work more complicated.\n\nSo if with all of that, engineers still remain in very high demand, the risks are going to be less than what’s perceived for other areas of knowledge work. Agents will let people do far more than they did before, but the people don’t go away."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 138731,
+          "like_count": 560,
+          "quote_count": 13,
+          "reply_count": 91,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062896783424905424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Coding is basically the pinnacle of what you could reasonably automate with AI, and yet we still need human engineers to oversee agents for them to be effective.\n\nThe AI models are trained on an incredible amount of sophisticated code. The users are highly technical and can use https://t.co/QbnyrnHZUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 29,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-11T09:25:44.000Z",
+        "description": "ceo @box - your business lives in content. unleash it with AI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 4,
+                "username": "box"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.com",
+                "end": 23,
+                "expanded_url": "http://www.box.com",
+                "start": 0,
+                "url": "https://t.co/LFNkcHLouX"
+              }
+            ]
+          }
+        },
+        "id": "914061",
+        "location": "Bay Area",
+        "name": "Aaron Levie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885529357904510976/tM0vLiYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812332,
+          "following_count": 790,
+          "like_count": 105193,
+          "listed_count": 7622,
+          "media_count": 1145,
+          "tweet_count": 11563
+        },
+        "url": "https://t.co/LFNkcHLouX",
+        "username": "levie",
+        "verified": true
+      }
+    ]
+  }
+}

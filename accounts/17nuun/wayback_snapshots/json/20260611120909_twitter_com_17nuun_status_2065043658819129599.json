@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065043658819129599",
+    "created_at": "2026-06-11T12:09:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:09:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065043658819129599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1392108827760287745",
+          "start": 3,
+          "username": "Alexia476334561"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065043658819129599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063613272813965328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alexia476334561: 虽然你的仙之人兮列如麻已经很全了，但……\n\n来中推圈不键政，不看黄，不发黄，不磕药，不变小药娘，不买币，不卖币，不写代码，不卖ai课程，也不是某功媒体矩阵的都是什么人🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065043658819129599",
+        "created_at": "2026-06-11T12:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065043658819129599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1392108827760287745",
+              "start": 3,
+              "username": "Alexia476334561"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065043658819129599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063613272813965328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alexia476334561: 虽然你的仙之人兮列如麻已经很全了，但……\n\n来中推圈不键政，不看黄，不发黄，不磕药，不变小药娘，不买币，不卖币，不写代码，不卖ai课程，也不是某功媒体矩阵的都是什么人🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392108827760287745",
+        "conversation_id": "2063613272813965328",
+        "created_at": "2026-06-07T13:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063613272813965328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovemikubx/sta…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/lovemikubx/status/2063475208716235131",
+              "start": 85,
+              "url": "https://t.co/8gW4OKdXWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063613272813965328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 756,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063475208716235131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然你的仙之人兮列如麻已经很全了，但……\n\n来中推圈不键政，不看黄，不发黄，不磕药，不变小药娘，不买币，不卖币，不写代码，不卖ai课程，也不是某功媒体矩阵的都是什么人🤔 https://t.co/8gW4OKdXWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 34,
+          "like_count": 111,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 393
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-11T13:27:58.000Z",
+        "description": "アニメ ゲーム VTuber ｜ CG・VFXクリエイター",
+        "id": "1392108827760287745",
+        "name": "みなみ アレクシア",
+        "pinned_tweet_id": "2062199118676828381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654143957239238656/9ABOKI8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 151,
+          "like_count": 53287,
+          "listed_count": 13,
+          "media_count": 207,
+          "tweet_count": 27327
+        },
+        "username": "Alexia476334561",
+        "verified": false
+      }
+    ]
+  }
+}

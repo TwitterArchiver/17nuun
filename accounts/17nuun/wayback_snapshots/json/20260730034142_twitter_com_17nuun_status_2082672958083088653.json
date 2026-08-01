@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2082497804627579131",
+    "created_at": "2026-07-30T03:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082672958083088653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899289095794479104",
+          "start": 0,
+          "username": "zs1341110279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082672958083088653",
+    "in_reply_to_user_id": "1899289095794479104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082497804627579131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zs1341110279 耶🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082497753377353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaErFObMAAsn5J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082497753398353920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaErFTboAAsvvR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2082497804627579131",
+        "created_at": "2026-07-30T03:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082672958083088653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899289095794479104",
+              "start": 0,
+              "username": "zs1341110279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082672958083088653",
+        "in_reply_to_user_id": "1899289095794479104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082497804627579131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zs1341110279 耶🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082497753377353728",
+            "3_2082497753398353920"
+          ]
+        },
+        "author_id": "1899289095794479104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082497804627579131",
+        "created_at": "2026-07-29T16:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082497804627579131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SmVccccbJp",
+              "end": 31,
+              "expanded_url": "https://x.com/zs1341110279/status/2082497804627579131/photo/1",
+              "media_key": "3_2082497753377353728",
+              "start": 8,
+              "url": "https://t.co/SmVccccbJp"
+            },
+            {
+              "display_url": "pic.x.com/SmVccccbJp",
+              "end": 31,
+              "expanded_url": "https://x.com/zs1341110279/status/2082497804627579131/photo/1",
+              "media_key": "3_2082497753398353920",
+              "start": 8,
+              "url": "https://t.co/SmVccccbJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082497804627579131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小小暴食一番🤤 https://t.co/SmVccccbJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 226,
+          "like_count": 1102,
+          "listed_count": 5,
+          "media_count": 47,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-11T02:39:52.000Z",
+        "description": "含糖了！妹妹头xyn 2010/5/21 性别是（女孩子）（友跨友彩虹友顺直友一切不要对我说不好的话就可以），是一只芝士，平常会分享日常什么的。无雷无门槛聊得来就加。是mtf🍥",
+        "id": "1899289095794479104",
+        "name": "ZS🧀cheese🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2080732209745739867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899687029455417344/I_R2yYvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 135,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 762
+        },
+        "url": "",
+        "username": "zs1341110279",
+        "verified": false
+      }
+    ]
+  }
+}

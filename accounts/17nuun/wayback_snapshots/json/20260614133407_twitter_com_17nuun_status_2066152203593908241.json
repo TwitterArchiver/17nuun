@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066058921421467762",
+    "created_at": "2026-06-14T13:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066152203593908241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605093608910381056",
+          "start": 0,
+          "username": "suekageseikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066152203593908241",
+    "in_reply_to_user_id": "1605093608910381056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066144230154834420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suekageseikiyo 哇，好期待！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066058921421467762",
+        "created_at": "2026-06-14T13:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066152203593908241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605093608910381056",
+              "start": 0,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066152203593908241",
+        "in_reply_to_user_id": "1605093608910381056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066144230154834420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suekageseikiyo 哇，好期待！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2066058921421467762",
+        "created_at": "2026-06-14T13:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066144230154834420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066144230154834420",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066058921421467762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 当时给咱面诊的就是这位大夫，刚进去就被鉴跨了，还夸咱长得清秀来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 51,
+          "like_count": 210,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 554
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 592,
+          "like_count": 5864,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 708
+        },
+        "username": "suekageseikiyo",
+        "verified": true
+      }
+    ]
+  }
+}

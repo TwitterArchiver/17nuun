@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064680488447647744"
+      ],
+      "media_source_tweet_id": [
+        "2064680492381999342"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064693095858421904",
+    "created_at": "2026-06-10T12:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064693095858421904"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "伪娘"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "男娘"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "mtf"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "药娘"
+        },
+        {
+          "end": 61,
+          "start": 57,
+          "tag": "跨性别"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750621119445651456",
+          "start": 3,
+          "username": "Bolimantou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7LAFFpVbyH",
+          "end": 85,
+          "expanded_url": "https://x.com/Bolimantou/status/2064680492381999342/photo/1",
+          "media_key": "3_2064680488447647744",
+          "start": 62,
+          "url": "https://t.co/7LAFFpVbyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064693095858421904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064680492381999342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bolimantou: 想起曾经还在河南的时候，河南的朋友都叫我媚馍。\n＃伪娘 ＃男娘 ＃mtf ＃药娘 ＃跨性别 https://t.co/7LAFFpVbyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064680488447647744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKc39xCaIAAgM7U.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064680488447647744"
+          ],
+          "media_source_tweet_id": [
+            "2064680492381999342"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064693095858421904",
+        "created_at": "2026-06-10T12:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064693095858421904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "伪娘"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "男娘"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "mtf"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "药娘"
+            },
+            {
+              "end": 61,
+              "start": 57,
+              "tag": "跨性别"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750621119445651456",
+              "start": 3,
+              "username": "Bolimantou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7LAFFpVbyH",
+              "end": 85,
+              "expanded_url": "https://x.com/Bolimantou/status/2064680492381999342/photo/1",
+              "media_key": "3_2064680488447647744",
+              "start": 62,
+              "url": "https://t.co/7LAFFpVbyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064693095858421904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064680492381999342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bolimantou: 想起曾经还在河南的时候，河南的朋友都叫我媚馍。\n＃伪娘 ＃男娘 ＃mtf ＃药娘 ＃跨性别 https://t.co/7LAFFpVbyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064680488447647744"
+          ]
+        },
+        "author_id": "1750621119445651456",
+        "conversation_id": "2064680492381999342",
+        "created_at": "2026-06-10T12:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064680492381999342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "伪娘"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "男娘"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "mtf"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "药娘"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7LAFFpVbyH",
+              "end": 69,
+              "expanded_url": "https://x.com/Bolimantou/status/2064680492381999342/photo/1",
+              "media_key": "3_2064680488447647744",
+              "start": 46,
+              "url": "https://t.co/7LAFFpVbyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064680492381999342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想起曾经还在河南的时候，河南的朋友都叫我媚馍。\n＃伪娘 ＃男娘 ＃mtf ＃药娘 ＃跨性别 https://t.co/7LAFFpVbyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 31,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 354
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T20:46:25.000Z",
+        "description": "只是一个馒头（药物上瘾/依存中毒/铃原树）",
+        "id": "1750621119445651456",
+        "location": "扬州",
+        "name": "玻璃馒头ღ",
+        "pinned_tweet_id": "1795865290154393951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787162186936393728/JJrNvSHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6001,
+          "following_count": 1193,
+          "like_count": 2265,
+          "listed_count": 10,
+          "media_count": 453,
+          "tweet_count": 1576
+        },
+        "username": "Bolimantou",
+        "verified": false
+      }
+    ]
+  }
+}

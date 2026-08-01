@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067567236471259136"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2067504461292179924",
+    "created_at": "2026-06-18T11:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067567452335321381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HSZzJ93Doo",
+          "end": 31,
+          "expanded_url": "https://x.com/17nuun/status/2067567452335321381/photo/1",
+          "media_key": "3_2067567236471259136",
+          "start": 8,
+          "url": "https://t.co/HSZzJ93Doo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067567452335321381",
+    "in_reply_to_user_id": "2063266311254552576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067504461292179924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜，谢谢... https://t.co/HSZzJ93Doo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_2067567236471259136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF5cncbAAAZNOI.jpg",
+        "width": 1176
+      },
+      {
+        "height": 762,
+        "media_key": "3_2067504451213303808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFAWCIboAAsjI0.jpg",
+        "width": 762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067567236471259136"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067504461292179924",
+        "created_at": "2026-06-18T11:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067567452335321381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HSZzJ93Doo",
+              "end": 31,
+              "expanded_url": "https://x.com/17nuun/status/2067567452335321381/photo/1",
+              "media_key": "3_2067567236471259136",
+              "start": 8,
+              "url": "https://t.co/HSZzJ93Doo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067567452335321381",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067504461292179924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜，谢谢... https://t.co/HSZzJ93Doo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067504451213303808"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067504461292179924",
+        "created_at": "2026-06-18T07:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067504461292179924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 116,
+              "id": "2066487415678918657",
+              "start": 100,
+              "username": "haiyueshuimuxia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kC3map9CbX",
+              "end": 175,
+              "expanded_url": "https://x.com/17nuun/status/2067504461292179924/photo/1",
+              "media_key": "3_2067504451213303808",
+              "start": 152,
+              "url": "https://t.co/kC3map9CbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067504461292179924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号被封禁了,但是17已经回来了!!!\n这个账号现在计划为发梗图赚钱的账号(也是大号)\n未来可能会拿这个账号发梗图赚生活费和糖钱!\n最近17真的一点生活费和资金都没有了🥺🥺🥺\n求打赏...😭...\n\n@haiyueshuimuxia 是17的个人账号,请大家来关注17喵,关注17喵~关注17谢谢喵~! https://t.co/kC3map9CbX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067504461292179924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 616,
+          "like_count": 359,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 666
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

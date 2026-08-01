@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063879231520817250",
+    "created_at": "2026-06-09T13:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064341245510447151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063085390668689408",
+          "start": 0,
+          "username": "tomorrowomg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064341245510447151",
+    "in_reply_to_user_id": "2063085390668689408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063879231520817250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomorrowomg 这个图看起来趋势好明显…\n不过样本来源感觉会很影响结论欸，隐性群体本来就很难被看见（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_2063877275666595840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRdcoQbwAAk31p.jpg",
+        "width": 2067
+      },
+      {
+        "height": 1394,
+        "media_key": "3_2063877991965573120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKReGUrawAAOsiv.png",
+        "width": 2559
+      },
+      {
+        "height": 1404,
+        "media_key": "3_2063878137667305472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKReOzdawAAlc2H.png",
+        "width": 2504
+      },
+      {
+        "height": 1409,
+        "media_key": "3_2063878207322116096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKReS28a0AA_jCY.jpg",
+        "width": 2550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063879231520817250",
+        "created_at": "2026-06-09T13:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064341245510447151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063085390668689408",
+              "start": 0,
+              "username": "tomorrowomg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064341245510447151",
+        "in_reply_to_user_id": "2063085390668689408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063879231520817250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomorrowomg 这个图看起来趋势好明显…\n不过样本来源感觉会很影响结论欸，隐性群体本来就很难被看见（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063877275666595840",
+            "3_2063877991965573120",
+            "3_2063878137667305472",
+            "3_2063878207322116096"
+          ]
+        },
+        "author_id": "2063085390668689408",
+        "conversation_id": "2063879231520817250",
+        "created_at": "2026-06-08T07:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063879231520817250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5LXwfuzRML",
+              "end": 127,
+              "expanded_url": "https://x.com/tomorrowomg/status/2063879231520817250/photo/1",
+              "media_key": "3_2063877275666595840",
+              "start": 104,
+              "url": "https://t.co/5LXwfuzRML"
+            },
+            {
+              "display_url": "pic.x.com/5LXwfuzRML",
+              "end": 127,
+              "expanded_url": "https://x.com/tomorrowomg/status/2063879231520817250/photo/1",
+              "media_key": "3_2063877991965573120",
+              "start": 104,
+              "url": "https://t.co/5LXwfuzRML"
+            },
+            {
+              "display_url": "pic.x.com/5LXwfuzRML",
+              "end": 127,
+              "expanded_url": "https://x.com/tomorrowomg/status/2063879231520817250/photo/1",
+              "media_key": "3_2063878137667305472",
+              "start": 104,
+              "url": "https://t.co/5LXwfuzRML"
+            },
+            {
+              "display_url": "pic.x.com/5LXwfuzRML",
+              "end": 127,
+              "expanded_url": "https://x.com/tomorrowomg/status/2063879231520817250/photo/1",
+              "media_key": "3_2063878207322116096",
+              "start": 104,
+              "url": "https://t.co/5LXwfuzRML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063879231520817250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4629,
+          "like_count": 38,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "通过在网站上找到的样本数据对国内mtf的群体数量（包括隐性的mtf）以及各个学历的分布情况进行数据分析，我自己用py做了一个图（不想看文章的直接看图），学历越高mtf群体出现的概率越高，以及原作者的一些猜测 https://t.co/5LXwfuzRML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 283
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T02:28:39.000Z",
+        "description": "INFJ/户外/摄影风光/山地车/CD/06/广州天河/评论互fo/币圈/烂番茄小说作者/cs饰品  后世@KateLee15458   当朋友圈发\n\n剪輯萌新+player 一枚\n球球諸位點點讚吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "KateLee15458"
+              }
+            ]
+          }
+        },
+        "id": "2063085390668689408",
+        "location": "Hong Kong",
+        "name": "水清歡🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063616314292449281/EwJxOWco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 76,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 57
+        },
+        "username": "tomorrowomg",
+        "verified": true
+      }
+    ]
+  }
+}

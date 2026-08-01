@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2079403894543966360",
+    "created_at": "2026-07-21T06:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T07:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079460128093569343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079460128093569343",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079459357792801243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo 超级想黑切"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2079403894543966360",
+        "created_at": "2026-07-21T06:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079460128093569343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079460128093569343",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079459357792801243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo 超级想黑切"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2079403894543966360",
+        "created_at": "2026-07-21T06:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T07:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079459357792801243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            },
+            {
+              "end": 23,
+              "id": "2063957681984225280",
+              "start": 13,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079459357792801243",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079403894543966360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 黑切？？\n@YuwenMewo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 165,
+          "like_count": 664,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2078947357216170444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 79,
+          "like_count": 177,
+          "listed_count": 5,
+          "media_count": 596,
+          "tweet_count": 1691
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

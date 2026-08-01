@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063963544572563456"
+      ],
+      "media_source_tweet_id": [
+        "2063963703549317548"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064228320829386975",
+    "created_at": "2026-06-09T06:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064228320829386975"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "mtf"
+        },
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "跨性别"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "xyn"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "药娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029291241704439808",
+          "start": 3,
+          "username": "20satsumaimo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/38OS4738An",
+          "end": 83,
+          "expanded_url": "https://x.com/20satsumaimo/status/2063963703549317548/photo/1",
+          "media_key": "3_2063963544572563456",
+          "start": 60,
+          "url": "https://t.co/38OS4738An"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064228320829386975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063963703549317548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @20satsumaimo: 可能是全网第一个被特许在公安局大厅抽烟的药娘 #mtf #跨性别 #xyn #药娘 https://t.co/38OS4738An"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063963544572563456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSr6I-akAAYD44.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063963544572563456"
+          ],
+          "media_source_tweet_id": [
+            "2063963703549317548"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064228320829386975",
+        "created_at": "2026-06-09T06:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064228320829386975"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "mtf"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "跨性别"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "xyn"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "药娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029291241704439808",
+              "start": 3,
+              "username": "20satsumaimo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38OS4738An",
+              "end": 83,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063963703549317548/photo/1",
+              "media_key": "3_2063963544572563456",
+              "start": 60,
+              "url": "https://t.co/38OS4738An"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064228320829386975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063963703549317548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @20satsumaimo: 可能是全网第一个被特许在公安局大厅抽烟的药娘 #mtf #跨性别 #xyn #药娘 https://t.co/38OS4738An"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063963544572563456"
+          ]
+        },
+        "author_id": "2029291241704439808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063963703549317548",
+        "created_at": "2026-06-08T12:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063963703549317548"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "mtf"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "跨性别"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "xyn"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38OS4738An",
+              "end": 65,
+              "expanded_url": "https://x.com/20satsumaimo/status/2063963703549317548/photo/1",
+              "media_key": "3_2063963544572563456",
+              "start": 42,
+              "url": "https://t.co/38OS4738An"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063963703549317548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5957,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可能是全网第一个被特许在公安局大厅抽烟的药娘 #mtf #跨性别 #xyn #药娘 https://t.co/38OS4738An"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 223
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T20:25:12.000Z",
+        "description": "mtf/有证含糖/02年/基本待人友善/OD/不割手/疑似严重躁狂（叫我红薯就好啦～",
+        "id": "2029291241704439808",
+        "name": "是红薯呀～🍥",
+        "pinned_tweet_id": "2038964958881575022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964782033752064/ozF77ljw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 1,
+          "like_count": 109,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 137
+        },
+        "username": "20satsumaimo",
+        "verified": true
+      }
+    ]
+  }
+}

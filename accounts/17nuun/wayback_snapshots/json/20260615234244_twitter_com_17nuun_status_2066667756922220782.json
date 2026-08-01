@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066667756922220782",
+    "created_at": "2026-06-15T23:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066667756922220782"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066667756922220782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在严肃思考为什么像是跨圈知名人物名单明明水母大号有3000fo\n\n水母应该也算是在跨圈活跃吧？\n\n却没有知名度？\n\n木桶饭的大家真的见过17嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066667756922220782",
+        "created_at": "2026-06-15T23:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066667756922220782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066667756922220782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在严肃思考为什么像是跨圈知名人物名单明明水母大号有3000fo\n\n水母应该也算是在跨圈活跃吧？\n\n却没有知名度？\n\n木桶饭的大家真的见过17嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 58,
+          "like_count": 244,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 581
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

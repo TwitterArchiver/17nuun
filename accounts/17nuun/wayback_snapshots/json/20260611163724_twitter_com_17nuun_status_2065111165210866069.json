@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065111165210866069",
+    "created_at": "2026-06-11T16:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065111165210866069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NanxinMTF/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/NanxinMTF/status/2065080477841580407",
+          "start": 16,
+          "url": "https://t.co/pYC1ExalAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065111165210866069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065080477841580407",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自觉归自觉，但你的声音确实珍贵 https://t.co/pYC1ExalAI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065111165210866069",
+        "created_at": "2026-06-11T16:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065111165210866069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NanxinMTF/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/NanxinMTF/status/2065080477841580407",
+              "start": 16,
+              "url": "https://t.co/pYC1ExalAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065111165210866069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065080477841580407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自觉归自觉，但你的声音确实珍贵 https://t.co/pYC1ExalAI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063820793214377984",
+        "conversation_id": "2065080477841580407",
+        "created_at": "2026-06-11T14:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065080477841580407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shiraishiwatar…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Shiraishiwatari/status/2064752223339348122",
+              "start": 26,
+              "url": "https://t.co/n1wlkccxJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065080477841580407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064752223339348122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“轮不到我说话”的自觉… 但你的声音本身就很珍贵。 https://t.co/n1wlkccxJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 36,
+          "like_count": 111,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 422
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T03:10:52.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/30|药娘小资历| ENTP| 生产日期2010/10/19 | 174厘米 | 75公斤| 摄影📹| LGBT 🏳️‍🌈 | Oder💊 | 不自残 | 不抽烟 | 不喝酒 | 非常helpful的南盺 | 小南 | 舍友@TransYuwen｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 135,
+                "username": "TransYuwen"
+              }
+            ]
+          }
+        },
+        "id": "2063820793214377984",
+        "name": "南盺酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063821144675991552/j5rc-jB1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 18,
+          "like_count": 95,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 237
+        },
+        "username": "NanxinMTF",
+        "verified": false
+      }
+    ]
+  }
+}

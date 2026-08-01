@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064220019605623023",
+    "created_at": "2026-06-09T05:36:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064220019605623023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quite8964/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/quite8964/status/2063990930252972098",
+          "start": 18,
+          "url": "https://t.co/nxadsxFr0C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064220019605623023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063990930252972098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个配色真的好软…带去机厅会赢吧w https://t.co/nxadsxFr0C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063990900074983424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTEycKbsAAVp1k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064220019605623023",
+        "created_at": "2026-06-09T05:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064220019605623023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quite8964/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/quite8964/status/2063990930252972098",
+              "start": 18,
+              "url": "https://t.co/nxadsxFr0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064220019605623023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063990930252972098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个配色真的好软…带去机厅会赢吧w https://t.co/nxadsxFr0C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063990900074983424"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063990930252972098",
+        "created_at": "2026-06-08T14:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063990930252972098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3t0PkL9DHd",
+              "end": 45,
+              "expanded_url": "https://x.com/quite8964/status/2063990930252972098/photo/1",
+              "media_key": "3_2063990900074983424",
+              "start": 22,
+              "url": "https://t.co/3t0PkL9DHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063990930252972098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱的蓝粉白迪拉熊挂件，我要带去机厅😺😺😺 https://t.co/3t0PkL9DHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 218
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2056638754618851812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10809,
+          "following_count": 3118,
+          "like_count": 33546,
+          "listed_count": 30,
+          "media_count": 651,
+          "tweet_count": 14805
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

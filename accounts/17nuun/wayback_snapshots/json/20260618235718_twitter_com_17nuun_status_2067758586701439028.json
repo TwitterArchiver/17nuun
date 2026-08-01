@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067758330362417152",
+        "3_2067758568951177216"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2067758586701439028",
+    "created_at": "2026-06-18T23:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T00:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067758586701439028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/euxdlmijwS",
+          "end": 41,
+          "expanded_url": "https://x.com/17nuun/status/2067758586701439028/video/1",
+          "media_key": "13_2067758330362417152",
+          "start": 18,
+          "url": "https://t.co/euxdlmijwS"
+        },
+        {
+          "display_url": "pic.x.com/euxdlmijwS",
+          "end": 41,
+          "expanded_url": "https://x.com/17nuun/status/2067758586701439028/video/1",
+          "media_key": "3_2067758568951177216",
+          "start": 18,
+          "url": "https://t.co/euxdlmijwS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067758586701439028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个视频比片还难找\n(后续狗没事) https://t.co/euxdlmijwS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16931,
+        "height": 626,
+        "media_key": "13_2067758330362417152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067758330362417152/img/A3FOBfRL9MAR2XxF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067758330362417152/vid/avc1/552x270/MzCASqseLVTVyMAH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067758330362417152/vid/avc1/736x360/zKpzFZpIhFeh1UsC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067758330362417152/vid/avc1/1280x626/nyEoiYDKBTgBsAFg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067758330362417152/pl/QeKpK8yq8SZ2DBKk.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 302,
+        "media_key": "3_2067758568951177216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIndoea4AAcYbh.jpg",
+        "width": 269
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067758330362417152",
+            "3_2067758568951177216"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067758586701439028",
+        "created_at": "2026-06-18T23:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067758586701439028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/euxdlmijwS",
+              "end": 41,
+              "expanded_url": "https://x.com/17nuun/status/2067758586701439028/video/1",
+              "media_key": "13_2067758330362417152",
+              "start": 18,
+              "url": "https://t.co/euxdlmijwS"
+            },
+            {
+              "display_url": "pic.x.com/euxdlmijwS",
+              "end": 41,
+              "expanded_url": "https://x.com/17nuun/status/2067758586701439028/video/1",
+              "media_key": "3_2067758568951177216",
+              "start": 18,
+              "url": "https://t.co/euxdlmijwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067758586701439028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个视频比片还难找\n(后续狗没事) https://t.co/euxdlmijwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067504461292179924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 630,
+          "like_count": 364,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

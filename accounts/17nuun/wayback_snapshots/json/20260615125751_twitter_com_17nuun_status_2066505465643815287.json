@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066505465643815287",
+    "created_at": "2026-06-15T12:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T13:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066505465643815287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haiyueshuimuxi…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/haiyueshuimuxia/status/2066504518880407855",
+          "start": 40,
+          "url": "https://t.co/z3mwrP3L3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066505465643815287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066504518880407855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在看着这两个可怜的新号觉得一切都没有意义了呢\n\n果然17终究生不带来死不带走 https://t.co/z3mwrP3L3H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066505465643815287",
+        "created_at": "2026-06-15T12:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066505465643815287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haiyueshuimuxi…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/haiyueshuimuxia/status/2066504518880407855",
+              "start": 40,
+              "url": "https://t.co/z3mwrP3L3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066505465643815287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066504518880407855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在看着这两个可怜的新号觉得一切都没有意义了呢\n\n果然17终究生不带来死不带走 https://t.co/z3mwrP3L3H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2066504518880407855",
+        "created_at": "2026-06-15T12:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T13:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066504518880407855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066504518880407855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "要是3000fo的大号回不来感觉17曾经所做的一切都无意义了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 59,
+          "like_count": 240,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 580
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "",
+        "id": "2066487415678918657",
+        "name": "海月水水母小17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488575466872832/r7LqRx6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "haiyueshuimuxia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2078046378190946623",
+    "created_at": "2026-07-17T09:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078050597224563117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1902735424839413760",
+          "start": 0,
+          "username": "litgraley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078050597224563117",
+    "in_reply_to_user_id": "1902735424839413760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078049525999206437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litgraley 哇啊，悲(&gt;_&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2078046378190946623",
+        "created_at": "2026-07-17T09:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078050597224563117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1902735424839413760",
+              "start": 0,
+              "username": "litgraley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078050597224563117",
+        "in_reply_to_user_id": "1902735424839413760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078049525999206437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litgraley 哇啊，悲(&gt;_&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902735424839413760",
+        "conversation_id": "2078046378190946623",
+        "created_at": "2026-07-17T09:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078049525999206437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078049525999206437",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078046378190946623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 当时手机跟我说是广告我就挂了（大悲）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 139,
+          "like_count": 568,
+          "listed_count": 5,
+          "media_count": 28,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T14:54:21.000Z",
+        "description": "飞友，常驻pek……/intj/喜欢抹茶/172/56/你要请我去喝茶吗🍵/啊我不是跨/https://t.co/0HgeZUiXZG我不是跨。。。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/litgraley/",
+                "end": 67,
+                "expanded_url": "https://ngl.link/litgraley/",
+                "start": 44,
+                "url": "https://t.co/0HgeZUiXZG"
+              }
+            ]
+          }
+        },
+        "id": "1902735424839413760",
+        "location": "你被窝里~",
+        "name": "一只小灰（e？~~~）",
+        "pinned_tweet_id": "2058180277135114281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934651170381049856/37g2ZeFl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 932,
+          "like_count": 39929,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 6257
+        },
+        "url": "",
+        "username": "litgraley",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2067454901593235537",
+    "created_at": "2026-06-18T07:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T08:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067504219561857351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721587334351880192",
+          "start": 0,
+          "username": "yang1085060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067504219561857351",
+    "in_reply_to_user_id": "1721587334351880192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067502115866742986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yang1085060 嗷呜(被捉捕)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067454901593235537",
+        "created_at": "2026-06-18T07:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067504219561857351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721587334351880192",
+              "start": 0,
+              "username": "yang1085060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067504219561857351",
+        "in_reply_to_user_id": "1721587334351880192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067502115866742986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yang1085060 嗷呜(被捉捕)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721587334351880192",
+        "conversation_id": "2067454901593235537",
+        "created_at": "2026-06-18T06:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067502115866742986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067502115866742986",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067454901593235537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 是手拿水母"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 568,
+          "like_count": 347,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 652
+        },
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-06T17:56:30.000Z",
+        "description": "我把自己杨乾的脑花都掏出来吃掉 好吗 暖言猫猫只是我的星怒",
+        "id": "1721587334351880192",
+        "location": "暖言猫猫草皮议会",
+        "name": "星空与沙子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037514575961350144/EJJFL454_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 59
+        },
+        "username": "yang1085060",
+        "verified": false
+      }
+    ]
+  }
+}

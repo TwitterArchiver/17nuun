@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2071862139606716416"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2071959691844870573",
+    "created_at": "2026-06-30T14:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071959691844870573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhEkVLq8Td",
+          "end": 28,
+          "expanded_url": "https://x.com/17nuun/status/2071959691844870573/video/1",
+          "media_key": "13_2071862139606716416",
+          "start": 5,
+          "url": "https://t.co/rhEkVLq8Td"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071959691844870573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看着就痛 https://t.co/rhEkVLq8Td"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8034,
+        "height": 592,
+        "media_key": "13_2071862139606716416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071862139606716416/img/Homu1ZN4lU1FVYZr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071862139606716416/vid/avc1/320x526/1y80goLRqAlSTG1I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071862139606716416/vid/avc1/360x592/mSQRgOnLgkmT5_Vo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071862139606716416/pl/e25vbYEfO8DDLy29.m3u8"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2071862139606716416"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2071959691844870573",
+        "created_at": "2026-06-30T14:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071959691844870573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhEkVLq8Td",
+              "end": 28,
+              "expanded_url": "https://x.com/17nuun/status/2071959691844870573/video/1",
+              "media_key": "13_2071862139606716416",
+              "start": 5,
+              "url": "https://t.co/rhEkVLq8Td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071959691844870573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看着就痛 https://t.co/rhEkVLq8Td"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/双相/INFP /💊活在春风里/\n优质内容在咱亮点里~\n最爱的小孩@dnshu135734 /小号是@danshuishuimu @mizukix178\n👇下面加tg或问问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "mizukix178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/51bucExiuc"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2071050529632129179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2618,
+          "following_count": 1563,
+          "like_count": 451,
+          "listed_count": 5,
+          "media_count": 496,
+          "tweet_count": 1168
+        },
+        "url": "https://t.co/51bucExiuc",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

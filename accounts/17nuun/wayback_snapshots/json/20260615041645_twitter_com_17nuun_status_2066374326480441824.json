@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066374326480441824",
+    "created_at": "2026-06-15T04:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066374326480441824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066374326480441824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在在前往回龙观的旅途上，开心w\n吃了滨寿司，好吃喵\n好紧张\n\n能开证成功吗？\n\n不知道精神病病症在医生眼里严不严重怎么治疗..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066374326480441824",
+        "created_at": "2026-06-15T04:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066374326480441824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066374326480441824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在在前往回龙观的旅途上，开心w\n吃了滨寿司，好吃喵\n好紧张\n\n能开证成功吗？\n\n不知道精神病病症在医生眼里严不严重怎么治疗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 53,
+          "like_count": 221,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 567
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

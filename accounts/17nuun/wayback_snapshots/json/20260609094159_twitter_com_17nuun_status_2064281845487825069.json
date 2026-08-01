@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064235799231844642",
+    "created_at": "2026-06-09T09:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T10:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064281845487825069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055911737208315904",
+          "start": 0,
+          "username": "omgnowihasfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064281845487825069",
+    "in_reply_to_user_id": "2055911737208315904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064235799231844642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihasfish 呃呃，被切片了吗（\n但这里还是会碎碎念的w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064235799231844642",
+        "created_at": "2026-06-09T09:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T10:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064281845487825069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055911737208315904",
+              "start": 0,
+              "username": "omgnowihasfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064281845487825069",
+        "in_reply_to_user_id": "2055911737208315904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064235799231844642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihasfish 呃呃，被切片了吗（\n但这里还是会碎碎念的w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055911737208315904",
+        "conversation_id": "2064235799231844642",
+        "created_at": "2026-06-09T06:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064235799231844642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/17nuun/status/2063457816569082263",
+              "start": 8,
+              "url": "https://t.co/QYeJ4PDXU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064235799231844642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063457816569082263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AI屍塊都來了 https://t.co/QYeJ4PDXU2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 258
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市 \n2009/12/24",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=Gnc7ktA0TsADpGRe",
+                "start": 0,
+                "url": "https://t.co/FZ1JCwuotB"
+              }
+            ]
+          }
+        },
+        "id": "2055911737208315904",
+        "location": "台中市, 台灣",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 539,
+          "like_count": 2051,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/FZ1JCwuotB",
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

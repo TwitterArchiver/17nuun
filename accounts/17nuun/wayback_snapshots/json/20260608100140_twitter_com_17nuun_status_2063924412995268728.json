@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063924412995268728",
+    "created_at": "2026-06-08T10:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063924412995268728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063924412995268728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讨厌那种很大声的世界\n什么都要赢\n什么都要证明\n17只想在角落里把毛毯裹好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063924412995268728",
+        "created_at": "2026-06-08T10:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063924412995268728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063924412995268728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌那种很大声的世界\n什么都要赢\n什么都要证明\n17只想在角落里把毛毯裹好…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 29,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 103
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

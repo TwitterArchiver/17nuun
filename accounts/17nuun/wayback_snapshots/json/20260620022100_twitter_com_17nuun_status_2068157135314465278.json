@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068117019564912640"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2068157135314465278",
+    "created_at": "2026-06-20T02:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T03:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068157135314465278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AslLpiQAMq",
+          "end": 56,
+          "expanded_url": "https://x.com/17nuun/status/2068157135314465278/video/1",
+          "media_key": "13_2068117019564912640",
+          "start": 33,
+          "url": "https://t.co/AslLpiQAMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068157135314465278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "声音女性化（伪声）技巧——针对跨性别MtF\n原作者:B站あおぎ葵 https://t.co/AslLpiQAMq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1438208,
+        "height": 480,
+        "media_key": "13_2068117019564912640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068117019564912640/img/SZZiPueLYJVBexch.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068117019564912640/vid/avc1/478x270/ghoCUff601d0_POV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068117019564912640/vid/avc1/638x360/SHgwupulQjK88ERp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068117019564912640/vid/avc1/852x480/M-ymahzl-78f4dXi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068117019564912640/pl/OQdYhMdOvn-4y0sV.m3u8"
+          }
+        ],
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068117019564912640"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2068157135314465278",
+        "created_at": "2026-06-20T02:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068157135314465278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AslLpiQAMq",
+              "end": 56,
+              "expanded_url": "https://x.com/17nuun/status/2068157135314465278/video/1",
+              "media_key": "13_2068117019564912640",
+              "start": 33,
+              "url": "https://t.co/AslLpiQAMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068157135314465278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声音女性化（伪声）技巧——针对跨性别MtF\n原作者:B站あおぎ葵 https://t.co/AslLpiQAMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 693,
+          "like_count": 388,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 714
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

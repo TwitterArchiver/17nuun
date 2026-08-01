@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064206830222356847",
+    "created_at": "2026-06-09T04:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064206830222356847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063957681984225280",
+          "start": 3,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064206830222356847",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064205792593780815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuwenMewo: MTF的理工思维（）\n太刻板了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064206830222356847",
+        "created_at": "2026-06-09T04:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064206830222356847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063957681984225280",
+              "start": 3,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064206830222356847",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064205792593780815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuwenMewo: MTF的理工思维（）\n太刻板了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2064205792593780815",
+        "created_at": "2026-06-09T04:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064205792593780815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikarou233086/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/hikarou233086/status/2064149159394082986",
+              "start": 16,
+              "url": "https://t.co/x5SWWNtRYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064205792593780815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064149159394082986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MTF的理工思维（）\n太刻板了 https://t.co/x5SWWNtRYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 197
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2064204906005966889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 10,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 75
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

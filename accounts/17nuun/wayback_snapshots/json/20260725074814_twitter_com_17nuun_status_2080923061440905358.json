@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2080923061440905358",
+    "created_at": "2026-07-25T07:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080923061440905358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "随机匹配匿名真人或 AI，在十分钟聊天中互相试探并判断对方身份。免费、无需账号，双方都在观察彼此。",
+          "display_url": "anyanygame.com/turing-test",
+          "end": 45,
+          "expanded_url": "https://www.anyanygame.com/turing-test",
+          "start": 22,
+          "status": 200,
+          "title": "图灵测试：屏幕那边，是人吗？ - 任意门",
+          "unwound_url": "https://www.anyanygame.com/turing-test",
+          "url": "https://t.co/GPm0TB0yyI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080923061440905358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个网站好好玩！\n你是人机嘛？你是机吧！😆\nhttps://t.co/GPm0TB0yyI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2080923061440905358",
+        "created_at": "2026-07-25T07:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080923061440905358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "随机匹配匿名真人或 AI，在十分钟聊天中互相试探并判断对方身份。免费、无需账号，双方都在观察彼此。",
+              "display_url": "anyanygame.com/turing-test",
+              "end": 45,
+              "expanded_url": "https://www.anyanygame.com/turing-test",
+              "start": 22,
+              "status": 200,
+              "title": "图灵测试：屏幕那边，是人吗？ - 任意门",
+              "unwound_url": "https://www.anyanygame.com/turing-test",
+              "url": "https://t.co/GPm0TB0yyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080923061440905358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个网站好好玩！\n你是人机嘛？你是机吧！😆\nhttps://t.co/GPm0TB0yyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 140,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 117,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 206,
+          "like_count": 822,
+          "listed_count": 5,
+          "media_count": 35,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

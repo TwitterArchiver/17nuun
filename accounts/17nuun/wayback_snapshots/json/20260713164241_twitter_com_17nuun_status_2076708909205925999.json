@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2076003103716086144",
+    "created_at": "2026-07-13T16:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076708909205925999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045308579729625089",
+          "start": 0,
+          "username": "cybercat868"
+        },
+        {
+          "end": 28,
+          "id": "1748064252521545731",
+          "start": 13,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076708909205925999",
+    "in_reply_to_user_id": "2045308579729625089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076096158548811788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cybercat868 @mihuanhuanhuan 70天..........."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2076003103716086144",
+        "created_at": "2026-07-13T16:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076708909205925999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045308579729625089",
+              "start": 0,
+              "username": "cybercat868"
+            },
+            {
+              "end": 28,
+              "id": "1748064252521545731",
+              "start": 13,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076708909205925999",
+        "in_reply_to_user_id": "2045308579729625089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076096158548811788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cybercat868 @mihuanhuanhuan 70天..........."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045308579729625089",
+        "conversation_id": "2076003103716086144",
+        "created_at": "2026-07-12T00:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T01:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076096158548811788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748064252521545731",
+              "start": 0,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076096158548811788",
+        "in_reply_to_user_id": "1748064252521545731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076003103716086144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mihuanhuanhuan 我想问一下。。。距离水水离世多长时间了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 140,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 117,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 124,
+          "like_count": 514,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-18T01:11:09.000Z",
+        "description": "大家好喵，我是白鸠叶，一位mtf，喜欢电脑，archlinuxcn社区，不自残与od，十分严重的自杀想法",
+        "id": "2045308579729625089",
+        "name": "cybercat（白鸠叶）🏳️‍⚧️",
+        "pinned_tweet_id": "2052265156412158136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045309124850671616/F0k1u4nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 228,
+          "like_count": 2438,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "cybercat868",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "杭州拍摄剪辑/mtx/intp\n懂一点点心理学和商业\n如果你有自杀风险或者od失控风险请远离我",
+        "id": "1748064252521545731",
+        "location": "杭州",
+        "name": "迷幻章鱼🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 531,
+          "like_count": 3580,
+          "listed_count": 2,
+          "media_count": 538,
+          "tweet_count": 3922
+        },
+        "url": "",
+        "username": "mihuanhuanhuan",
+        "verified": true
+      }
+    ]
+  }
+}

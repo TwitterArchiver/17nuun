@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066050118022009238",
+    "created_at": "2026-06-14T08:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066078666451480688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1699107168807706625",
+          "start": 0,
+          "username": "yueqingzou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066078666451480688",
+    "in_reply_to_user_id": "1699107168807706625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066050118022009238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueqingzou 哇，好吃好喝喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2066049945128607744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwVeoubIAAckyS.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2066050026913349634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwVjZZbQAInFv1.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066050118022009238",
+        "created_at": "2026-06-14T08:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066078666451480688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1699107168807706625",
+              "start": 0,
+              "username": "yueqingzou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066078666451480688",
+        "in_reply_to_user_id": "1699107168807706625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066050118022009238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueqingzou 哇，好吃好喝喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066049945128607744",
+            "3_2066050026913349634"
+          ]
+        },
+        "author_id": "1699107168807706625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066050118022009238",
+        "created_at": "2026-06-14T06:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066050118022009238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/idVb1BKg8d",
+              "end": 42,
+              "expanded_url": "https://x.com/yueqingzou/status/2066050118022009238/photo/1",
+              "media_key": "3_2066049945128607744",
+              "start": 19,
+              "url": "https://t.co/idVb1BKg8d"
+            },
+            {
+              "display_url": "pic.x.com/idVb1BKg8d",
+              "end": 42,
+              "expanded_url": "https://x.com/yueqingzou/status/2066050118022009238/photo/1",
+              "media_key": "3_2066050026913349634",
+              "start": 19,
+              "url": "https://t.co/idVb1BKg8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066050118022009238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了西红柿炒鸡蛋，辣椒炒肉\n好吃喵☆ https://t.co/idVb1BKg8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 49,
+          "like_count": 192,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 540
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:09:03.000Z",
+        "description": "音游账号@leqingzou/hrt2022.12.2🏳️‍⚧️/🈚证/some blood/大学生 休学ing~/熬夜党/家暴党/179cm/60kg/地址:成都/oopz频道：782238569/bilibili直播间:12808097/匿名提问箱:https://t.co/0c8hOkT4Nq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/leqingzou",
+                "end": 150,
+                "expanded_url": "https://ngl.link/leqingzou",
+                "start": 127,
+                "url": "https://t.co/0c8hOkT4Nq"
+              }
+            ]
+          }
+        },
+        "id": "1699107168807706625",
+        "name": "晓乐\\🍥/",
+        "pinned_tweet_id": "2055183135693058079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004207120267595778/erS2uxRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1960,
+          "like_count": 6580,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 2802
+        },
+        "username": "yueqingzou",
+        "verified": false
+      }
+    ]
+  }
+}

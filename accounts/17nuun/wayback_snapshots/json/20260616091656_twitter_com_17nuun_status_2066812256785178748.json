@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066760857493901415",
+    "created_at": "2026-06-16T09:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066812256785178748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1694949132098584576",
+          "start": 0,
+          "username": "CAawaish"
+        },
+        {
+          "end": 26,
+          "id": "2066487415678918657",
+          "start": 10,
+          "username": "haiyueshuimuxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066812256785178748",
+    "in_reply_to_user_id": "1694949132098584576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066811593795735578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CAawaish @haiyueshuimuxia 不是，这个账号现在是17本人在用，直接从tyw手里拿走的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066760857493901415",
+        "created_at": "2026-06-16T09:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066812256785178748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694949132098584576",
+              "start": 0,
+              "username": "CAawaish"
+            },
+            {
+              "end": 26,
+              "id": "2066487415678918657",
+              "start": 10,
+              "username": "haiyueshuimuxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066812256785178748",
+        "in_reply_to_user_id": "1694949132098584576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066811593795735578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAawaish @haiyueshuimuxia 不是，这个账号现在是17本人在用，直接从tyw手里拿走的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694949132098584576",
+        "conversation_id": "2066760857493901415",
+        "created_at": "2026-06-16T09:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066811593795735578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            },
+            {
+              "end": 24,
+              "id": "2066487415678918657",
+              "start": 8,
+              "username": "haiyueshuimuxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066811593795735578",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066760857493901415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun @haiyueshuimuxia 你是tyw搞的AI嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2066760857493901415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 105,
+          "like_count": 282,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 603
+        },
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-25T05:45:54.000Z",
+        "description": "是原catfish_speaking_awaish || 代詞使用也/他/其\n阿瓦！AwA！ || 以心爲鑒 夢歸瓦蘭\n很好，玄微又一次忘记了自己原来的密码，第三个帐号了（捂脸）\n@xuan2wei1 也是本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "xuan2wei1"
+              }
+            ]
+          }
+        },
+        "id": "1694949132098584576",
+        "location": "Awaland",
+        "name": "語阿瓦語的貓余",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027017744273784832/SIUehPyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 220,
+          "like_count": 16402,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1250
+        },
+        "username": "CAawaish",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜sub｜mtf｜06｜心境情感障碍｜INFP｜💊ODer｜想倾诉或聊天可以找我说话｜聊天(暂不可用,建议私信我)：https://t.co/3JPf2UoHaa｜最爱的小孩@dnshu135734｜大号是@17nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 128,
+                "start": 121,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 99,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 76,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "name": "海月水水母小17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488575466872832/r7LqRx6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 38,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "haiyueshuimuxia",
+        "verified": false
+      }
+    ]
+  }
+}

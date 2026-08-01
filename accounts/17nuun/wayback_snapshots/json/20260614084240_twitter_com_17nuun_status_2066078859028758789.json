@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066078859028758789",
+    "created_at": "2026-06-14T08:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066078859028758789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Pr0mis3_c/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Pr0mis3_c/status/2065689968937455831",
+          "start": 11,
+          "url": "https://t.co/2TGZdH8PFA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066078859028758789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065689968937455831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "梦想是这么白白的手手 https://t.co/2TGZdH8PFA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065689957898080256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrOEnybUAAxhGz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066078859028758789",
+        "created_at": "2026-06-14T08:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066078859028758789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pr0mis3_c/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Pr0mis3_c/status/2065689968937455831",
+              "start": 11,
+              "url": "https://t.co/2TGZdH8PFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066078859028758789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065689968937455831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梦想是这么白白的手手 https://t.co/2TGZdH8PFA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065689957898080256"
+          ]
+        },
+        "author_id": "1993628897645408256",
+        "conversation_id": "2065689968937455831",
+        "created_at": "2026-06-13T06:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065689968937455831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ePUwfpODsX",
+              "end": 36,
+              "expanded_url": "https://x.com/Pr0mis3_c/status/2065689968937455831/photo/1",
+              "media_key": "3_2065689957898080256",
+              "start": 13,
+              "url": "https://t.co/ePUwfpODsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065689968937455831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 660,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚洗完澡非常白净的手手😋 https://t.co/ePUwfpODsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 49,
+          "like_count": 193,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 541
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜 | 无不良嗜好 | 焦虑抑郁中... | 梦想srs | 同类互fo | 渴望交友...\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 125,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 102,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "czxh.top",
+                "end": 23,
+                "expanded_url": "https://czxh.top",
+                "start": 0,
+                "url": "https://t.co/mt7U160VHA"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "诗雨.𝘗𝘳𝘰𝘮𝘪𝘴𝘦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063083323459825664/tzQOYIMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 509,
+          "like_count": 2263,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/mt7U160VHA",
+        "username": "Pr0mis3_c",
+        "verified": false
+      }
+    ]
+  }
+}

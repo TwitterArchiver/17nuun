@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2067783468805959714",
+    "created_at": "2026-06-25T12:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070124379242123390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "2066487415678918657",
+          "start": 18,
+          "username": "haiyueshuimuxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070124379242123390",
+    "in_reply_to_user_id": "2063266311254552576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067783468805959714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个账号只会作为梗图分享，个人账号是@haiyueshuimuxia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 579,
+        "media_key": "3_2067783452309782528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLI-GCNbAAAFGvW.jpg",
+        "width": 579
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067783416477827073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLI-D8uawAEFFll.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067783468805959714",
+        "created_at": "2026-06-25T12:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070124379242123390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "2066487415678918657",
+              "start": 18,
+              "username": "haiyueshuimuxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070124379242123390",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067783468805959714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个账号只会作为梗图分享，个人账号是@haiyueshuimuxia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067783452309782528",
+            "3_2067783416477827073"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067783468805959714",
+        "created_at": "2026-06-19T01:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T02:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067783468805959714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pkkY1U6spS",
+              "end": 110,
+              "expanded_url": "https://x.com/17nuun/status/2067783468805959714/photo/1",
+              "media_key": "3_2067783452309782528",
+              "start": 87,
+              "url": "https://t.co/pkkY1U6spS"
+            },
+            {
+              "display_url": "pic.x.com/pkkY1U6spS",
+              "end": 110,
+              "expanded_url": "https://x.com/17nuun/status/2067783468805959714/photo/1",
+              "media_key": "3_2067783416477827073",
+              "start": 87,
+              "url": "https://t.co/pkkY1U6spS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067783468805959714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13469,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号被封禁,但是17已经回来了!!!\n\n 大号账号现计划用来赚生活费和糖钱!\n最近17真的一点生活费和资金都没有了\n🥺 求打赏...\n\n下面是咱们的小群喵，欢迎大家来玩❤️ https://t.co/pkkY1U6spS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia\n👇下面加tg或问问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/51bucExiuc"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "ngl.link/海月水母x17",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 984,
+          "like_count": 426,
+          "listed_count": 4,
+          "media_count": 299,
+          "tweet_count": 963
+        },
+        "url": "https://t.co/51bucExiuc",
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "不再是心理委员\nsub / mt(x)f🏳️‍⚧️ / 年龄?? / 双相 / INFP / 💊overdose/🚪25¥\n频道链接https://t.co/fH6wssz2c5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 89,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 66,
+                "url": "https://t.co/fH6wssz2c5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "name": "海月淡水水母17🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116790475296768/Qu3Pj1bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 70,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/3JPf2UoHaa",
+        "username": "haiyueshuimuxia",
+        "verified": false
+      }
+    ]
+  }
+}

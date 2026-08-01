@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063347975875875104",
+    "created_at": "2026-06-07T02:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063445719609160065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1356555960664219652",
+          "start": 0,
+          "username": "Block_Jiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063445719609160065",
+    "in_reply_to_user_id": "1356555960664219652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063386000605548800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Block_Jiang 嗯…谢谢你哦\n17今天就先这样攒一下w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063347975875875104",
+        "created_at": "2026-06-07T02:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063445719609160065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1356555960664219652",
+              "start": 0,
+              "username": "Block_Jiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063445719609160065",
+        "in_reply_to_user_id": "1356555960664219652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063386000605548800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Block_Jiang 嗯…谢谢你哦\n17今天就先这样攒一下w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356555960664219652",
+        "conversation_id": "2063347975875875104",
+        "created_at": "2026-06-06T22:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T23:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063386000605548800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063386000605548800",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063347975875875104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 至少今天先这样就够了啊，活着这事本来也是一天一天攒出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-02T10:53:19.000Z",
+        "description": "一个穿越3轮牛熊的老韭菜根\n及时止损，及时行乐。\n当朋友圈发啦。\n📍专注方向: BN Alpha | 加密投研 | 脚本策略  | 空投猎人",
+        "id": "1356555960664219652",
+        "location": "香港",
+        "name": "block丶救赎",
+        "pinned_tweet_id": "2057383443848400964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946281688583258112/_NaW82U-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 1433,
+          "like_count": 9274,
+          "listed_count": 8,
+          "media_count": 275,
+          "tweet_count": 3469
+        },
+        "username": "Block_Jiang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064253612453159180",
+    "created_at": "2026-06-09T07:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064253612453159180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huantim1/statu…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/huantim1/status/2064199931855024164",
+          "start": 17,
+          "url": "https://t.co/4fdqQYD2xr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064253612453159180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064199931855024164",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜800fo喵，下一站1k w https://t.co/4fdqQYD2xr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2148,
+        "media_key": "3_2064199919557353472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWC4-abIAA_VI7.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064253612453159180",
+        "created_at": "2026-06-09T07:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064253612453159180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim1/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/huantim1/status/2064199931855024164",
+              "start": 17,
+              "url": "https://t.co/4fdqQYD2xr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064253612453159180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064199931855024164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜800fo喵，下一站1k w https://t.co/4fdqQYD2xr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064199919557353472"
+          ]
+        },
+        "author_id": "1781510736000274432",
+        "conversation_id": "2064199931855024164",
+        "created_at": "2026-06-09T04:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064199931855024164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKNnbs0osP",
+              "end": 35,
+              "expanded_url": "https://x.com/huantim1/status/2064199931855024164/photo/1",
+              "media_key": "3_2064199919557353472",
+              "start": 12,
+              "url": "https://t.co/eKNnbs0osP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064199931855024164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "800fo了喵，感谢喵 https://t.co/eKNnbs0osP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 243
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "无可奈何花落去，似曾相识燕归来\n上海某高一牲 是mtx喵\n生辰崇祯三百八十二年腊月初一",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "huantim1.bsky.social",
+                "end": 23,
+                "expanded_url": "http://huantim1.bsky.social",
+                "start": 0,
+                "url": "https://t.co/cXdI7FG7B0"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻兮纱",
+        "pinned_tweet_id": "2004922220221792388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026628026642153472/5ZROLnX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 721,
+          "like_count": 64833,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 5026
+        },
+        "url": "https://t.co/cXdI7FG7B0",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

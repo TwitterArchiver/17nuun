@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064708451561799923",
+    "created_at": "2026-06-10T13:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064708451561799923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063957681984225280",
+          "start": 3,
+          "username": "YuwenMewo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064708451561799923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064513081439613410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuwenMewo: 有谁感兴趣联系我吧 我是这种自动机器人做的几乎最好的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064708451561799923",
+        "created_at": "2026-06-10T13:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064708451561799923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063957681984225280",
+              "start": 3,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064708451561799923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064513081439613410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuwenMewo: 有谁感兴趣联系我吧 我是这种自动机器人做的几乎最好的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2064513081439613410",
+        "created_at": "2026-06-10T01:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064513081439613410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2064391050043834760",
+              "start": 28,
+              "url": "https://t.co/osVRI82DfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064513081439613410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064391050043834760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有谁感兴趣联系我吧 我是这种自动机器人做的几乎最好的？ https://t.co/osVRI82DfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 31,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 357
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2064600234190368840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 12,
+          "like_count": 31,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 149
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

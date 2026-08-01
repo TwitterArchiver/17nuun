@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065596333746946283",
+    "created_at": "2026-06-13T00:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065596333746946283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko_ruyue/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/neko_ruyue/status/2065294429746090094",
+          "start": 17,
+          "url": "https://t.co/hlfH2klxHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065596333746946283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065294429746090094",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这ppt听起来像宣誓现场，好吓人 https://t.co/hlfH2klxHR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065596333746946283",
+        "created_at": "2026-06-13T00:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065596333746946283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko_ruyue/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/neko_ruyue/status/2065294429746090094",
+              "start": 17,
+              "url": "https://t.co/hlfH2klxHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065596333746946283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065294429746090094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这ppt听起来像宣誓现场，好吓人 https://t.co/hlfH2klxHR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "2065294429746090094",
+        "created_at": "2026-06-12T04:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065294429746090094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065294429746090094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4848,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们同学上去演讲ppt说：作为一个公民应该时刻准备着为国家牺牲😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 135,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 476
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "",
+        "id": "1015788561088630791",
+        "name": "小猫月月",
+        "pinned_tweet_id": "2028420666077384893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006421945345286144/XZYVb9aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33140,
+          "following_count": 4115,
+          "like_count": 152480,
+          "listed_count": 79,
+          "media_count": 2729,
+          "tweet_count": 30842
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

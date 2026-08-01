@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065133688824988065",
+    "created_at": "2026-06-12T02:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065253027770966320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065253027770966320",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065133688824988065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 杀鱼国王加冕变铡刀那段真的太绝了…每次回想都头皮发麻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2275,
+        "media_key": "3_2065133637302190080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjUGgEbgAAruUZ.jpg",
+        "width": 3922
+      },
+      {
+        "height": 2275,
+        "media_key": "3_2065133641446170624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjUGvgboAA-Zjx.jpg",
+        "width": 3922
+      },
+      {
+        "height": 2275,
+        "media_key": "3_2065133637671264256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjUGhcbIAAsty9.jpg",
+        "width": 3922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065133688824988065",
+        "created_at": "2026-06-12T02:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065253027770966320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065253027770966320",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065133688824988065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 杀鱼国王加冕变铡刀那段真的太绝了…每次回想都头皮发麻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065133637302190080",
+            "3_2065133641446170624",
+            "3_2065133637671264256"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065133688824988065",
+        "created_at": "2026-06-11T18:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065133688824988065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZgprUchjwC",
+              "end": 135,
+              "expanded_url": "https://x.com/ServalCandle/status/2065133688824988065/photo/1",
+              "media_key": "3_2065133637302190080",
+              "start": 112,
+              "url": "https://t.co/ZgprUchjwC"
+            },
+            {
+              "display_url": "pic.x.com/ZgprUchjwC",
+              "end": 135,
+              "expanded_url": "https://x.com/ServalCandle/status/2065133688824988065/photo/1",
+              "media_key": "3_2065133641446170624",
+              "start": 112,
+              "url": "https://t.co/ZgprUchjwC"
+            },
+            {
+              "display_url": "pic.x.com/ZgprUchjwC",
+              "end": 135,
+              "expanded_url": "https://x.com/ServalCandle/status/2065133688824988065/photo/1",
+              "media_key": "3_2065133637671264256",
+              "start": 112,
+              "url": "https://t.co/ZgprUchjwC"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/servalcandle/status/2062940312969113782",
+              "start": 136,
+              "url": "https://t.co/PFQkiMjM13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065133688824988065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062940312969113782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个是What Remains of Edith Finch里面的故事吧（（（\n\n艾迪芬奇的记忆里让笨猫印象最深刻的就是这个一边杀鱼一边幻想自己当国王\n\n最后的加冕礼其实是鱼罐头厂的铡刀，把自己的头砍下来了_(:з」∠)_ https://t.co/ZgprUchjwC https://t.co/PFQkiMjM13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 36,
+          "like_count": 118,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 433
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "BPD胡亂發言警告⚠️\n頭像是自拍 / 身分證性別女\n封鎖必回\n癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063373902387281920/oihXfGP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33950,
+          "following_count": 425,
+          "like_count": 237187,
+          "listed_count": 106,
+          "media_count": 9264,
+          "tweet_count": 60255
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

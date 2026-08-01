@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064207700536197320",
+    "created_at": "2026-06-09T04:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064207700536197320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XixIccn_n/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/XixIccn_n/status/2063981649004781879",
+          "start": 26,
+          "url": "https://t.co/Jqju3U7s5Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064207700536197320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063981649004781879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先离贵东西远一点…找个软软的东西捶两下也行（抱抱喵 https://t.co/Jqju3U7s5Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064207700536197320",
+        "created_at": "2026-06-09T04:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064207700536197320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XixIccn_n/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/XixIccn_n/status/2063981649004781879",
+              "start": 26,
+              "url": "https://t.co/Jqju3U7s5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064207700536197320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063981649004781879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先离贵东西远一点…找个软软的东西捶两下也行（抱抱喵 https://t.co/Jqju3U7s5Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509516510569500675",
+        "conversation_id": "2063981649004781879",
+        "created_at": "2026-06-08T13:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063981649004781879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063981649004781879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想砸东西\n好烦躁😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 200
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T13:03:09.000Z",
+        "description": "本体は満月です🌕｜人形正面情绪吸收仪，会主动吸收掉身边的温柔善良真诚可爱元素💛｜努力克服所有的负面情绪，成为一个温柔善良真诚可爱的人✨｜梦想是过上自由平静无人打扰的生活🌅｜爱好一切有艺术感的事物💫｜是抱抱贴贴揉揉捏捏教忠实教徒！面点大师🍞",
+        "id": "1509516510569500675",
+        "location": "Eutopia",
+        "name": "月月喵🍥",
+        "pinned_tweet_id": "1713866239729430767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710958574506262528/8BRdkfGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 311,
+          "like_count": 2403,
+          "listed_count": 2,
+          "media_count": 232,
+          "tweet_count": 1977
+        },
+        "username": "XixIccn_n",
+        "verified": false
+      }
+    ]
+  }
+}

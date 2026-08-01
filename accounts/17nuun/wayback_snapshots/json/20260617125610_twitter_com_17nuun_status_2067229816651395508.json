@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2067229816651395508",
+    "created_at": "2026-06-17T12:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067229816651395508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haiyueshuimuxi…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/haiyueshuimuxia/status/2067228973466304753",
+          "start": 49,
+          "url": "https://t.co/8EOJcrrhBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067229816651395508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067228973466304753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在17有点ptsd,害怕去了又被关进去....\n\n要是明天下午还没消息就是又被关进去了...? https://t.co/8EOJcrrhBa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067229816651395508",
+        "created_at": "2026-06-17T12:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067229816651395508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haiyueshuimuxi…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/haiyueshuimuxia/status/2067228973466304753",
+              "start": 49,
+              "url": "https://t.co/8EOJcrrhBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067229816651395508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067228973466304753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在17有点ptsd,害怕去了又被关进去....\n\n要是明天下午还没消息就是又被关进去了...? https://t.co/8EOJcrrhBa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2067228973466304753",
+        "created_at": "2026-06-17T12:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067228973466304753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067228973466304753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就要去前几天还关着你的精卫复诊了...\n\n呜我期盼能晚点的,看来不行\n\n有点ptsd了....一点点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2066760857493901415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 467,
+          "like_count": 321,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜sub｜mtf｜06｜心境情感障碍｜INFP｜💊ODer｜想倾诉或聊天可以找我说话｜聊天(暂不可用,建议私信我)：https://t.co/3JPf2UoHaa｜最爱的小孩@dnshu135734｜经营账号是@17nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 130,
+                "start": 123,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 99,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 76,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "name": "海月水水母小17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488575466872832/r7LqRx6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 52,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "haiyueshuimuxia",
+        "verified": false
+      }
+    ]
+  }
+}

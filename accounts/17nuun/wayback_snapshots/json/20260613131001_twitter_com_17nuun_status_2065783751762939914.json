@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065783740975222784"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065783751762939914",
+    "created_at": "2026-06-13T13:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065783751762939914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/83Oj7ATrqY",
+          "end": 164,
+          "expanded_url": "https://x.com/17nuun/status/2065783751762939914/photo/1",
+          "media_key": "3_2065783740975222784",
+          "start": 141,
+          "url": "https://t.co/83Oj7ATrqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065783751762939914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个账号确实是唐毓文创建的！\n不过现在已经是本人接管了\n17和父亲达成了协议\n因为住院导致的病情反而恶化（强制住院导致抑郁转双相）和多种原因，以及17的努力。\n17大概率会在这周内出院\n但是17的手机还被警方调查使用中，不知道什么时候17才能恢复正常生活\n17现在状态好不少了喵！ https://t.co/83Oj7ATrqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2065783740975222784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsjXg-bEAA7hcP.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065783740975222784"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065783751762939914",
+        "created_at": "2026-06-13T13:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065783751762939914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/83Oj7ATrqY",
+              "end": 164,
+              "expanded_url": "https://x.com/17nuun/status/2065783751762939914/photo/1",
+              "media_key": "3_2065783740975222784",
+              "start": 141,
+              "url": "https://t.co/83Oj7ATrqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065783751762939914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个账号确实是唐毓文创建的！\n不过现在已经是本人接管了\n17和父亲达成了协议\n因为住院导致的病情反而恶化（强制住院导致抑郁转双相）和多种原因，以及17的努力。\n17大概率会在这周内出院\n但是17的手机还被警方调查使用中，不知道什么时候17才能恢复正常生活\n17现在状态好不少了喵！ https://t.co/83Oj7ATrqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 42,
+          "like_count": 161,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 515
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

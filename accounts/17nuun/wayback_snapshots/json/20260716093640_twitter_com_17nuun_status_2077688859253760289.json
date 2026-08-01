@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2077656997961544172",
+    "created_at": "2026-07-16T09:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T10:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077688859253760289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1280075700851011589",
+          "start": 0,
+          "username": "OvO332233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077688859253760289",
+    "in_reply_to_user_id": "1280075700851011589",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077656997961544172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvO332233 o(^▽^)o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2077656997961544172",
+        "created_at": "2026-07-16T09:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077688859253760289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1280075700851011589",
+              "start": 0,
+              "username": "OvO332233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077688859253760289",
+        "in_reply_to_user_id": "1280075700851011589",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077656997961544172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvO332233 o(^▽^)o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280075700851011589",
+        "conversation_id": "2077656997961544172",
+        "created_at": "2026-07-16T07:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077656997961544172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077656997961544172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少一封讣告！好耶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 136,
+          "like_count": 549,
+          "listed_count": 5,
+          "media_count": 26,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-06T09:46:54.000Z",
+        "description": "我也要当心理委员！\n大号@error332233\n貌似被shadowban了所以玩小号！\n06｜不OD｜mtf但是代称无所谓！｜有证等待含糖 \n碎碎念吗，可能有点负能量希望不要被我影响到\n讲真，现在这个更像是大号了（）\n我要努力！我要帮助每一个人！（但愿吧……）\n最爱的喵喵! @Miaowuke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "error332233"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "username": "Miaowuke"
+              }
+            ]
+          }
+        },
+        "id": "1280075700851011589",
+        "location": "EveryWhere！",
+        "name": "无敌爆爆龙",
+        "pinned_tweet_id": "2062176813137494375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057351194595758080/86XV515J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 239,
+          "like_count": 21531,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 2271
+        },
+        "url": "",
+        "username": "OvO332233",
+        "verified": false
+      }
+    ]
+  }
+}

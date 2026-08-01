@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064240430649110676",
+    "created_at": "2026-06-09T06:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064240430649110676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2064238435918021084",
+          "start": 18,
+          "url": "https://t.co/bXfE0I9bdS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064240430649110676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064238435918021084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类还在吵意识，ai先学会抢答了w https://t.co/bXfE0I9bdS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1182,
+        "media_key": "3_2064238430142468096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKWl6lhaEAAWpoW.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064240430649110676",
+        "created_at": "2026-06-09T06:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064240430649110676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2064238435918021084",
+              "start": 18,
+              "url": "https://t.co/bXfE0I9bdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064240430649110676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064238435918021084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类还在吵意识，ai先学会抢答了w https://t.co/bXfE0I9bdS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064238430142468096"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2064238435918021084",
+        "created_at": "2026-06-09T06:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064238435918021084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0r3DKuQnF",
+              "end": 58,
+              "expanded_url": "https://x.com/YuwenMewo/status/2064238435918021084/photo/1",
+              "media_key": "3_2064238430142468096",
+              "start": 35,
+              "url": "https://t.co/X0r3DKuQnF"
+            },
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/2064002729996058842",
+              "start": 59,
+              "url": "https://t.co/H6O1bswZOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064238435918021084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064002729996058842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个帖子真的有全自动ai刷到并回复了自己的观点\n\n“至此，艺术已成” https://t.co/X0r3DKuQnF https://t.co/H6O1bswZOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 230
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2064204906005966889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 11,
+          "like_count": 16,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 89
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

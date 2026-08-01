@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065156885414834575",
+    "created_at": "2026-06-13T00:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065596565390008751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2040718731052015616",
+          "start": 0,
+          "username": "Qing__Yang__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065596565390008751",
+    "in_reply_to_user_id": "2040718731052015616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065156885414834575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qing__Yang__ 不成功的人就不能被看见吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065156885414834575",
+        "created_at": "2026-06-13T00:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065596565390008751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040718731052015616",
+              "start": 0,
+              "username": "Qing__Yang__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065596565390008751",
+        "in_reply_to_user_id": "2040718731052015616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065156885414834575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qing__Yang__ 不成功的人就不能被看见吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040718731052015616",
+        "conversation_id": "2065156885414834575",
+        "created_at": "2026-06-11T19:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065156885414834575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065156885414834575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨圈真正需要的是那种在各种领域成功的人才，然后让人们接受或认可跨性别人士。而不是我这种只会上网发发牢骚，无能无颜无胆的废人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 135,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 477
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T09:10:53.000Z",
+        "description": "cn：清氧⎮MBTI：infp-a-h⎮出生日期2008/04/18⎮生理性别男⎮心理性别女⎮可以当树洞，我很乐意倾听",
+        "id": "2040718731052015616",
+        "name": "清氧🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040979100278624256/iAcpSGRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 96,
+          "like_count": 582,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 160
+        },
+        "username": "Qing__Yang__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065970859349803500",
+    "created_at": "2026-06-14T01:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065970859349803500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2065953293868974510",
+          "start": 5,
+          "url": "https://t.co/JhwBhpxQnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065970859349803500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065953293868974510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "震撼首发 https://t.co/JhwBhpxQnx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065970859349803500",
+        "created_at": "2026-06-14T01:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065970859349803500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2065953293868974510",
+              "start": 5,
+              "url": "https://t.co/JhwBhpxQnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065970859349803500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065953293868974510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "震撼首发 https://t.co/JhwBhpxQnx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2065953293868974510",
+        "created_at": "2026-06-14T00:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065953293868974510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065953293868974510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痔疮算不算男同的阴蒂？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 43,
+          "like_count": 169,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 525
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2065829654699843616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 8,
+          "like_count": 54,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 287
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

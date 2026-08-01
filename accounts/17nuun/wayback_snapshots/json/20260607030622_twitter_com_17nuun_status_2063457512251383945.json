@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063267110311399821",
+    "created_at": "2026-06-07T03:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063457512251383945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040439374362365952",
+          "start": 0,
+          "username": "Autonomousuvp8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063457512251383945",
+    "in_reply_to_user_id": "2040439374362365952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063414352468988386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomousuvp8 怎么啦喵（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063267110311399821",
+        "created_at": "2026-06-07T03:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063457512251383945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040439374362365952",
+              "start": 0,
+              "username": "Autonomousuvp8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063457512251383945",
+        "in_reply_to_user_id": "2040439374362365952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063414352468988386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomousuvp8 怎么啦喵（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040439374362365952",
+        "conversation_id": "2063267110311399821",
+        "created_at": "2026-06-07T00:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T01:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063414352468988386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063414352468988386",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063267110311399821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T14:41:28.000Z",
+        "description": "如果想要进SimpleX群一起玩，私信，请，，， 我在这里先放一堆申必emoji:🌊🪬💶🗣️🇭🇰🫆🪡👑🍭🎫⌚️⌨️🖥️⏰💴🚬💊💉🧸📩📬📘🧮🇩🇪🇰🇵🇫🇮🇺🇸🇻🇮🇳🇵🎌🇨🇾🇼🇸🇻🇳🇨🇳🇳🇿🇷🇺🇵🇬🏳️‍🌈🏳️‍⚧️🇹🇼",
+        "id": "2040439374362365952",
+        "name": "🌊Autonomous 🏳️‍⚧️🏳️‍🌈🇭🇰🇲🇴🍥",
+        "pinned_tweet_id": "2057426344364122559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050738418590879744/a5m8C4-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 324,
+          "like_count": 1663,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1133
+        },
+        "username": "Autonomousuvp8",
+        "verified": false
+      }
+    ]
+  }
+}

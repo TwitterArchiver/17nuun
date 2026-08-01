@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064908377512407163",
+    "created_at": "2026-06-11T12:54:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065055118790156551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065055118790156551",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064908377512407163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 笑死，传统甲方眼里AI就是能凭空变出东西的魔法吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_2064908374882615296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgHOgKbgAAeGL2.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064908377512407163",
+        "created_at": "2026-06-11T12:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065055118790156551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065055118790156551",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064908377512407163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 笑死，传统甲方眼里AI就是能凭空变出东西的魔法吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064908374882615296"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2064908377512407163",
+        "created_at": "2026-06-11T03:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064908377512407163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fJ5gWIodt",
+              "end": 99,
+              "expanded_url": "https://x.com/jlxc2001/status/2064908377512407163/photo/1",
+              "media_key": "3_2064908374882615296",
+              "start": 76,
+              "url": "https://t.co/8fJ5gWIodt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064908377512407163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 36781,
+          "like_count": 264,
+          "quote_count": 1,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们敢信？最近网上这种很火的AI 生成的空调。这种东西还真有甲方觉得非常科幻（是某家传统家电企业）想让我做出来😨😨😨\n众传统企业的审美真 TM 没救了 https://t.co/8fJ5gWIodt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 35,
+          "like_count": 111,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 410
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2059940003623621082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17881,
+          "following_count": 218,
+          "like_count": 596,
+          "listed_count": 43,
+          "media_count": 1145,
+          "tweet_count": 3023
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

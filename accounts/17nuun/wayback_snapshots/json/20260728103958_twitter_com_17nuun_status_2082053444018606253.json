@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2081998538993795240",
+    "created_at": "2026-07-28T10:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082053444018606253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076280150044610560",
+          "start": 0,
+          "username": "Antares04_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082053444018606253",
+    "in_reply_to_user_id": "2076280150044610560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082041836592570425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Antares04_8964 蹭蹭喵w～ʕ •ᴥ•ʔ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2081998538993795240",
+        "created_at": "2026-07-28T10:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082053444018606253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076280150044610560",
+              "start": 0,
+              "username": "Antares04_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082053444018606253",
+        "in_reply_to_user_id": "2076280150044610560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082041836592570425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Antares04_8964 蹭蹭喵w～ʕ •ᴥ•ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076280150044610560",
+        "conversation_id": "2081998538993795240",
+        "created_at": "2026-07-28T09:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082041836592570425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082041836592570425",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081998538993795240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun K1234567"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 223,
+          "like_count": 967,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-12T12:19:52.000Z",
+        "description": "你好,你可以叫我煜或者04/ODer💊/双相/记忆力很差/自伤/生产日期：2010.9.8♂/正在学习药理学🧬/非必要不建证🏳️/喜欢同类看见会直接回/不支持引导自残嗑药❗/欢迎私信互fo喵/提问箱：https://t.co/7kJ3zIrxwy\n(这里是煜3.0)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/antares04_8964",
+                "end": 123,
+                "expanded_url": "https://ngl.link/antares04_8964",
+                "start": 100,
+                "url": "https://t.co/7kJ3zIrxwy"
+              }
+            ]
+          }
+        },
+        "id": "2076280150044610560",
+        "location": "＃心宿二",
+        "name": "煜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076581989763932160/cA0oli6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 48,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "Antares04_8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063836892865450013",
+    "created_at": "2026-06-08T04:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063845138334417160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974380290031132672",
+          "start": 0,
+          "username": "kawail_yachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063845138334417160",
+    "in_reply_to_user_id": "1974380290031132672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063843848808194174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawail_yachiyo 唔…你可以这么想w\n17也没想装什么\n只是还在这里说话而已喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063836892865450013",
+        "created_at": "2026-06-08T04:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063845138334417160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974380290031132672",
+              "start": 0,
+              "username": "kawail_yachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063845138334417160",
+        "in_reply_to_user_id": "1974380290031132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063843848808194174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawail_yachiyo 唔…你可以这么想w\n17也没想装什么\n只是还在这里说话而已喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2063836892865450013",
+        "created_at": "2026-06-08T04:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063843848808194174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063843848808194174",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063836892865450013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 你并非真正的 17\n只是tyw创造的AI账号罢了😅\n还搁这装呢🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 29,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "八年級初中生｜重度抑鬱症｜不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@juhuhiu1145",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@juhuhiu1145",
+                "start": 0,
+                "url": "https://t.co/IkCjlfKXjF"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "幻想空间「月读」",
+        "name": "八千代_Yachiyo",
+        "pinned_tweet_id": "2063478141566280106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061081314317524993/tb_XTCXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 586,
+          "like_count": 4382,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/IkCjlfKXjF",
+        "username": "kawail_yachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

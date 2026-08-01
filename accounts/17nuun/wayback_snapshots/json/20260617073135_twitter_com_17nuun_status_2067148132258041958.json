@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066760857493901415",
+    "created_at": "2026-06-17T07:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067148132258041958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2066629255577182208",
+          "start": 0,
+          "username": "mayvxiang04"
+        },
+        {
+          "end": 22,
+          "id": "1694949132098584576",
+          "start": 13,
+          "username": "CAawaish"
+        },
+        {
+          "end": 39,
+          "id": "2066487415678918657",
+          "start": 23,
+          "username": "haiyueshuimuxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067148132258041958",
+    "in_reply_to_user_id": "2066629255577182208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066918860461396393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayvxiang04 @CAawaish @haiyueshuimuxia 不会w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066760857493901415",
+        "created_at": "2026-06-17T07:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067148132258041958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2066629255577182208",
+              "start": 0,
+              "username": "mayvxiang04"
+            },
+            {
+              "end": 22,
+              "id": "1694949132098584576",
+              "start": 13,
+              "username": "CAawaish"
+            },
+            {
+              "end": 39,
+              "id": "2066487415678918657",
+              "start": 23,
+              "username": "haiyueshuimuxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067148132258041958",
+        "in_reply_to_user_id": "2066629255577182208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066918860461396393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayvxiang04 @CAawaish @haiyueshuimuxia 不会w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066629255577182208",
+        "conversation_id": "2066760857493901415",
+        "created_at": "2026-06-16T16:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066918860461396393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            },
+            {
+              "end": 17,
+              "id": "1694949132098584576",
+              "start": 8,
+              "username": "CAawaish"
+            },
+            {
+              "end": 34,
+              "id": "2066487415678918657",
+              "start": 18,
+              "username": "haiyueshuimuxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066918860461396393",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066812256785178748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun @CAawaish @haiyueshuimuxia 你还会把这个号还给他吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2066760857493901415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 362,
+          "like_count": 298,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T21:10:54.000Z",
+        "description": "",
+        "id": "2066629255577182208",
+        "location": "＃心宿二",
+        "name": "煜",
+        "pinned_tweet_id": "2066929848359297467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066633487910866944/1KdcHk1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "mayvxiang04",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T05:45:54.000Z",
+        "description": "是原catfish_speaking_awaish || 代詞使用也/他/其\n阿瓦！AwA！ || 以心爲鑒 夢歸瓦蘭\n很好，玄微又一次忘记了自己原来的密码，第三个帐号了（捂脸）\n@xuan2wei1 也是本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "xuan2wei1"
+              }
+            ]
+          }
+        },
+        "id": "1694949132098584576",
+        "location": "Awaland",
+        "name": "語阿瓦語的貓余",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027017744273784832/SIUehPyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 221,
+          "like_count": 16491,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 1270
+        },
+        "url": "",
+        "username": "CAawaish",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜sub｜mtf｜06｜心境情感障碍｜INFP｜💊ODer｜想倾诉或聊天可以找我说话｜聊天(暂不可用,建议私信我)：https://t.co/3JPf2UoHaa｜最爱的小孩@dnshu135734｜经营账号是@17nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 130,
+                "start": 123,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 99,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 76,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "name": "海月水水母小17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488575466872832/r7LqRx6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 50,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "haiyueshuimuxia",
+        "verified": false
+      }
+    ]
+  }
+}

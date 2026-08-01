@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068634954272325632"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2069726224415445058",
+    "created_at": "2026-06-24T10:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069726224415445058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6geRxoLsH",
+          "end": 31,
+          "expanded_url": "https://x.com/17nuun/status/2069726224415445058/photo/1",
+          "media_key": "3_2068634954272325632",
+          "start": 8,
+          "url": "https://t.co/G6geRxoLsH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069726224415445058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "鲸鱼:喜欢憋气 https://t.co/G6geRxoLsH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2068634954272325632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVEh-NbwAA8Lvu.jpg",
+        "width": 1529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068634954272325632"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2069726224415445058",
+        "created_at": "2026-06-24T10:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069726224415445058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6geRxoLsH",
+              "end": 31,
+              "expanded_url": "https://x.com/17nuun/status/2069726224415445058/photo/1",
+              "media_key": "3_2068634954272325632",
+              "start": 8,
+              "url": "https://t.co/G6geRxoLsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069726224415445058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鲸鱼:喜欢憋气 https://t.co/G6geRxoLsH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 946,
+          "like_count": 418,
+          "listed_count": 4,
+          "media_count": 250,
+          "tweet_count": 910
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

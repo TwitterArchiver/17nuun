@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066565799763214588",
+    "created_at": "2026-06-16T00:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T01:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066680370939167146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066680370939167146",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066565799763214588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066565797439578112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3qpMVboAAig3R.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066565799763214588",
+        "created_at": "2026-06-16T00:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066680370939167146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066680370939167146",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066565799763214588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066565797439578112"
+          ]
+        },
+        "author_id": "1969670166423228416",
+        "conversation_id": "2066565799763214588",
+        "created_at": "2026-06-15T16:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066565799763214588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4goxgK98z0",
+              "end": 27,
+              "expanded_url": "https://x.com/h2o2333/status/2066565799763214588/photo/1",
+              "media_key": "3_2066565797439578112",
+              "start": 4,
+              "url": "https://t.co/4goxgK98z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066565799763214588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔…🤔 https://t.co/4goxgK98z0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 64,
+          "like_count": 252,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 585
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "大龄天残mtf 超级耐杀王 🚪20看心情接线下，加vrc好友请私信，二代目@YangYi21649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "YangYi21649"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/NCmkS9Sf5a"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢/pr80售卖中💊",
+        "pinned_tweet_id": "2065807707358302380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051673830478041088/FAHMOo4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 804,
+          "like_count": 2030,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3943
+        },
+        "url": "https://t.co/NCmkS9Sf5a",
+        "username": "h2o2333",
+        "verified": false
+      }
+    ]
+  }
+}

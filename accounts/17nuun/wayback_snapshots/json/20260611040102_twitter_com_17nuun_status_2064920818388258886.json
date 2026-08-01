@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064920818388258886",
+    "created_at": "2026-06-11T04:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064920818388258886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064920818388258886",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064912701235880182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 万物皆有灵这种思想很明显不是从城市里发源的……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064920818388258886",
+        "created_at": "2026-06-11T04:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064920818388258886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064920818388258886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064912701235880182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 万物皆有灵这种思想很明显不是从城市里发源的……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2064912701235880182",
+        "created_at": "2026-06-11T03:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064912701235880182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nevernessian/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Nevernessian/status/2064763442746310714",
+              "start": 24,
+              "url": "https://t.co/i4Cajw9QXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064912701235880182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064763442746310714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "万物皆有灵这种思想很明显不是从城市里发源的…… https://t.co/i4Cajw9QXe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 33,
+          "like_count": 105,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 374
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23087,
+          "following_count": 198,
+          "like_count": 729,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 23758
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

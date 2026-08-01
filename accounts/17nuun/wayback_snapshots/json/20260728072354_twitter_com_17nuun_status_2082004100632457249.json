@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2081931972327493787",
+    "created_at": "2026-07-28T07:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082004100632457249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046530162536357888",
+          "start": 0,
+          "username": "yueyechunxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082004100632457249",
+    "in_reply_to_user_id": "2046530162536357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081931972327493787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyechunxue 呜好羡慕！我好想产奶….🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4481,
+        "height": 1412,
+        "media_key": "13_2081931946582798336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081931946582798336/img/N5fP5hqK9Y6MHHPP.jpg",
+        "public_metrics": {
+          "view_count": 194
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081931946582798336/pl/EfPtiMryxF_0D5HY.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081931946582798336/vid/avc1/1080x1412/PDdti07Eefd0XS36.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081931946582798336/vid/avc1/720x940/-ehXbAnQMApAk4kh.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081931946582798336/vid/avc1/320x418/uhwrYEhw6ORrfkCT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081931946582798336/vid/avc1/480x626/UXatED5An-YjJTj9.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2081931972327493787",
+        "created_at": "2026-07-28T07:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082004100632457249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046530162536357888",
+              "start": 0,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082004100632457249",
+        "in_reply_to_user_id": "2046530162536357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081931972327493787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyechunxue 呜好羡慕！我好想产奶….🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081931946582798336"
+          ]
+        },
+        "author_id": "2046530162536357888",
+        "conversation_id": "2081931972327493787",
+        "created_at": "2026-07-28T02:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081931972327493787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwUuwpfhLw",
+              "end": 36,
+              "expanded_url": "https://x.com/yueyechunxue/status/2081931972327493787/video/1",
+              "media_key": "13_2081931946582798336",
+              "start": 13,
+              "url": "https://t.co/IwUuwpfhLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081931972327493787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 502,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春雪狐乳制品 厂展示产量 https://t.co/IwUuwpfhLw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 218,
+          "like_count": 942,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，淫荡的狐狸//药娘//18周岁//HRT2年//后穴期货领域天才交易员//接线下喵，在江浙沪一带//🚪50请私信喵//看成分互fo\n这里是我的备用账号@chunxuehu 请关注一下防止失联谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "chunxuehu"
+              }
+            ]
+          }
+        },
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "春雪狐🌸",
+        "pinned_tweet_id": "2080662909231968637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053086582694100992/QOGXOuaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 139,
+          "like_count": 1514,
+          "listed_count": 10,
+          "media_count": 219,
+          "tweet_count": 1640
+        },
+        "url": "",
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

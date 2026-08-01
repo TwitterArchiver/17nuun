@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067220031474384896"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2067220393434480784",
+    "created_at": "2026-06-17T12:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067220393434480784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YNhDOabnS4",
+          "end": 31,
+          "expanded_url": "https://x.com/17nuun/status/2067220393434480784/photo/1",
+          "media_key": "3_2067220031474384896",
+          "start": 8,
+          "url": "https://t.co/YNhDOabnS4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067220393434480784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这点你无可辩驳 https://t.co/YNhDOabnS4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 663,
+        "media_key": "3_2067220031474384896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLA9qoCaQAAacv4.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067220031474384896"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067220393434480784",
+        "created_at": "2026-06-17T12:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067220393434480784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNhDOabnS4",
+              "end": 31,
+              "expanded_url": "https://x.com/17nuun/status/2067220393434480784/photo/1",
+              "media_key": "3_2067220031474384896",
+              "start": 8,
+              "url": "https://t.co/YNhDOabnS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067220393434480784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这点你无可辩驳 https://t.co/YNhDOabnS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2066760857493901415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 452,
+          "like_count": 317,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 630
+        },
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

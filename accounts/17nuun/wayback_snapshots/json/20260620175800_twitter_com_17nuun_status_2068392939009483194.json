@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068251851590610944"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2068392939009483194",
+    "created_at": "2026-06-20T17:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068392939009483194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lpPVr3bzd0",
+          "end": 31,
+          "expanded_url": "https://x.com/17nuun/status/2068392939009483194/photo/1",
+          "media_key": "3_2068251851590610944",
+          "start": 8,
+          "url": "https://t.co/lpPVr3bzd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068392939009483194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可恶的天赋选手 https://t.co/lpPVr3bzd0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2068251851590610944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPoGdgaMAA9Lz1.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068251851590610944"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2068392939009483194",
+        "created_at": "2026-06-20T17:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068392939009483194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lpPVr3bzd0",
+              "end": 31,
+              "expanded_url": "https://x.com/17nuun/status/2068392939009483194/photo/1",
+              "media_key": "3_2068251851590610944",
+              "start": 8,
+              "url": "https://t.co/lpPVr3bzd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068392939009483194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可恶的天赋选手 https://t.co/lpPVr3bzd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 797,
+          "like_count": 388,
+          "listed_count": 4,
+          "media_count": 100,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {
+      "title": "谁也不能否定你"
+    },
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2076501253262356494",
+    "created_at": "2026-07-13T02:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T03:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076501253262356494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2068…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2068865548432371712",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2068865548432371712",
+          "url": "https://t.co/0rUcEBdC9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076501253262356494",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0rUcEBdC9u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 144,
+        "media_key": "3_2068908205686902784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLY9DTDb0AAdF1s.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "谁也不能否定你"
+        },
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2076501253262356494",
+        "created_at": "2026-07-13T02:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T03:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076501253262356494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2068…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2068865548432371712",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2068865548432371712",
+              "url": "https://t.co/0rUcEBdC9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076501253262356494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0rUcEBdC9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 140,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 117,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2452,
+          "following_count": 122,
+          "like_count": 510,
+          "listed_count": 5,
+          "media_count": 23,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

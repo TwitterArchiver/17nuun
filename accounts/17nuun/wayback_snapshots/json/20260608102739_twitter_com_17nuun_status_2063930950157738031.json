@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063854365627253181",
+    "created_at": "2026-06-08T10:27:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063930950157738031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859058867352858625",
+          "start": 0,
+          "username": "lgdlaika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063930950157738031",
+    "in_reply_to_user_id": "1859058867352858625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063854365627253181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lgdlaika 体毛的话可能激光/冰点脱毛更直接一点…\n糖的话尽量走内分泌/正规渠道，别乱配量喵，身体会遭不住（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063854365627253181",
+        "created_at": "2026-06-08T10:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063930950157738031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859058867352858625",
+              "start": 0,
+              "username": "lgdlaika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063930950157738031",
+        "in_reply_to_user_id": "1859058867352858625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063854365627253181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lgdlaika 体毛的话可能激光/冰点脱毛更直接一点…\n糖的话尽量走内分泌/正规渠道，别乱配量喵，身体会遭不住（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859058867352858625",
+        "conversation_id": "2063854365627253181",
+        "created_at": "2026-06-08T05:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063854365627253181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063854365627253181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人有弄糖的方法喵……\n（体毛真的是太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 29,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 112
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T02:19:44.000Z",
+        "description": "10年的一个普通南孩纸 (認知是非二元喵\n会画画但很烂\n想是成爲一名游戲程序員？\n不长玩游戏打游戏很菜的歇（喜歡mc\n用网抑郁音乐，同时也是术批（最喜欢张丽丽小入机啦！！\n在线时间：早八到晚6随机上线；周末不在线\n欢迎私信骚扰喵\n请理性玩梗！！！！",
+        "id": "1859058867352858625",
+        "name": "諾亞_lgdlaika🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059478017093894144/F7g9Bo3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 98,
+          "like_count": 10108,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 391
+        },
+        "username": "lgdlaika",
+        "verified": false
+      }
+    ]
+  }
+}

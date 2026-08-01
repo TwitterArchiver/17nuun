@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063951395162595829",
+    "created_at": "2026-06-08T12:37:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T13:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063963708917678325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        },
+        {
+          "end": 26,
+          "id": "1813552253875392512",
+          "start": 10,
+          "username": "thomaswade53394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063963708917678325",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063962098103898391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 @thomaswade53394 去精卫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063951395162595829",
+        "created_at": "2026-06-08T12:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063963708917678325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            },
+            {
+              "end": 26,
+              "id": "1813552253875392512",
+              "start": 10,
+              "username": "thomaswade53394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063963708917678325",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063962098103898391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 @thomaswade53394 去精卫…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989517742127652866",
+        "conversation_id": "2063951395162595829",
+        "created_at": "2026-06-08T12:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063962098103898391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813552253875392512",
+              "start": 0,
+              "username": "thomaswade53394"
+            },
+            {
+              "end": 24,
+              "id": "2063266311254552576",
+              "start": 17,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063962098103898391",
+        "in_reply_to_user_id": "1813552253875392512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063956899532620220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thomaswade53394 @17nuun 精卫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 29,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 136
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 553/Ag/any\n09.12 MTX🏳️‍⚧️\n（负能量预警）\n*非政治推 只是在骂让我不舒服的东西*\n喵就是心情好\nCN/EN🆗\n查成分回fo\n备用@agsg_553",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/nKx3eptIuF"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "✝️昇天✝️",
+        "name": "AG553🏳️‍⚧️",
+        "pinned_tweet_id": "2055235631958389230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 1656,
+          "like_count": 38644,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 3548
+        },
+        "url": "https://t.co/nKx3eptIuF",
+        "username": "AGNK_553",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T12:32:18.000Z",
+        "description": "08/高中牲/189cm/70kg/泛性恋/INFP/轻微PTSD/偶尔抑郁和焦虑/缺钱/国家一级保护废物/想成为一个温柔的人/在做心理疏导和自杀干预/Q：2975472226/TG:https://t.co/j4EBn7vbdo /请注明来意/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/@guxingyinyue",
+                "end": 115,
+                "expanded_url": "http://t.me/@guxingyinyue",
+                "start": 92,
+                "url": "https://t.co/j4EBn7vbdo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@guxingyinyue",
+                "end": 23,
+                "expanded_url": "http://t.me/@guxingyinyue",
+                "start": 0,
+                "url": "https://t.co/j4EBn7vbdo"
+              }
+            ]
+          }
+        },
+        "id": "1813552253875392512",
+        "location": "CoBeTckag CoynanucTuyeckag Pec",
+        "name": "孤星（曾名隐月）🍥",
+        "pinned_tweet_id": "1901407756684566961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893289318472376320/8Y0W_UaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 2077,
+          "like_count": 1488,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/j4EBn7vbdo",
+        "username": "thomaswade53394",
+        "verified": false
+      }
+    ]
+  }
+}

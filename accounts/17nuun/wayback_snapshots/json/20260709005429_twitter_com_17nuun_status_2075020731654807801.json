@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075020722972618753"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2075020731654807801",
+    "created_at": "2026-07-09T00:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075020731654807801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t7ozRSmogf",
+          "end": 40,
+          "expanded_url": "https://x.com/17nuun/status/2075020731654807801/photo/1",
+          "media_key": "3_2075020722972618753",
+          "start": 17,
+          "url": "https://t.co/t7ozRSmogf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075020731654807801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "它和炸弹的区别应该就是炸弹可以拆 https://t.co/t7ozRSmogf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2075020722972618753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMv0WoZbcAEbmUR.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075020722972618753"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2075020731654807801",
+        "created_at": "2026-07-09T00:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075020731654807801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7ozRSmogf",
+              "end": 40,
+              "expanded_url": "https://x.com/17nuun/status/2075020731654807801/photo/1",
+              "media_key": "3_2075020722972618753",
+              "start": 17,
+              "url": "https://t.co/t7ozRSmogf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075020731654807801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "它和炸弹的区别应该就是炸弹可以拆 https://t.co/t7ozRSmogf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 140,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 117,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 110,
+          "like_count": 476,
+          "listed_count": 4,
+          "media_count": 18,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

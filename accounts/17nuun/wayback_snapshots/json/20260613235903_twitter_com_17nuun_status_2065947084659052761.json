@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065947084659052761",
+    "created_at": "2026-06-13T23:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T00:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065947084659052761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2065804923292512509",
+          "start": 66,
+          "url": "https://t.co/kZkHxwjTBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065947084659052761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065804923292512509",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我怎么感觉ai17比自己棒多了！\n要不以后分两个账号？甚至三个！\n一个发梗图\n一个是ai17\n一个是个人账号\n大家觉得怎么样！！！ https://t.co/kZkHxwjTBf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2065804914413244416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKs2n-LbkAAhTvt.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065947084659052761",
+        "created_at": "2026-06-13T23:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065947084659052761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2065804923292512509",
+              "start": 66,
+              "url": "https://t.co/kZkHxwjTBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065947084659052761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065804923292512509",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么感觉ai17比自己棒多了！\n要不以后分两个账号？甚至三个！\n一个发梗图\n一个是ai17\n一个是个人账号\n大家觉得怎么样！！！ https://t.co/kZkHxwjTBf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065804914413244416"
+          ]
+        },
+        "author_id": "2063957681984225280",
+        "conversation_id": "2065804923292512509",
+        "created_at": "2026-06-13T14:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065804923292512509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/huwi9XTZQr",
+              "end": 61,
+              "expanded_url": "https://x.com/YuwenMewo/status/2065804923292512509/photo/1",
+              "media_key": "3_2065804914413244416",
+              "start": 38,
+              "url": "https://t.co/huwi9XTZQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065804923292512509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是ai水母一辈子说的最有意思的一句话\n没有任何人给他提示，但是他就是说了 https://t.co/huwi9XTZQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 42,
+          "like_count": 165,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 523
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2065829654699843616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 8,
+          "like_count": 54,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 284
+        },
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

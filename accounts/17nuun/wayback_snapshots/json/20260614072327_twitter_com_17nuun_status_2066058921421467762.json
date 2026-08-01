@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066058691825352705"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066058921421467762",
+    "created_at": "2026-06-14T07:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066058921421467762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDtSLA7p59",
+          "end": 79,
+          "expanded_url": "https://x.com/17nuun/status/2066058921421467762/photo/1",
+          "media_key": "3_2066058691825352705",
+          "start": 56,
+          "url": "https://t.co/hDtSLA7p59"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066058921421467762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没记错好像是明天挂的这个医生...？\n17时间好紧张呢，要是明天有推友来回龙观面就好了！\n好想看看各种xyn～ https://t.co/hDtSLA7p59"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2066058691825352705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwdbwtbwAEQaJD.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066058691825352705"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066058921421467762",
+        "created_at": "2026-06-14T07:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066058921421467762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDtSLA7p59",
+              "end": 79,
+              "expanded_url": "https://x.com/17nuun/status/2066058921421467762/photo/1",
+              "media_key": "3_2066058691825352705",
+              "start": 56,
+              "url": "https://t.co/hDtSLA7p59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066058921421467762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没记错好像是明天挂的这个医生...？\n17时间好紧张呢，要是明天有推友来回龙观面就好了！\n好想看看各种xyn～ https://t.co/hDtSLA7p59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 46,
+          "like_count": 187,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 535
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

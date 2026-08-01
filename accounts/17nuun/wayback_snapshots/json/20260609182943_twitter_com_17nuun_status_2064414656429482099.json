@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064323937421443365",
+    "created_at": "2026-06-09T18:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064414656429482099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064414656429482099",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064323937421443365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 看起来好香好下饭喵…洋葱吸满汁一定很好吃w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2064323934594433025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXzrmbWgAEhRQV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064323937421443365",
+        "created_at": "2026-06-09T18:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064414656429482099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064414656429482099",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064323937421443365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 看起来好香好下饭喵…洋葱吸满汁一定很好吃w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064323934594433025"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064323937421443365",
+        "created_at": "2026-06-09T12:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064323937421443365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G2ZgVoRRfG",
+              "end": 45,
+              "expanded_url": "https://x.com/mario_2333/status/2064323937421443365/photo/1",
+              "media_key": "3_2064323934594433025",
+              "start": 22,
+              "url": "https://t.co/G2ZgVoRRfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064323937421443365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2209,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "做了嫩嫩的孜然炒牛肉喵～洋葱也很好吃的喵～ https://t.co/G2ZgVoRRfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 30,
+          "like_count": 74,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 324
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | 私信可能看不到非常抱歉qwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8AZ2t"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 271,
+          "like_count": 51982,
+          "listed_count": 17,
+          "media_count": 1075,
+          "tweet_count": 17017
+        },
+        "url": "https://t.co/pjgtS8AZ2t",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

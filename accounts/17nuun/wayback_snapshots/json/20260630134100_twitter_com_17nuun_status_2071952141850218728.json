@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071246086409502720"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2071952141850218728",
+    "created_at": "2026-06-30T13:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071952141850218728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9zQWpBRre",
+          "end": 30,
+          "expanded_url": "https://x.com/17nuun/status/2071952141850218728/photo/1",
+          "media_key": "3_2071246086409502720",
+          "start": 7,
+          "url": "https://t.co/Z9zQWpBRre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071952141850218728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这回是学到了 https://t.co/Z9zQWpBRre"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071246086409502720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6LV3bbQAA9iKJ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071246086409502720"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2071952141850218728",
+        "created_at": "2026-06-30T13:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071952141850218728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9zQWpBRre",
+              "end": 30,
+              "expanded_url": "https://x.com/17nuun/status/2071952141850218728/photo/1",
+              "media_key": "3_2071246086409502720",
+              "start": 7,
+              "url": "https://t.co/Z9zQWpBRre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071952141850218728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这回是学到了 https://t.co/Z9zQWpBRre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/双相/INFP /💊活在春风里/\n优质内容在咱亮点里~\n最爱的小孩@dnshu135734 /小号是@danshuishuimu @mizukix178\n👇下面加tg或问问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "mizukix178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/51bucExiuc"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2071050529632129179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2617,
+          "following_count": 1563,
+          "like_count": 451,
+          "listed_count": 5,
+          "media_count": 495,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/51bucExiuc",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

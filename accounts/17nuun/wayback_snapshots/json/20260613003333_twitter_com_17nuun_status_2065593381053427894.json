@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065593381053427894",
+    "created_at": "2026-06-13T00:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065593381053427894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4rulq/status/2…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/4rulq/status/2065309485799981255",
+          "start": 18,
+          "url": "https://t.co/gyWZTa0xcQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065593381053427894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065309485799981255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看喜欢的人吃喜欢的东西会跟着开心喵 https://t.co/gyWZTa0xcQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065593381053427894",
+        "created_at": "2026-06-13T00:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065593381053427894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4rulq/status/2…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/4rulq/status/2065309485799981255",
+              "start": 18,
+              "url": "https://t.co/gyWZTa0xcQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065593381053427894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065309485799981255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看喜欢的人吃喜欢的东西会跟着开心喵 https://t.co/gyWZTa0xcQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2065309485799981255",
+        "created_at": "2026-06-12T05:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065309485799981255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1532663208393117696",
+              "start": 7,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 34,
+              "id": "1532663208393117696",
+              "start": 26,
+              "username": "Ziverk2"
+            },
+            {
+              "end": 48,
+              "id": "1532663208393117696",
+              "start": 40,
+              "username": "Ziverk2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/4rulq/status/2…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/4rulq/status/2063587382222365098",
+              "start": 68,
+              "url": "https://t.co/eGTqT51yc5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065309485799981255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063587382222365098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "いいちゃん會買@Ziverk2 喜歡吃的榴槤千層看著@Ziverk2 吃、一起吃@Ziverk2喜歡吃的食物⋯那樣的感覺其實蠻好的喵🥹 https://t.co/eGTqT51yc5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 134,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 468
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "請叫我いいちゃん喵～\n臺、日推\n繁體中國語、日本語\n請多多關照喵🐱～\n2007～永遠\n職業樂手\n電子產品維修與銷售\n插畫（探索ung）\n寫程式 （探索ing）\n官方：@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "日本東京、臺灣台北",
+        "name": "いいちゃん",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 748,
+          "like_count": 2915,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2641
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

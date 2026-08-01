@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064721495247442420",
+    "created_at": "2026-06-10T14:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064721495247442420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1440983154131488774",
+          "start": 3,
+          "username": "daisy38193824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064721495247442420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064466135953932532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daisy38193824: 我本来应该是可爱的女孩子，为什么会变成这样😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064721495247442420",
+        "created_at": "2026-06-10T14:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064721495247442420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1440983154131488774",
+              "start": 3,
+              "username": "daisy38193824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064721495247442420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064466135953932532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daisy38193824: 我本来应该是可爱的女孩子，为什么会变成这样😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440983154131488774",
+        "conversation_id": "2064466135953932532",
+        "created_at": "2026-06-09T21:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064466135953932532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mili_bugia/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/mili_bugia/status/2064376585248280975",
+              "start": 23,
+              "url": "https://t.co/zu4tldvH7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064466135953932532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1710,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064376585248280975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本来应该是可爱的女孩子，为什么会变成这样😭 https://t.co/zu4tldvH7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 31,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 362
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-23T10:15:39.000Z",
+        "description": "无证含糖中|HRT：2026/3/19｜ INFP-T｜\n比较内向社恐｜喜欢可爱的小动物｜爱玩mc cs2 lol 各种galgame | 爱看治愈/治愈/催泪类型的动漫｜ 粤语/日语流行/摇滚/后摇/欧美流行/二次元/古典/爵士/金属｜小号@fallin2624",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "fallin2624"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fallin22938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fallin22938",
+                "start": 0,
+                "url": "https://t.co/wx8CXSpu18"
+              }
+            ]
+          }
+        },
+        "id": "1440983154131488774",
+        "location": "湖北省武汉市",
+        "name": "𝓕𝓪𝓵𝓵𝓲𝓷'🍥",
+        "pinned_tweet_id": "2060359881144885647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061869210842943488/9BfKk5cR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 657,
+          "like_count": 1591,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/wx8CXSpu18",
+        "username": "daisy38193824",
+        "verified": false
+      }
+    ]
+  }
+}

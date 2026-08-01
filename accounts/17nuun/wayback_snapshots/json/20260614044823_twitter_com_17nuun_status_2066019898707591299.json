@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065946660988178523",
+    "created_at": "2026-06-14T04:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066019898707591299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2028802782019596288",
+          "start": 0,
+          "username": "ciallowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066019898707591299",
+    "in_reply_to_user_id": "2028802782019596288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066018390549123494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciallowo 出院！申诉恢复大号！拿回手机！\n独立生活做想做的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065946660988178523",
+        "created_at": "2026-06-14T04:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066019898707591299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2028802782019596288",
+              "start": 0,
+              "username": "ciallowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066019898707591299",
+        "in_reply_to_user_id": "2028802782019596288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066018390549123494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciallowo 出院！申诉恢复大号！拿回手机！\n独立生活做想做的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028802782019596288",
+        "conversation_id": "2065946660988178523",
+        "created_at": "2026-06-14T04:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066018390549123494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066018390549123494",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065946660988178523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 11 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 46,
+          "like_count": 185,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 534
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:01:07.000Z",
+        "description": "哈囉哈囉，這裡是小霧喵。很高興認識你喵～希望能帶給你更多快樂一點… \n| 11後 | 165 51 | ISFP | 國/初二 | 泛性戀？ | 友跨喵 | 咱不是跨… | 不割手手/od | 嘴笨笨滴 | zh-cn/zh-tw/en | 成分/私信回 | 故鄉台灣 | 現居大陸 | Nonpartisan&不鍵政…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ryousuke05",
+                "end": 23,
+                "expanded_url": "http://github.com/Ryousuke05",
+                "start": 0,
+                "url": "https://t.co/ZkWmHQpNQa"
+              }
+            ]
+          }
+        },
+        "id": "2028802782019596288",
+        "location": "距離地球99兆米",
+        "name": "小霧喵～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058500600917295104/iRL6lP95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 338,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/ZkWmHQpNQa",
+        "username": "ciallowo",
+        "verified": true
+      }
+    ]
+  }
+}

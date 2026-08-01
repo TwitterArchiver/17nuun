@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065705179434103283",
+    "created_at": "2026-06-13T07:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T08:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065705179434103283"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065705179434103283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们～！真17登上假17的号了（）\n感谢tyw为17复活准备的账号喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065705179434103283",
+        "created_at": "2026-06-13T07:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065705179434103283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065705179434103283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们～！真17登上假17的号了（）\n感谢tyw为17复活准备的账号喵喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 38,
+          "like_count": 157,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 509
+        },
+        "username": "17nuun",
+        "verified": false
+      }
+    ]
+  }
+}

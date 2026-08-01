@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2082470144291553477",
+    "created_at": "2026-07-29T14:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082471174601363858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679381806913560578",
+          "start": 0,
+          "username": "kurazawanaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082471174601363858",
+    "in_reply_to_user_id": "1679381806913560578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082470144291553477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurazawanaki 挠挠…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2082470144291553477",
+        "created_at": "2026-07-29T14:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082471174601363858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679381806913560578",
+              "start": 0,
+              "username": "kurazawanaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082471174601363858",
+        "in_reply_to_user_id": "1679381806913560578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082470144291553477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurazawanaki 挠挠…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679381806913560578",
+        "conversation_id": "2082470144291553477",
+        "created_at": "2026-07-29T14:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082470144291553477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082470144291553477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想跨了…\n想死…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 224,
+          "like_count": 1085,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-13T06:47:07.000Z",
+        "description": "只是一个普通的女⃫孩⃫子⃫.🏳️‍⚧️\n母艦：@gdioiui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "gdioiui"
+              }
+            ]
+          }
+        },
+        "id": "1679381806913560578",
+        "location": "三途川",
+        "name": "Anemoly",
+        "pinned_tweet_id": "2056329506856796287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054398857346207744/mxos-SBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 1319,
+          "like_count": 17993,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "kurazawanaki",
+        "verified": false
+      }
+    ]
+  }
+}

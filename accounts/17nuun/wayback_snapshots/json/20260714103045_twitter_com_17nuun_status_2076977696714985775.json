@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2076977696714985775",
+    "created_at": "2026-07-14T10:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076977696714985775"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076977696714985775",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "我悟了！\n自己的钱od，别人的钱od，赚钱od，不赚钱贷款od，贷不了了就佘钱od，想了就od，不想就od，有把握od，没把握赌一把也od，有苦我od，有福我od，od完了我od，没od我更要od，别人不说我od，一年只有四天od分别是春天夏天秋天冬天，一年只有三天od分别是昨天今天明天，一年只有两天od分别是白天黑天，一年只有一天od就是每一天，吃饭od，洗澡od，上厕所od，不说了，醒着od，睡着了更是要od，活着od，半死不活od，死了去下面绝对要od，好了不说了，我去od了，发贴也要od"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我悟了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2076977696714985775",
+        "created_at": "2026-07-14T10:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076977696714985775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076977696714985775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "我悟了！\n自己的钱od，别人的钱od，赚钱od，不赚钱贷款od，贷不了了就佘钱od，想了就od，不想就od，有把握od，没把握赌一把也od，有苦我od，有福我od，od完了我od，没od我更要od，别人不说我od，一年只有四天od分别是春天夏天秋天冬天，一年只有三天od分别是昨天今天明天，一年只有两天od分别是白天黑天，一年只有一天od就是每一天，吃饭od，洗澡od，上厕所od，不说了，醒着od，睡着了更是要od，活着od，半死不活od，死了去下面绝对要od，好了不说了，我去od了，发贴也要od"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我悟了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 127,
+          "like_count": 518,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

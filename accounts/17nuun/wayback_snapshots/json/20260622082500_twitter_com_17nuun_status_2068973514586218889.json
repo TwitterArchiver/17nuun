@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068637980450004992"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2068973514586218889",
+    "created_at": "2026-06-22T08:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068973514586218889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xgzkzp3pbs",
+          "end": 28,
+          "expanded_url": "https://x.com/17nuun/status/2068973514586218889/photo/1",
+          "media_key": "3_2068637980450004992",
+          "start": 5,
+          "url": "https://t.co/Xgzkzp3pbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068973514586218889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“回报” https://t.co/Xgzkzp3pbs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 294,
+        "media_key": "3_2068637980450004992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVHSHmaoAAKJiz.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068637980450004992"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2068973514586218889",
+        "created_at": "2026-06-22T08:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068973514586218889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xgzkzp3pbs",
+              "end": 28,
+              "expanded_url": "https://x.com/17nuun/status/2068973514586218889/photo/1",
+              "media_key": "3_2068637980450004992",
+              "start": 5,
+              "url": "https://t.co/Xgzkzp3pbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068973514586218889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“回报” https://t.co/Xgzkzp3pbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1722,
+          "following_count": 917,
+          "like_count": 401,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 817
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

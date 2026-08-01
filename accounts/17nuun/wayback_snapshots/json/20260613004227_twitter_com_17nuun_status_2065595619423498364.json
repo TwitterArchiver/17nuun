@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065595619423498364",
+    "created_at": "2026-06-13T00:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065595619423498364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HappyHejsDay/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/HappyHejsDay/status/2065550250488553501",
+          "start": 28,
+          "url": "https://t.co/HZyf2VZ3So"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065595619423498364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065550250488553501",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望她以后能在不用靠游客镜头讨生活的地方，也这样笑下去 https://t.co/HZyf2VZ3So"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065595619423498364",
+        "created_at": "2026-06-13T00:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065595619423498364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HappyHejsDay/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/HappyHejsDay/status/2065550250488553501",
+              "start": 28,
+              "url": "https://t.co/HZyf2VZ3So"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065595619423498364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065550250488553501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望她以后能在不用靠游客镜头讨生活的地方，也这样笑下去 https://t.co/HZyf2VZ3So"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005261732751802368",
+        "conversation_id": "2065550250488553501",
+        "created_at": "2026-06-12T21:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T22:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065550250488553501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065550250488553501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在洞里萨湖游客码头上 遇到了一位给游客拍摄照片贩卖照片为生的ladyboy，🤭，应该也同时是mtf，忘记拍摄ta的照片了🥹，但是ta真的很好看，笑容很灿烂。如果ta不在柬埔寨，或许，会过得比现在好很多吧🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 135,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 474
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗醜釹｜疑似鍵政｜痛苦大學生｜Baptist U｜准健全逼｜失敗合約交易員｜🇹🇼🇭🇰🇨🇳｜歡迎私訊聊天｜同類互fo｜前世@franciswwwww｜寵物@Fe_ions ｜小玩具@wwwAlce4｜寶寶窩@PaulDrizzyvlni @Suimikax @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 90,
+                "start": 82,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "wwwAlce4"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "Suimikax"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "秦城监狱",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2064008531217686815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 1810,
+          "like_count": 9800,
+          "listed_count": 4,
+          "media_count": 466,
+          "tweet_count": 5969
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": false
+      }
+    ]
+  }
+}

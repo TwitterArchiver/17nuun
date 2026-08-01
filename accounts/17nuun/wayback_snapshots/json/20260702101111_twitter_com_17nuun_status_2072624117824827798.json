@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2072593869959729342",
+    "created_at": "2026-07-02T10:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072624117824827798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1647229461769891842",
+          "start": 0,
+          "username": "DrilL019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072624117824827798",
+    "in_reply_to_user_id": "1647229461769891842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072620725761102174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrilL019 咕咕嘎嘎！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072620719960453120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNtkEdbcAAnJRr.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2072593869959729342",
+        "created_at": "2026-07-02T10:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072624117824827798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647229461769891842",
+              "start": 0,
+              "username": "DrilL019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072624117824827798",
+        "in_reply_to_user_id": "1647229461769891842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072620725761102174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrilL019 咕咕嘎嘎！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072620719960453120"
+          ]
+        },
+        "author_id": "1647229461769891842",
+        "conversation_id": "2072593869959729342",
+        "created_at": "2026-07-02T09:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072620725761102174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJar00fvmr",
+              "end": 31,
+              "expanded_url": "https://x.com/DrilL019/status/2072620725761102174/photo/1",
+              "media_key": "3_2072620719960453120",
+              "start": 8,
+              "url": "https://t.co/cJar00fvmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072620725761102174",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072593869959729342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun https://t.co/cJar00fvmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/双相/INFP /💊活在春风里/\n优质内容在咱亮点里~\n最爱的小孩@dnshu135734 /小号是@danshuishuimu @mizukix178\n👇下面加tg或问问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "mizukix178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/51bucExiuc"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2071050529632129179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 1633,
+          "like_count": 458,
+          "listed_count": 5,
+          "media_count": 595,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/51bucExiuc",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T13:25:23.000Z",
+        "description": "小号@Noakatsuki1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "Noakatsuki1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drill019",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/drill019",
+                "start": 0,
+                "url": "https://t.co/2G0EsDCv8q"
+              }
+            ]
+          }
+        },
+        "id": "1647229461769891842",
+        "location": "请给我钱🥺⬇️",
+        "name": "DrilL019",
+        "pinned_tweet_id": "2067180107417186490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011804418208063488/uOZ4kFzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 1250,
+          "like_count": 19482,
+          "listed_count": 1,
+          "media_count": 918,
+          "tweet_count": 6338
+        },
+        "url": "https://t.co/2G0EsDCv8q",
+        "username": "DrilL019",
+        "verified": true
+      }
+    ]
+  }
+}

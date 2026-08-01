@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067468254126522369"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067468359063724139",
+    "created_at": "2026-06-18T04:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067468359063724139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kYnhnWMPIV",
+          "end": 37,
+          "expanded_url": "https://x.com/17nuun/status/2067468359063724139/photo/1",
+          "media_key": "3_2067468254126522369",
+          "start": 14,
+          "url": "https://t.co/kYnhnWMPIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067468359063724139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "蓝细菌：让一切氧化吧！！！ https://t.co/kYnhnWMPIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2067468254126522369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEfbFebwAEoxGY.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067468254126522369"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067468359063724139",
+        "created_at": "2026-06-18T04:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067468359063724139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYnhnWMPIV",
+              "end": 37,
+              "expanded_url": "https://x.com/17nuun/status/2067468359063724139/photo/1",
+              "media_key": "3_2067468254126522369",
+              "start": 14,
+              "url": "https://t.co/kYnhnWMPIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067468359063724139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "蓝细菌：让一切氧化吧！！！ https://t.co/kYnhnWMPIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2066760857493901415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 552,
+          "like_count": 334,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

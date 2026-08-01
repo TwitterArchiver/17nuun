@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064928117874151548",
+    "created_at": "2026-06-11T16:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065114004566024351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1905585345712062464",
+          "start": 0,
+          "username": "xiaolianmm4"
+        },
+        {
+          "end": 24,
+          "id": "1757616332240224256",
+          "start": 13,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065114004566024351",
+    "in_reply_to_user_id": "1905585345712062464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065068241584787530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaolianmm4 @B_cat38324 转转：我谢谢你啊（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064928117874151548",
+        "created_at": "2026-06-11T16:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065114004566024351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1905585345712062464",
+              "start": 0,
+              "username": "xiaolianmm4"
+            },
+            {
+              "end": 24,
+              "id": "1757616332240224256",
+              "start": 13,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065114004566024351",
+        "in_reply_to_user_id": "1905585345712062464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065068241584787530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaolianmm4 @B_cat38324 转转：我谢谢你啊（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905585345712062464",
+        "conversation_id": "2064928117874151548",
+        "created_at": "2026-06-11T13:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065068241584787530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            },
+            {
+              "end": 19,
+              "id": "1757616332240224256",
+              "start": 8,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065068241584787530",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064995382690545883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun @B_cat38324 上转转回收了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 36,
+          "like_count": 115,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 429
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T11:38:53.000Z",
+        "description": "生产日期20101219 hrt2026.4 喜欢od改花刀睡觉 qq 2973488974 是个小m 喜欢捆绑和鞭打 情绪不稳定 休学4年 住在北京西城 仇视香港和东莞",
+        "id": "1905585345712062464",
+        "location": "北京 西城",
+        "name": "霖霖🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2053001455762903196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055510546129297408/y_1wEzKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 494,
+          "like_count": 511,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 171
+        },
+        "username": "xiaolianmm4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23106,
+          "following_count": 197,
+          "like_count": 729,
+          "listed_count": 72,
+          "media_count": 103,
+          "tweet_count": 23763
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

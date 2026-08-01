@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064966033816105285",
+    "created_at": "2026-06-11T09:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064996735856910558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064996735856910558",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064966033816105285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 看着不错w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2064964580636504064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg6WG6aMAAl3WO.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2064964580615630848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg6WG1bsAAUua9.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2064964580619788288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg6WG2bIAA13d9.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2064964580628111360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg6WG4aIAA9oGy.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064966033816105285",
+        "created_at": "2026-06-11T09:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064996735856910558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064996735856910558",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064966033816105285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 看着不错w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064964580636504064",
+            "3_2064964580615630848",
+            "3_2064964580619788288",
+            "3_2064964580628111360"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064966033816105285",
+        "created_at": "2026-06-11T07:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:55:02.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064964610395148732",
+          "2064964676295983235",
+          "2064966033816105285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37IFkhE8uv",
+              "end": 123,
+              "expanded_url": "https://x.com/ServalCandle/status/2064966033816105285/photo/1",
+              "media_key": "3_2064964580636504064",
+              "start": 100,
+              "url": "https://t.co/37IFkhE8uv"
+            },
+            {
+              "display_url": "pic.x.com/37IFkhE8uv",
+              "end": 123,
+              "expanded_url": "https://x.com/ServalCandle/status/2064966033816105285/photo/1",
+              "media_key": "3_2064964580615630848",
+              "start": 100,
+              "url": "https://t.co/37IFkhE8uv"
+            },
+            {
+              "display_url": "pic.x.com/37IFkhE8uv",
+              "end": 123,
+              "expanded_url": "https://x.com/ServalCandle/status/2064966033816105285/photo/1",
+              "media_key": "3_2064964580619788288",
+              "start": 100,
+              "url": "https://t.co/37IFkhE8uv"
+            },
+            {
+              "display_url": "pic.x.com/37IFkhE8uv",
+              "end": 123,
+              "expanded_url": "https://x.com/ServalCandle/status/2064966033816105285/photo/1",
+              "media_key": "3_2064964580628111360",
+              "start": 100,
+              "url": "https://t.co/37IFkhE8uv"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/servalcandle/status/2064935073510821920",
+              "start": 124,
+              "url": "https://t.co/uhLz0p7d1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064966033816105285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 385,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064935073510821920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笨笨猫胡吃海喝日常\n遇到了一家叫FlatWhite的新西兰餐厅\n\n吃到了超好吃的medium rare sirloin\n_(:з」∠)_\n\n是很标准的medium rare\n笨猫非常推荐(＞人＜;) https://t.co/37IFkhE8uv https://t.co/uhLz0p7d1c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 34,
+          "like_count": 111,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 391
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "BPD胡亂發言警告⚠️\n頭像是自拍 / 身分證性別女\n封鎖必回\n癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063373902387281920/oihXfGP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33940,
+          "following_count": 425,
+          "like_count": 237174,
+          "listed_count": 106,
+          "media_count": 9263,
+          "tweet_count": 60245
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

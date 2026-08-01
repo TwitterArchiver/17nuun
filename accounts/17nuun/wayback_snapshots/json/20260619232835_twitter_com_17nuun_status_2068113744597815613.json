@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068113273548156928"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2068113744597815613",
+    "created_at": "2026-06-19T23:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T00:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068113744597815613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "mtf-voice-training.vercel.app",
+          "end": 73,
+          "expanded_url": "https://mtf-voice-training.vercel.app/",
+          "start": 50,
+          "url": "https://t.co/chsxGimZvi"
+        },
+        {
+          "display_url": "pic.x.com/pnM6axEEgt",
+          "end": 97,
+          "expanded_url": "https://x.com/17nuun/status/2068113744597815613/video/1",
+          "media_key": "13_2068113273548156928",
+          "start": 74,
+          "url": "https://t.co/pnM6axEEgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068113744597815613",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【MTF声音女性化练习】 \n来自:bilibili BV14zGH6uEdV \nあおぎ葵\n配套手册：https://t.co/chsxGimZvi https://t.co/pnM6axEEgt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5642088,
+        "height": 480,
+        "media_key": "13_2068113273548156928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068113273548156928/img/3Zsj_V9OvE3q9ayn.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068113273548156928/vid/avc1/478x270/QgywhbSa625JVF5-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068113273548156928/vid/avc1/638x360/bad6_qn0Ahu2lL4c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068113273548156928/vid/avc1/852x480/eTGhF4F64VHhyRHV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068113273548156928/pl/kPjyCwDc20Riw7UY.m3u8"
+          }
+        ],
+        "width": 853
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068113273548156928"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2068113744597815613",
+        "created_at": "2026-06-19T23:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T00:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068113744597815613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mtf-voice-training.vercel.app",
+              "end": 73,
+              "expanded_url": "https://mtf-voice-training.vercel.app/",
+              "start": 50,
+              "url": "https://t.co/chsxGimZvi"
+            },
+            {
+              "display_url": "pic.x.com/pnM6axEEgt",
+              "end": 97,
+              "expanded_url": "https://x.com/17nuun/status/2068113744597815613/video/1",
+              "media_key": "13_2068113273548156928",
+              "start": 74,
+              "url": "https://t.co/pnM6axEEgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068113744597815613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【MTF声音女性化练习】 \n来自:bilibili BV14zGH6uEdV \nあおぎ葵\n配套手册：https://t.co/chsxGimZvi https://t.co/pnM6axEEgt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 123,
+                "start": 107,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 662,
+          "like_count": 387,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 707
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064324916762046837",
+    "created_at": "2026-06-09T12:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064324916762046837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761282483834998784",
+          "start": 3,
+          "username": "qiancongxyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/qiancongxyn/st…",
+          "end": 81,
+          "expanded_url": "https://x.com/qiancongxyn/status/2063035315976323246?s=20",
+          "start": 58,
+          "url": "https://t.co/BmAOBaETPY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064324916762046837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064316741870883030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiancongxyn: 各位，我跟你们一起追剧🤓👆🏻\n我已经从悲伤中走出来了\n发现此事甚乐之\n太有意思了\nhttps://t.co/BmAOBaETPY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064324916762046837",
+        "created_at": "2026-06-09T12:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064324916762046837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761282483834998784",
+              "start": 3,
+              "username": "qiancongxyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 81,
+              "expanded_url": "https://x.com/qiancongxyn/status/2063035315976323246?s=20",
+              "start": 58,
+              "url": "https://t.co/BmAOBaETPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064324916762046837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064316741870883030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiancongxyn: 各位，我跟你们一起追剧🤓👆🏻\n我已经从悲伤中走出来了\n发现此事甚乐之\n太有意思了\nhttps://t.co/BmAOBaETPY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2064316741870883030",
+        "created_at": "2026-06-09T12:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064316741870883030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 64,
+              "expanded_url": "https://x.com/qiancongxyn/status/2063035315976323246?s=20",
+              "start": 41,
+              "url": "https://t.co/BmAOBaETPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064316741870883030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063035315976323246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "各位，我跟你们一起追剧🤓👆🏻\n我已经从悲伤中走出来了\n发现此事甚乐之\n太有意思了\nhttps://t.co/BmAOBaETPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 272
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban\n不阔爱不pass｜缺爱想交朋友\n\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "huihui_mikumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 984,
+          "like_count": 2293,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1743
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

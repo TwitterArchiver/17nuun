@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064179042149085295",
+    "created_at": "2026-06-09T08:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064258424192307241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064258424192307241",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064179042149085295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 历史启蒙路线突然变成碧蓝航线了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064179031864713216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVv5JsbIAAhXFq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064179042149085295",
+        "created_at": "2026-06-09T08:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064258424192307241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064258424192307241",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064179042149085295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 历史启蒙路线突然变成碧蓝航线了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064179031864713216"
+          ]
+        },
+        "author_id": "1597605170502062080",
+        "conversation_id": "2064179042149085295",
+        "created_at": "2026-06-09T02:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T03:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064179042149085295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCXSK951GW",
+              "end": 106,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/2064179042149085295/photo/1",
+              "media_key": "3_2064179031864713216",
+              "start": 83,
+              "url": "https://t.co/gCXSK951GW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064179042149085295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1087,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在海军博物馆参观鞍山舰\n在甲板上的时候，有一个看起来就小学生的男孩x大喊\n鞍山！这个我知道！碧蓝航线里那个绿头发的！\n\n我震惊🤯，你这个年纪玩这个游戏，这辈子有了👍 https://t.co/gCXSK951GW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 30,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 247
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常。\n大龄术后MTF，（某二次元）Unity客户端，对什么都感兴趣\n水中寒月如雪，指尖轻点融解， 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n#啊呀纳米相册  #小绫的诗歌日记本 #小绫饭店  #aynm吃什么 #aynm旅行日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "tag": "aynm吃什么"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "tag": "aynm旅行日记"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4574,
+          "following_count": 854,
+          "like_count": 18054,
+          "listed_count": 13,
+          "media_count": 1654,
+          "tweet_count": 10779
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

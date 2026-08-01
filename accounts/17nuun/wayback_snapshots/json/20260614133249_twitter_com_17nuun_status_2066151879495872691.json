@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066101850483663196",
+    "created_at": "2026-06-14T13:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066151879495872691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1765154815678779392",
+          "start": 0,
+          "username": "NFhLWuYaiP90228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066151879495872691",
+    "in_reply_to_user_id": "1765154815678779392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066137144150913427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NFhLWuYaiP90228 才不是喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066101850483663196",
+        "created_at": "2026-06-14T13:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066151879495872691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1765154815678779392",
+              "start": 0,
+              "username": "NFhLWuYaiP90228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066151879495872691",
+        "in_reply_to_user_id": "1765154815678779392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066137144150913427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NFhLWuYaiP90228 才不是喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765154815678779392",
+        "conversation_id": "2066101850483663196",
+        "created_at": "2026-06-14T12:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066137144150913427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066137144150913427",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066101850483663196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 凑17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 51,
+          "like_count": 207,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 551
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T23:19:09.000Z",
+        "description": "🏳️‍⚧️mtf HRT：2026/3/24から | 坐标大湾区 | 高校生 | acgが好き | 已成功成为家长不管党喵  | 176长发及腰 | 不o不割不🚬不🍺 | 科瓦奇的英雄 | 🏳️‍🌈🏳️‍⚧️",
+        "id": "1765154815678779392",
+        "name": "依松佐河🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058982342295986176/g_UThJOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 592,
+          "like_count": 25944,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 329
+        },
+        "username": "NFhLWuYaiP90228",
+        "verified": false
+      }
+    ]
+  }
+}

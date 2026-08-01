@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065929781179551767",
+    "created_at": "2026-06-13T23:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T00:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065938908391846221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838442121222668288",
+          "start": 0,
+          "username": "myxing2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065938908391846221",
+    "in_reply_to_user_id": "1838442121222668288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065938686769086472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myxing2024 可以给我现在的这个账号私信哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065929781179551767",
+        "created_at": "2026-06-13T23:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065938908391846221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838442121222668288",
+              "start": 0,
+              "username": "myxing2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065938908391846221",
+        "in_reply_to_user_id": "1838442121222668288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065938686769086472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myxing2024 可以给我现在的这个账号私信哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838442121222668288",
+        "conversation_id": "2065929781179551767",
+        "created_at": "2026-06-13T23:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T00:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065938686769086472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065938686769086472",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065938221293519138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 那你还能开私信吗？😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 42,
+          "like_count": 164,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 519
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T04:55:54.000Z",
+        "description": "双相/自伤🔪🩸/OD💊/记忆力很差/生产日期:2010.9.8",
+        "id": "1838442121222668288",
+        "location": "日本",
+        "name": "煜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051293009350909952/oOiCqG2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 158,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 373
+        },
+        "username": "myxing2024",
+        "verified": false
+      }
+    ]
+  }
+}

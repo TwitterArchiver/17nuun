@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2081929023123591464",
+    "created_at": "2026-07-28T17:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082159522542723211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1999862284500488192",
+          "start": 0,
+          "username": "Yume33550336"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082159522542723211",
+    "in_reply_to_user_id": "1999862284500488192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082156608294113752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yume33550336 抱抱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2081929023123591464",
+        "created_at": "2026-07-28T17:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082159522542723211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1999862284500488192",
+              "start": 0,
+              "username": "Yume33550336"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082159522542723211",
+        "in_reply_to_user_id": "1999862284500488192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082156608294113752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yume33550336 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999862284500488192",
+        "conversation_id": "2081929023123591464",
+        "created_at": "2026-07-28T17:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082156608294113752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082156608294113752",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081929023123591464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 我们会陪着小17的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 220,
+          "like_count": 998,
+          "listed_count": 5,
+          "media_count": 45,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T15:21:50.000Z",
+        "description": "*dreamland system\n*inner world：@yumek496 (🎈negative contents)\n*lovers: @SarahAguil32516 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "yumek496"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "SarahAguil32516"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitashioyume.github.io",
+                "end": 23,
+                "expanded_url": "http://kitashioyume.github.io",
+                "start": 0,
+                "url": "https://t.co/n2vIYGSJ6k"
+              }
+            ]
+          }
+        },
+        "id": "1999862284500488192",
+        "name": "Kitashio Yume",
+        "pinned_tweet_id": "2071067138966831121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072896664104960/XV-dO9FM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 444,
+          "like_count": 4563,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 3286
+        },
+        "url": "https://t.co/n2vIYGSJ6k",
+        "username": "Yume33550336",
+        "verified": false
+      }
+    ]
+  }
+}

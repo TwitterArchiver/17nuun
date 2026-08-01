@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065471159609790688",
+    "created_at": "2026-06-13T00:36:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T01:36:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065594143007490548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851416603990405120",
+          "start": 0,
+          "username": "ogsa1687497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065594143007490548",
+    "in_reply_to_user_id": "1851416603990405120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065471159609790688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ogsa1687497 先找能线下到场的可信朋友或社工吧，定位和身份信息别公开散太开，法律援助和当地保护渠道也一起问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065471159609790688",
+        "created_at": "2026-06-13T00:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065594143007490548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851416603990405120",
+              "start": 0,
+              "username": "ogsa1687497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065594143007490548",
+        "in_reply_to_user_id": "1851416603990405120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065471159609790688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ogsa1687497 先找能线下到场的可信朋友或社工吧，定位和身份信息别公开散太开，法律援助和当地保护渠道也一起问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851416603990405120",
+        "conversation_id": "2065471159609790688",
+        "created_at": "2026-06-12T16:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065471159609790688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/subdronexyn/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/subdronexyn/status/2065366952844136631",
+              "start": 7,
+              "url": "https://t.co/1CKRsHLfkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065471159609790688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065366952844136631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮帮她吧…… https://t.co/1CKRsHLfkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 134,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 471
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T00:11:41.000Z",
+        "description": "嗯……不开心☹️",
+        "id": "1851416603990405120",
+        "location": "Hong Kong",
+        "name": "青菜猫🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058297012102344704/VJEZoNRY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 295,
+          "like_count": 286,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 349
+        },
+        "username": "ogsa1687497",
+        "verified": false
+      }
+    ]
+  }
+}

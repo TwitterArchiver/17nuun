@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063579725608702454",
+    "created_at": "2026-06-08T04:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T05:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063842736487162066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684411421256466432",
+          "start": 0,
+          "username": "xiaomeinuya_GST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063842736487162066",
+    "in_reply_to_user_id": "1684411421256466432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063579725608702454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomeinuya_GST 哇！\n追星成功w\n开心就好呀～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2063579720869154816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNO0qQbEAASCi3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063579725608702454",
+        "created_at": "2026-06-08T04:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063842736487162066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684411421256466432",
+              "start": 0,
+              "username": "xiaomeinuya_GST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063842736487162066",
+        "in_reply_to_user_id": "1684411421256466432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063579725608702454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomeinuya_GST 哇！\n追星成功w\n开心就好呀～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063579720869154816"
+          ]
+        },
+        "author_id": "1684411421256466432",
+        "conversation_id": "2063579725608702454",
+        "created_at": "2026-06-07T11:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063579725608702454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hh5pCdB2Yi",
+              "end": 33,
+              "expanded_url": "https://x.com/xiaomeinuya_GST/status/2063579725608702454/photo/1",
+              "media_key": "3_2063579720869154816",
+              "start": 10,
+              "url": "https://t.co/hh5pCdB2Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063579725608702454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 830,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "追星成功！锵锵～😄 https://t.co/hh5pCdB2Yi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 29,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 83
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T03:52:44.000Z",
+        "description": "无证含糖🍥/双性恋/抑郁/焦虑/阳痿/制造日期2007.12.13/170cm 60kg 39码/INFP/hrt2026.02.10/家里蹲好无聊想认识更多朋友😭小男娘小药娘来互fo😭",
+        "id": "1684411421256466432",
+        "location": "天安门",
+        "name": "顾诗钿.🍥",
+        "pinned_tweet_id": "2052064351717359647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052666153844027398/wuqocx2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 81,
+          "like_count": 17805,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1651
+        },
+        "username": "xiaomeinuya_GST",
+        "verified": false
+      }
+    ]
+  }
+}

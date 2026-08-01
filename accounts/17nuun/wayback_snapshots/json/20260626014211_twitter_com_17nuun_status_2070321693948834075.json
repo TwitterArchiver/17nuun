@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {
+      "title": "关于我发小奸杀我同班同学这件事"
+    },
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2070321693948834075",
+    "created_at": "2026-06-26T01:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070321693948834075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2068…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2068866743939002368",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2068866743939002368",
+          "url": "https://t.co/n7qJpT4U6P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070321693948834075",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/n7qJpT4U6P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2068867116611330048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYXrmUa4AAeRlI.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "关于我发小奸杀我同班同学这件事"
+        },
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2070321693948834075",
+        "created_at": "2026-06-26T01:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070321693948834075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2068…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2068866743939002368",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2068866743939002368",
+              "url": "https://t.co/n7qJpT4U6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070321693948834075",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/n7qJpT4U6P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@danshuishuimu\n👇下面加tg或问问题哦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 132,
+                "start": 118,
+                "username": "danshuishuimu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 23,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 0,
+                "url": "https://t.co/51bucExiuc"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1069,
+          "like_count": 428,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/51bucExiuc",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

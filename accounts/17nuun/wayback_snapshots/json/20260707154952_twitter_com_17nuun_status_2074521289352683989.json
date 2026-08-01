@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2074350620140847531",
+    "created_at": "2026-07-07T15:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074521289352683989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980651637673951232",
+          "start": 0,
+          "username": "NeuroSaki987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074521289352683989",
+    "in_reply_to_user_id": "1980651637673951232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074350620140847531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuroSaki987 摸摸头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2074350620140847531",
+        "created_at": "2026-07-07T15:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074521289352683989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980651637673951232",
+              "start": 0,
+              "username": "NeuroSaki987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074521289352683989",
+        "in_reply_to_user_id": "1980651637673951232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074350620140847531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuroSaki987 摸摸头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980651637673951232",
+        "conversation_id": "2074350620140847531",
+        "created_at": "2026-07-07T04:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074350620140847531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074350620140847531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫好累，想离开了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 110,
+          "like_count": 471,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 668
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-21T15:06:35.000Z",
+        "description": "mtf?/x｜birth 2008 ｜ INTP ｜HRT since 2025 ｜ 家暴党💔｜ https://t.co/LjGshms4aj｜好多管道符哎｜深度学习与AI开发 ｜是只软软的小猫呢，抱走我喵～",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/NeuroSaki987",
+                "end": 72,
+                "expanded_url": "https://github.com/NeuroSaki987",
+                "start": 49,
+                "url": "https://t.co/LjGshms4aj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…hcnalmzaclmwrrj3nrt4rq2qdepaead.onion",
+                "end": 23,
+                "expanded_url": "http://neuro5w22bxsgajxyykcsgdtjhcnalmzaclmwrrj3nrt4rq2qdepaead.onion/",
+                "start": 0,
+                "url": "https://t.co/UVlOfR8kuw"
+              }
+            ]
+          }
+        },
+        "id": "1980651637673951232",
+        "location": "LiuyingWeb Inc. Shanghai",
+        "name": "Neuro Saki 🍥",
+        "pinned_tweet_id": "2054120857275171110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009413788530036737/yqokTjpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 401,
+          "like_count": 2349,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/UVlOfR8kuw",
+        "username": "NeuroSaki987",
+        "verified": false
+      }
+    ]
+  }
+}

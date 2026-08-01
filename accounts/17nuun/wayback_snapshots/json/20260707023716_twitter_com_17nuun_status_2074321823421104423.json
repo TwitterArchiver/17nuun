@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2074321823421104423",
+    "created_at": "2026-07-07T02:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074321823421104423"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074321823421104423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实你已经见过很多人的最后一面了不是吗?\n曾经你很喜欢吃的店已经很久没碰了.\n上一次尝试跳高触碰树叶已经是很多年前,\n和朋友打聊天明明约定第二天再聊,可是那天永远不会到来.\n你和对象在平淡的一天见面后各自回家,其实那天是你们的最后一次见面."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2074321823421104423",
+        "created_at": "2026-07-07T02:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074321823421104423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074321823421104423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实你已经见过很多人的最后一面了不是吗?\n曾经你很喜欢吃的店已经很久没碰了.\n上一次尝试跳高触碰树叶已经是很多年前,\n和朋友打聊天明明约定第二天再聊,可是那天永远不会到来.\n你和对象在平淡的一天见面后各自回家,其实那天是你们的最后一次见面."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "danshuishuimu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 122,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 99,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "就在拥抱你",
+        "name": "海月水母",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 111,
+          "like_count": 466,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

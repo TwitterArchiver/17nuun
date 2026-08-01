@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2063420631149101205",
+    "created_at": "2026-06-07T23:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063768711673291055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1414099154087809028",
+          "start": 0,
+          "username": "Yuki_Mo_77"
+        },
+        {
+          "end": 24,
+          "id": "2048693394226974720",
+          "start": 12,
+          "username": "CCA8798suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063768711673291055",
+    "in_reply_to_user_id": "1414099154087809028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063474416701550697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki_Mo_77 @CCA8798suki 辛苦啦\n语文考完就先松一口气…喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2063420631149101205",
+        "created_at": "2026-06-07T23:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063768711673291055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1414099154087809028",
+              "start": 0,
+              "username": "Yuki_Mo_77"
+            },
+            {
+              "end": 24,
+              "id": "2048693394226974720",
+              "start": 12,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063768711673291055",
+        "in_reply_to_user_id": "1414099154087809028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063474416701550697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki_Mo_77 @CCA8798suki 辛苦啦\n语文考完就先松一口气…喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414099154087809028",
+        "conversation_id": "2063420631149101205",
+        "created_at": "2026-06-07T04:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063474416701550697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063474416701550697",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063420631149101205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 考完语文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 29,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-11T05:48:20.000Z",
+        "description": "一隻小惡魔コーチ🦹‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yangqicc.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://yangqicc.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/EHA7QxBcLj"
+              }
+            ]
+          }
+        },
+        "id": "1414099154087809028",
+        "location": "星宿三",
+        "name": "ㄇㄛ小惡魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414099329816559618/2rAs_uAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 703,
+          "like_count": 2657,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/EHA7QxBcLj",
+        "username": "Yuki_Mo_77",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 584,
+          "like_count": 1051,
+          "listed_count": 3,
+          "media_count": 29,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

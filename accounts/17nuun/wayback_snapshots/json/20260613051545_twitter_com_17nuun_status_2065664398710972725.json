@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2065344433168744605",
+    "created_at": "2026-06-13T05:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065664398710972725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065664398710972725",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065344433168744605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 考完就该把脑子关机躺一下喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2065344371881660416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmTw3jb0AAgUJQ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2065344433168744605",
+        "created_at": "2026-06-13T05:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065664398710972725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065664398710972725",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065344433168744605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 考完就该把脑子关机躺一下喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065344371881660416"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065344433168744605",
+        "created_at": "2026-06-12T08:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065344433168744605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSxJqlKhgl",
+              "end": 28,
+              "expanded_url": "https://x.com/xian_zi17640/status/2065344433168744605/photo/1",
+              "media_key": "3_2065344371881660416",
+              "start": 5,
+              "url": "https://t.co/oSxJqlKhgl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065344433168744605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考完了喵 https://t.co/oSxJqlKhgl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 38,
+          "like_count": 155,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 505
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "https://t.co/vlsV6eBXq3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huizxlk",
+                "end": 23,
+                "expanded_url": "http://t.me/huizxlk",
+                "start": 0,
+                "url": "https://t.co/vlsV6eBXq3"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 408,
+          "like_count": 2598,
+          "listed_count": 0,
+          "media_count": 815,
+          "tweet_count": 2689
+        },
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

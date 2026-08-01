@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2066760857493901415",
+    "created_at": "2026-06-16T05:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066760857493901415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 94,
+          "id": "2066487415678918657",
+          "start": 78,
+          "username": "haiyueshuimuxia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066760857493901415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大号被封禁了,但是17不打算坐以待毙!!!\n\n这个账号现在计划为发梗图赚钱的账号\n过几个月如果大号申诉不回来,流量基本够了的话就会拿这个账号发梗图赚钱!\n\n@haiyueshuimuxia 为17的个人账号!!!请大家来关注17喵~\n关注17喵,关注17谢谢喵~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2066760857493901415",
+        "created_at": "2026-06-16T05:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066760857493901415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "2066487415678918657",
+              "start": 78,
+              "username": "haiyueshuimuxia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066760857493901415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号被封禁了,但是17不打算坐以待毙!!!\n\n这个账号现在计划为发梗图赚钱的账号\n过几个月如果大号申诉不回来,流量基本够了的话就会拿这个账号发梗图赚钱!\n\n@haiyueshuimuxia 为17的个人账号!!!请大家来关注17喵~\n关注17喵,关注17谢谢喵~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞|sub|mtf|06|心境情感障碍|infp|💊|想要倾诉或者聊天可以找我说话|聊天请私信|最爱的小孩@dnshu135734|小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2066760857493901415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 70,
+          "like_count": 269,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 595
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜聊天(暂不可用,建议私信我)：https://t.co/3JPf2UoHaa｜最爱的小孩\n@dnshu135734\n｜大号是@17nuun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "username": "17nuun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 87,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 64,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "name": "海月水水母小17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066488575466872832/r7LqRx6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 27,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "haiyueshuimuxia",
+        "verified": false
+      }
+    ]
+  }
+}

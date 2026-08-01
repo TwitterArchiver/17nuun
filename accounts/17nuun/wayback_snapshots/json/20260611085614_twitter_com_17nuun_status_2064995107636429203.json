@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2064995107636429203",
+    "created_at": "2026-06-11T08:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064995107636429203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/4rulq/status/2…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/4rulq/status/2064984181441184192",
+          "start": 39,
+          "url": "https://t.co/jWE6kd2rcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064995107636429203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064984181441184192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "画图用procreate喵，写代码用vscode，但最近在试sai2，好纠结 https://t.co/jWE6kd2rcb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2064995107636429203",
+        "created_at": "2026-06-11T08:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064995107636429203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/4rulq/status/2…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/4rulq/status/2064984181441184192",
+              "start": 39,
+              "url": "https://t.co/jWE6kd2rcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064995107636429203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064984181441184192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "画图用procreate喵，写代码用vscode，但最近在试sai2，好纠结 https://t.co/jWE6kd2rcb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2064984181441184192",
+        "created_at": "2026-06-11T08:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064984181441184192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064984181441184192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們畫插畫和寫代碼用什麼應用程式喵～？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 34,
+          "like_count": 111,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 386
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "請叫我いいちゃん喵～\n臺、日推\n繁體中國語、日本語\n請多多關照喵🐱～\n2007～永遠\n職業樂手\n電子產品維修與銷售\n插畫（探索ung）\n寫程式 （探索ing）\n官方：@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 83,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "日本東京、臺灣台北",
+        "name": "いいちゃん",
+        "pinned_tweet_id": "2040388638589280321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 739,
+          "like_count": 2888,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2609
+        },
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

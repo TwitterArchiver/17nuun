@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2064565829337772298",
+    "created_at": "2026-06-10T04:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064565829337772298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064565829337772298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064431434929148287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 又想起来初中第一次看君の名は\n\n大笨猫又不懂二次元\n当时抱着看灵魂互换日本小动漫的预期去的\n\n结果演一半突然给我来一个叙事性诡计\n这又不是推理电影所以一点心理准备都没有\n\n意识到自己被编剧导演给骗了那一刻超震撼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2064565829337772298",
+        "created_at": "2026-06-10T04:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064565829337772298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064565829337772298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064431434929148287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 又想起来初中第一次看君の名は\n\n大笨猫又不懂二次元\n当时抱着看灵魂互换日本小动漫的预期去的\n\n结果演一半突然给我来一个叙事性诡计\n这又不是推理电影所以一点心理准备都没有\n\n意识到自己被编剧导演给骗了那一刻超震撼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2064431434929148287",
+        "created_at": "2026-06-09T19:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064431434929148287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064431434929148287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "又想起来初中第一次看君の名は\n\n大笨猫又不懂二次元\n当时抱着看灵魂互换日本小动漫的预期去的\n\n结果演一半突然给我来一个叙事性诡计\n这又不是推理电影所以一点心理准备都没有\n\n意识到自己被编剧导演给骗了那一刻超震撼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "",
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 31,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 345
+        },
+        "username": "17nuun",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "BPD胡亂發言警告⚠️\n頭像是自拍 / 身分證性別女\n封鎖必回\n癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🍥傻貓すみか🍧🍭",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063373902387281920/oihXfGP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33940,
+          "following_count": 425,
+          "like_count": 237168,
+          "listed_count": 106,
+          "media_count": 9258,
+          "tweet_count": 60237
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}
