@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2078687670079758800",
+    "created_at": "2026-07-19T04:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078702656391127313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2801561021",
+          "start": 0,
+          "username": "QimoHK300311"
+        },
+        {
+          "end": 30,
+          "id": "1565981667746914304",
+          "start": 14,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078702656391127313",
+    "in_reply_to_user_id": "2801561021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078687670079758800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QimoHK300311 @Kagura_Yukikaze 不要..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2078687670079758800",
+        "created_at": "2026-07-19T04:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078702656391127313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2801561021",
+              "start": 0,
+              "username": "QimoHK300311"
+            },
+            {
+              "end": 30,
+              "id": "1565981667746914304",
+              "start": 14,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078702656391127313",
+        "in_reply_to_user_id": "2801561021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078687670079758800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QimoHK300311 @Kagura_Yukikaze 不要..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2801561021",
+        "conversation_id": "2078687670079758800",
+        "created_at": "2026-07-19T03:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078687670079758800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078687670079758800",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Kagura_Yukikaze \n我也需要NaNO2...\n我想去找妳...我想要陪...我离不开妳...\n能在另一个世界遇到姐姐...心里有姐姐...死去的时候应该就不会那么痛苦了吧..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 153,
+          "like_count": 619,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "一生中永远最爱的(是亲姐姐?也是对象! 恋人喵🥰)\n是@Kagura_Yukikaze 呢\n生产年月2011.05/可以叫我齐墨/常驻广东佛山/持续深柜(无证含🍥)/hrt:2025.05.09/初中毕业(准高一)/业余无线电爱好者(BG7MUW)/情绪焦虑、抑郁(中度心理问题)\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Kagura_Yukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLS4u"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "location": "Guangdong,P.R.China (OL62)",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020885466019397632/URyAX7Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 103,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/LBSe4QLS4u",
+        "username": "QimoHK300311",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "总觉得还有时间，总觉得还有明年，工作太忙日子还长连问候都会忘，别等到世事无常，别等到变了模样\n我想像她一样去拥抱死亡——《124米的距离》",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風ちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 3071,
+          "like_count": 115614,
+          "listed_count": 10,
+          "media_count": 826,
+          "tweet_count": 13956
+        },
+        "url": "",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

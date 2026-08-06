@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2079439838974194067",
+    "created_at": "2026-07-21T05:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079439838974194067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/17nuun/status/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/17nuun/status/2079419641253036503",
+          "start": 35,
+          "url": "https://t.co/WYaAPQrOii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079439838974194067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079419641253036503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吐了好多，但是是药效还好？\n浪费白兔右美了\n打字好难\n下次要吃止吐药 https://t.co/WYaAPQrOii"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2079439838974194067",
+        "created_at": "2026-07-21T05:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079439838974194067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17nuun/status/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/17nuun/status/2079419641253036503",
+              "start": 35,
+              "url": "https://t.co/WYaAPQrOii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079439838974194067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079419641253036503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吐了好多，但是是药效还好？\n浪费白兔右美了\n打字好难\n下次要吃止吐药 https://t.co/WYaAPQrOii"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2079419641253036503",
+        "created_at": "2026-07-21T04:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079419641253036503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079419641253036503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 253,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最终成果\n右美40t 苯海拉明5t 普瑞巴林12t 白兔84t 0.5t思诺思\n西柚汁一瓶\n这下吞不了盐了，因为药吃太多已经撑了\n要不是吃不下了高低再来一瓶氯硝西泮和几粒亚硝胶囊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "pinned_tweet_id": "2068219043119526138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 165,
+          "like_count": 663,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

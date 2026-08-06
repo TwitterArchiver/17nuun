@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084290655422173184"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2084191246609002919",
+    "created_at": "2026-08-03T14:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084290666902032804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057781169748574208",
+          "start": 0,
+          "username": "DrSylvaingm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qyApSSpSr5",
+          "end": 36,
+          "expanded_url": "https://x.com/17nuun/status/2084290666902032804/photo/1",
+          "media_key": "3_2084290655422173184",
+          "start": 13,
+          "url": "https://t.co/qyApSSpSr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084290666902032804",
+    "in_reply_to_user_id": "2057781169748574208",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084287189526233513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrSylvaingm https://t.co/qyApSSpSr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2084290655422173184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzjTt0a0AAX0Lb.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084290655422173184"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2084191246609002919",
+        "created_at": "2026-08-03T14:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084290666902032804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057781169748574208",
+              "start": 0,
+              "username": "DrSylvaingm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyApSSpSr5",
+              "end": 36,
+              "expanded_url": "https://x.com/17nuun/status/2084290666902032804/photo/1",
+              "media_key": "3_2084290655422173184",
+              "start": 13,
+              "url": "https://t.co/qyApSSpSr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084290666902032804",
+        "in_reply_to_user_id": "2057781169748574208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084287189526233513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrSylvaingm https://t.co/qyApSSpSr5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057781169748574208",
+        "conversation_id": "2084191246609002919",
+        "created_at": "2026-08-03T14:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084287189526233513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084287189526233513",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084191246609002919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun ……我要是没记错的话，搞惟心论，在文革的时候会被批斗的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "location": "正在拥抱你",
+        "name": "海月水母x17",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2644,
+          "following_count": 238,
+          "like_count": 1268,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 1068
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-22T11:11:52.000Z",
+        "description": "",
+        "id": "2057781169748574208",
+        "name": "Dr Sylvain",
+        "pinned_tweet_id": "2081664302323552318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057782179766439936/Um_INdVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 45,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "DrSylvaingm",
+        "verified": false
+      }
+    ]
+  }
+}
