@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093566413722284032"
+      ]
+    },
+    "author_id": "2063266311254552576",
+    "conversation_id": "2093566426187805102",
+    "created_at": "2026-08-29T05:08:27.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093566426187805102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0cNd7u6NnA",
+          "end": 36,
+          "expanded_url": "https://x.com/17nuun/status/2093566426187805102/photo/1",
+          "media_key": "3_2093566413722284032",
+          "start": 13,
+          "url": "https://t.co/0cNd7u6NnA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093566426187805102",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093566413722284032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这样的水母，大家会喜欢吗 https://t.co/0cNd7u6NnA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 829,
+        "media_key": "3_2093566413722284032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3Xj6Oa8AAP5Gj.jpg",
+        "width": 629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093566413722284032"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2093566426187805102",
+        "created_at": "2026-08-29T05:08:27.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093566426187805102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cNd7u6NnA",
+              "end": 36,
+              "expanded_url": "https://x.com/17nuun/status/2093566426187805102/photo/1",
+              "media_key": "3_2093566413722284032",
+              "start": 13,
+              "url": "https://t.co/0cNd7u6NnA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093566426187805102",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093566413722284032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样的水母，大家会喜欢吗 https://t.co/0cNd7u6NnA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2093566426187805102",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 276,
+          "like_count": 1807,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

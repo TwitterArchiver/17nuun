@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2090019839121436691",
+    "created_at": "2026-08-19T10:41:01.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090026239994302899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "iityann19462957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090026239994302899",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090019839121436691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iityann19462957 我也在想哦（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2090019839121436691",
+        "created_at": "2026-08-19T10:41:01.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090026239994302899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "iityann19462957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090026239994302899",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090019839121436691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iityann19462957 我也在想哦（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035668415231492096",
+        "conversation_id": "2090019839121436691",
+        "created_at": "2026-08-19T10:15:34.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090019839121436691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090019839121436691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "難道只有一醬在今天想死喵？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2090026239994302899",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 245,
+          "like_count": 1542,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "一隻路過且無人愛的一醬喵😭🥹\n情感碎碎念\n無助\n需要被愛\n黃推一醬（？）\n接圓角喵\n負面情緒注意⚠️\n中焦重抑\n隨時亖亡（？）\n#NSFW原創\n官方：@mapo_q\n最好的閨蜜：@sukimiku0831\n最愛的妹妹：@Yuki_Mo_77",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "NSFW原創"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "mapo_q"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "sukimiku0831"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Yuki_Mo_77"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "is_identity_verified": false,
+        "location": "機廳/音樂排練室",
+        "most_recent_tweet_id": "2090019839121436691",
+        "name": "不會打Maimai DX的いいちゃん😾😿",
+        "pinned_tweet_id": "2080030592926892493",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035668415231492096/1786453142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 928,
+          "like_count": 4720,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 4532
+        },
+        "url": "",
+        "username": "iityann19462957",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

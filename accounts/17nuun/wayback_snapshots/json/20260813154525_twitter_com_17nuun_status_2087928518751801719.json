@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2087897097991487986",
+    "created_at": "2026-08-13T15:45:25.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T16:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087928518751801719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057104200551825408",
+          "start": 0,
+          "username": "NZzdhnn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087928518751801719",
+    "in_reply_to_user_id": "2057104200551825408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087897097991487986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NZzdhnn9 😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6021,
+        "height": 1280,
+        "media_key": "13_2087897022854828032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087897022854828032/img/RgCO53425eiXRHE_.jpg",
+        "public_metrics": {
+          "view_count": 26474
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087897022854828032/vid/avc1/320x568/ppB8HzqiLvy58SZU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087897022854828032/vid/avc1/480x852/QEWslvM_EX0pkq0x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087897022854828032/vid/avc1/720x1280/NZ-O7dQMUQ2PU1I5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087897022854828032/pl/FcFSWNblE5_bjKIn.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13061,
+        "height": 1280,
+        "media_key": "13_2087897063443038208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087897063443038208/img/g3L4OMkQTUtwWX84.jpg",
+        "public_metrics": {
+          "view_count": 5648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087897063443038208/vid/avc1/320x568/TtPtPpTQwK21V1h-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087897063443038208/vid/avc1/480x852/sUyaI_8KF_KxnyMA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087897063443038208/vid/avc1/720x1280/JYrLuRCbGqEBRVNy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087897063443038208/pl/NH2KvWtdjiXk6EwJ.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2087897097991487986",
+        "created_at": "2026-08-13T15:45:25.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T16:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087928518751801719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057104200551825408",
+              "start": 0,
+              "username": "NZzdhnn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087928518751801719",
+        "in_reply_to_user_id": "2057104200551825408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087897097991487986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NZzdhnn9 😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087897022854828032",
+            "13_2087897063443038208"
+          ]
+        },
+        "author_id": "2057104200551825408",
+        "conversation_id": "2087897097991487986",
+        "created_at": "2026-08-13T13:40:34.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087897097991487986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "FayeAtom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHWTSWfcmT",
+              "end": 56,
+              "expanded_url": "https://x.com/NZzdhnn9/status/2087897097991487986/video/1",
+              "media_key": "13_2087897022854828032",
+              "start": 33,
+              "url": "https://t.co/aHWTSWfcmT"
+            },
+            {
+              "display_url": "pic.x.com/aHWTSWfcmT",
+              "end": 56,
+              "expanded_url": "https://x.com/NZzdhnn9/status/2087897097991487986/video/1",
+              "media_key": "13_2087897063443038208",
+              "start": 33,
+              "url": "https://t.co/aHWTSWfcmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087897097991487986",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087897022854828032"
+          },
+          {
+            "media_key": "13_2087897063443038208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 54868,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海主播女孩重度依赖快闪捅人事件(后段补充)\n#FayeAtom https://t.co/aHWTSWfcmT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2087928518751801719",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 255,
+          "like_count": 1489,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T14:21:20.000Z",
+        "description": "我已随暖春一同而去，而你会逐渐习惯这片天空\n简介写了也没有人会看的…对吧？",
+        "id": "2057104200551825408",
+        "is_identity_verified": false,
+        "location": "乌托邦精神病院路上的一处坟墓里",
+        "most_recent_tweet_id": "2087915894026739771",
+        "name": "郁",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057104200551825408/1782394764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057105206433939456/r0Z0lRSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 24,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "NZzdhnn9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

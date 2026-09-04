@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2092736476723491204",
+    "created_at": "2026-08-27T04:11:21.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092827280053813572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082975744050003968",
+          "start": 0,
+          "username": "StukdeeGorye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092827280053813572",
+    "in_reply_to_user_id": "2082975744050003968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092736476723491204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StukdeeGorye 恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_2092734933437665280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrjVYyaUAAxspj.jpg",
+        "width": 1790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2092736476723491204",
+        "created_at": "2026-08-27T04:11:21.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092827280053813572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082975744050003968",
+              "start": 0,
+              "username": "StukdeeGorye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092827280053813572",
+        "in_reply_to_user_id": "2082975744050003968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092736476723491204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StukdeeGorye 恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092734933437665280"
+          ]
+        },
+        "author_id": "2082975744050003968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092736476723491204",
+        "created_at": "2026-08-26T22:10:31.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092736476723491204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "stukdee.is-a.dev/x-fans-wall/",
+              "end": 115,
+              "expanded_url": "https://stukdee.is-a.dev/x-fans-wall/",
+              "start": 92,
+              "status": 200,
+              "title": "Stukdee的X粉丝墙",
+              "unwound_url": "https://stukdee.is-a.dev/x-fans-wall/",
+              "url": "https://t.co/ybqYYYJhvt"
+            },
+            {
+              "display_url": "pic.x.com/lmpvfct5Yl",
+              "end": 191,
+              "expanded_url": "https://x.com/StukdeeGorye/status/2092736476723491204/photo/1",
+              "media_key": "3_2092734933437665280",
+              "start": 168,
+              "url": "https://t.co/lmpvfct5Yl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092736476723491204",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092734933437665280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "70多个关注啦！！！赶紧庆祝！₍ᐢ⸝⸝› ̫‹⸝⸝ᐢ₎\n不知不觉就交到了这么多好朋友(●'◡'●)ﾉ*\\(๑•₃•๑)*\n感谢大家的喜欢！！！(*≧∪≦)\n有关详细信息，欢迎访问：\n\nhttps://t.co/ybqYYYJhvt\n\n再次感谢Scweet社区、html2canvas截图库和DeepSeek的强力支持！o(*≧▽≦)ツ https://t.co/lmpvfct5Yl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2092827280053813572",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2697,
+          "following_count": 271,
+          "like_count": 1740,
+          "listed_count": 4,
+          "media_count": 150,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-30T23:46:45.000Z",
+        "description": "hello呀，我是小克，喜欢研究稀奇古怪的东西(((o(*ﾟ▽ﾟ*)o)))\n准高一，喜欢游戏制作（虽然还没有成品），闲暇时喜欢研究古籍，喜欢玩minecraft，是特仑苏🥛和明治巧克力🍫（特浓牛奶味最好吃）的忠实粉丝\n偶尔尝试画画\n喜欢猫咪（猫咪快点统治世界吧！！！）\n一起交朋友呀！互动、私信、互fo都行呀！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stukdee.is-a.dev",
+                "end": 23,
+                "expanded_url": "https://stukdee.is-a.dev",
+                "start": 0,
+                "url": "https://t.co/Rtb8Ao7pgd"
+              }
+            ]
+          }
+        },
+        "id": "2082975744050003968",
+        "is_identity_verified": false,
+        "location": "喵星球",
+        "most_recent_tweet_id": "2092795432145649983",
+        "name": "Stukdee Gorye",
+        "pinned_tweet_id": "2088913158211866746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082975744050003968/1787444241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082976349258756096/OMOfV4IQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 25,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/Rtb8Ao7pgd",
+        "username": "StukdeeGorye",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

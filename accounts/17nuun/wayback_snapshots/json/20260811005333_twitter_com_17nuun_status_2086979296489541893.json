@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2086837662372245800",
+    "created_at": "2026-08-11T00:53:33.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T01:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086979296489541893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "iityann19462957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086979296489541893",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086837662372245800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iityann19462957 好厉害ʕ •ᴥ•ʔ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2086837649315442688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXvyRdbsAAB7Mz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2086837662372245800",
+        "created_at": "2026-08-11T00:53:33.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086979296489541893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "iityann19462957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086979296489541893",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086837662372245800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iityann19462957 好厉害ʕ •ᴥ•ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086837649315442688"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086837662372245800",
+        "created_at": "2026-08-10T15:30:44.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086837662372245800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3DabAuokn",
+              "end": 33,
+              "expanded_url": "https://x.com/iityann19462957/status/2086837662372245800/photo/1",
+              "media_key": "3_2086837649315442688",
+              "start": 10,
+              "url": "https://t.co/d3DabAuokn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086837662372245800",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086837649315442688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一醬初次SSS+喵 https://t.co/d3DabAuokn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2086979296489541893",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2626,
+          "following_count": 248,
+          "like_count": 1409,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "一隻路過且無人愛的一醬喵😭🥹\n情感碎碎念\n無助\n需要被愛\n黃推一醬（？）\n接圓角喵\n負面情緒注意⚠️\n中焦重抑\n隨時亖亡（？）\n雌二醇重度依賴\n#NSFW原創\n最愛的姐姐@mapo_q\n最好的閨蜜：@sukimiku0831",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "NSFW原創"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 92,
+                "start": 85,
+                "username": "mapo_q"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "sukimiku0831"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "is_identity_verified": false,
+        "location": "精神衛生中心的封閉病房/醫院ICU/太平間（？）",
+        "most_recent_tweet_id": "2086837662372245800",
+        "name": "不會打Maimai DX每天哭的いいちゃん（小葉重度依賴）😾😿",
+        "pinned_tweet_id": "2080030592926892493",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035668415231492096/1785549010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1001,
+          "like_count": 4640,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 4426
+        },
+        "url": "",
+        "username": "iityann19462957",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
