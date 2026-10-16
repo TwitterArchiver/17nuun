@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2108401182981108085",
+    "created_at": "2026-10-09T23:57:43.000Z",
+    "display_text_range": [
+      94,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T00:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108708517310091716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4313176880",
+          "start": 0,
+          "username": "fake_fuji"
+        },
+        {
+          "end": 26,
+          "id": "2052028487540871168",
+          "start": 11,
+          "username": "SophieKittjzqp"
+        },
+        {
+          "end": 39,
+          "id": "1806849464386416640",
+          "start": 27,
+          "username": "tangeorange"
+        },
+        {
+          "end": 52,
+          "id": "1665827475924852739",
+          "start": 40,
+          "username": "LeonaLeo818"
+        },
+        {
+          "end": 65,
+          "id": "2094381539102732289",
+          "start": 53,
+          "username": "kaffeetomas"
+        },
+        {
+          "end": 82,
+          "id": "1817529169276026880",
+          "start": 66,
+          "username": "schale_12928345"
+        },
+        {
+          "end": 93,
+          "id": "1395755728950812676",
+          "start": 83,
+          "username": "shikoch1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108708517310091716",
+    "in_reply_to_user_id": "4313176880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108401182981108085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fake_fuji @SophieKittjzqp @tangeorange @LeonaLeo818 @kaffeetomas @schale_12928345 @shikoch1n 好可爱的大家w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2108400365989466112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUKK9ksbEAAUTnF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2108401182981108085",
+        "created_at": "2026-10-09T23:57:43.000Z",
+        "display_text_range": [
+          94,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T00:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108708517310091716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4313176880",
+              "start": 0,
+              "username": "fake_fuji"
+            },
+            {
+              "end": 26,
+              "id": "2052028487540871168",
+              "start": 11,
+              "username": "SophieKittjzqp"
+            },
+            {
+              "end": 39,
+              "id": "1806849464386416640",
+              "start": 27,
+              "username": "tangeorange"
+            },
+            {
+              "end": 52,
+              "id": "1665827475924852739",
+              "start": 40,
+              "username": "LeonaLeo818"
+            },
+            {
+              "end": 65,
+              "id": "2094381539102732289",
+              "start": 53,
+              "username": "kaffeetomas"
+            },
+            {
+              "end": 82,
+              "id": "1817529169276026880",
+              "start": 66,
+              "username": "schale_12928345"
+            },
+            {
+              "end": 93,
+              "id": "1395755728950812676",
+              "start": 83,
+              "username": "shikoch1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108708517310091716",
+        "in_reply_to_user_id": "4313176880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108401182981108085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_fuji @SophieKittjzqp @tangeorange @LeonaLeo818 @kaffeetomas @schale_12928345 @shikoch1n 好可爱的大家w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108400365989466112"
+          ]
+        },
+        "author_id": "4313176880",
+        "conversation_id": "2108401182981108085",
+        "created_at": "2026-10-09T03:36:28.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T04:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108401182981108085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2052028487540871168",
+              "start": 20,
+              "username": "SophieKittjzqp"
+            },
+            {
+              "end": 50,
+              "id": "1806849464386416640",
+              "start": 38,
+              "username": "tangeorange"
+            },
+            {
+              "end": 65,
+              "id": "1665827475924852739",
+              "start": 53,
+              "username": "LeonaLeo818"
+            },
+            {
+              "end": 80,
+              "id": "2094381539102732289",
+              "start": 68,
+              "username": "kaffeetomas"
+            },
+            {
+              "end": 99,
+              "id": "1817529169276026880",
+              "start": 83,
+              "username": "schale_12928345"
+            },
+            {
+              "end": 112,
+              "id": "1395755728950812676",
+              "start": 102,
+              "username": "shikoch1n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQbCkXwQ5F",
+              "end": 137,
+              "expanded_url": "https://x.com/fake_fuji/status/2108401182981108085/photo/1",
+              "media_key": "3_2108400365989466112",
+              "start": 114,
+              "url": "https://t.co/CQbCkXwQ5F"
+            },
+            {
+              "display_url": "x.com/fake_fuji/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/fake_fuji/status/2107842347803545662",
+              "start": 138,
+              "url": "https://t.co/BZgkEPkzQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108401182981108085",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108400365989466112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1631,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107842347803545662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加入新朋友：最前面那一排，从左往右：\n（@SophieKittjzqp）\n（@tangeorange）\n（@LeonaLeo818）\n（@kaffeetomas）\n（@schale_12928345）\n（@shikoch1n） https://t.co/CQbCkXwQ5F https://t.co/BZgkEPkzQX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2108708517310091716",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2845,
+          "following_count": 295,
+          "like_count": 2130,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world🇺🇳｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHI6pD"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2108567099950149851",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3683,
+          "following_count": 1035,
+          "like_count": 2927,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/46yRJHI6pD",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-06T14:12:13.000Z",
+        "description": "新人VTuber",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kdpjha2",
+                "end": 23,
+                "expanded_url": "https://b23.tv/kdpjha2",
+                "start": 0,
+                "url": "https://t.co/wEGAThAzyY"
+              }
+            ]
+          }
+        },
+        "id": "2052028487540871168",
+        "is_identity_verified": false,
+        "location": "bilibili",
+        "most_recent_tweet_id": "2108693654793863403",
+        "name": "桜井まなこ(Sophie Kitty)",
+        "pinned_tweet_id": "2104498633462952279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2052028487540871168/1780394284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106472005730238464/J5kAvIcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 1125,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 1202
+        },
+        "url": "https://t.co/wEGAThAzyY",
+        "username": "SophieKittjzqp",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "dev @orguthegame but slow progress\nworking on https://t.co/2qhIBFofs2 and ⬆️\nHacker @adventurex_plan 2025\nMtX (they)\nvisit my website ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "orguthegame"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "adventurex_plan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "novel.orgu.cc",
+                "end": 69,
+                "expanded_url": "http://novel.orgu.cc",
+                "start": 46,
+                "url": "https://t.co/2qhIBFofs2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "is_identity_verified": false,
+        "location": "👉",
+        "most_recent_tweet_id": "2108117686899409400",
+        "name": "橙子",
+        "pinned_tweet_id": "2086834107397628162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806849464386416640/1780943954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106270092413878272/5eOAugRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3450,
+          "following_count": 3048,
+          "like_count": 10107,
+          "listed_count": 7,
+          "media_count": 1609,
+          "tweet_count": 10048
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-05T21:06:52.000Z",
+        "description": "“我累銅類丸”",
+        "id": "1665827475924852739",
+        "is_identity_verified": false,
+        "location": "我從來都不會輸",
+        "most_recent_tweet_id": "2108561221607886927",
+        "name": "威龍飛虎",
+        "pinned_tweet_id": "2067837767263121630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665827475924852739/1789050717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098056892031590401/atinLkeR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 370,
+          "like_count": 4597,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1233
+        },
+        "url": "",
+        "username": "LeonaLeo818",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T11:09:05.000Z",
+        "description": "MTX斷糖🍥|家住汪星|成年犬汪～\nDie Würde des Menschen ist unantastbar\nSOL贊助：Fp98BoTr9noCmbKvW1jG9RVsWFZ3c3iqsHwkq1ktXAa7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+9ACYS1BU-Z1mN…",
+                "end": 23,
+                "expanded_url": "http://t.me/+9ACYS1BU-Z1mNjYx",
+                "start": 0,
+                "url": "https://t.co/igPbHan8yo"
+              }
+            ]
+          }
+        },
+        "id": "2094381539102732289",
+        "is_identity_verified": false,
+        "location": "汪星（台灣）",
+        "most_recent_tweet_id": "2108586301624897973",
+        "name": "Kaffee🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2104208944004751762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094381539102732289/1788488108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095694866307252224/h79FVuBX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 57,
+          "like_count": 4098,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/igPbHan8yo",
+        "username": "kaffeetomas",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-28T11:55:05.000Z",
+        "description": "ごく普通の中国籍の大学生🇨🇳\nでも，日本は好きなんだけど🇯🇵【AI翻訳】\nJDM🚗鉄道🚆アニメ📺好き!\nでも，政治なんて話はやめた方がいい……😔\n今の願いは日本人と友達になることです！👫\n日中友好を応援する皆さんを歓迎しますよ!🌍\n互fo OK👫|ロボットNG🤖❌",
+        "id": "1817529169276026880",
+        "is_identity_verified": false,
+        "location": "中華人民共和国 東北地方",
+        "most_recent_tweet_id": "2108572725770170576",
+        "name": "杏仁ぐるぐる🌾🌼",
+        "pinned_tweet_id": "2108490982022893748",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817529169276026880/1781846655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102313035574697984/kcPe5oBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 142,
+          "like_count": 21400,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1488
+        },
+        "url": "",
+        "username": "schale_12928345",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-21T14:58:02.000Z",
+        "description": "Writer/Vibe Coder/社民/不喜欢MBTI/音游/Pronoun 随意/无性恋\nany DM are welcome\n我喜欢你们，互关🥺\nXKO0C027475a78E05966069823379E0D008895674a0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shikoch.in",
+                "end": 23,
+                "expanded_url": "http://shikoch.in",
+                "start": 0,
+                "url": "https://t.co/PLpx9havtB"
+              }
+            ]
+          }
+        },
+        "id": "1395755728950812676",
+        "is_identity_verified": false,
+        "location": "Prohibited",
+        "most_recent_tweet_id": "2108614521019593044",
+        "name": "西宮 缄",
+        "pinned_tweet_id": "2108559028771246128",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395755728950812676/1790448175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103918254725201920/de5KCyp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 428,
+          "like_count": 1458,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/PLpx9havtB",
+        "username": "shikoch1n",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

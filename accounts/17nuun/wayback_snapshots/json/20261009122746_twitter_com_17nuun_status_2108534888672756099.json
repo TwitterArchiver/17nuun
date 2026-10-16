@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2063266311254552576",
+    "conversation_id": "2107836180599656498",
+    "created_at": "2026-10-09T12:27:46.000Z",
+    "display_text_range": [
+      26,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T13:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108534888672756099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2085914615574306816",
+          "start": 0,
+          "username": "chicosiaasgard"
+        },
+        {
+          "end": 25,
+          "id": "1695649420539219968",
+          "start": 16,
+          "username": "LiciiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108534888672756099",
+    "in_reply_to_user_id": "2085914615574306816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107836180599656498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chicosiaasgard @LiciiQAQ 呜…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7317,
+        "height": 1280,
+        "media_key": "13_2107836141273841664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107836141273841664/img/06371vsNhemMBncu.jpg",
+        "public_metrics": {
+          "view_count": 35354
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107836141273841664/vid/avc1/320x568/cEbfDA6bjS3WcL_W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107836141273841664/vid/avc1/480x852/XWudX1efhczybu27.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107836141273841664/vid/avc1/720x1280/bIKKf77lOFA0sCmU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107836141273841664/pl/r3Shi9R-yFNhVQcK.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2107836170151591936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUCJ1DabAAAdrFL.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2107836180599656498",
+        "created_at": "2026-10-09T12:27:46.000Z",
+        "display_text_range": [
+          26,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T13:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108534888672756099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2085914615574306816",
+              "start": 0,
+              "username": "chicosiaasgard"
+            },
+            {
+              "end": 25,
+              "id": "1695649420539219968",
+              "start": 16,
+              "username": "LiciiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108534888672756099",
+        "in_reply_to_user_id": "2085914615574306816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107836180599656498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chicosiaasgard @LiciiQAQ 呜…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107836141273841664",
+            "3_2107836170151591936"
+          ]
+        },
+        "author_id": "2085914615574306816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107836180599656498",
+        "created_at": "2026-10-07T14:11:21.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107836180599656498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 69,
+              "id": "1695649420539219968",
+              "start": 60,
+              "username": "LiciiQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMa7ssGfgu",
+              "end": 93,
+              "expanded_url": "https://x.com/chicosiaasgard/status/2107836180599656498/video/1",
+              "media_key": "13_2107836141273841664",
+              "start": 70,
+              "url": "https://t.co/CMa7ssGfgu"
+            },
+            {
+              "display_url": "pic.x.com/CMa7ssGfgu",
+              "end": 93,
+              "expanded_url": "https://x.com/chicosiaasgard/status/2107836180599656498/video/1",
+              "media_key": "3_2107836170151591936",
+              "start": 70,
+              "url": "https://t.co/CMa7ssGfgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107836180599656498",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107836141273841664"
+          },
+          {
+            "media_key": "3_2107836170151591936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 46745,
+          "like_count": 368,
+          "quote_count": 2,
+          "reply_count": 76,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "今天是你的头七呢……会回来看看姐姐嘛，姐姐很想你呀，给泥烧了点泥以前喜欢的东西，希望泥要在另一个世界也要开开心心的呀……@LiciiQAQ https://t.co/CMa7ssGfgu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2108534888672756099",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2843,
+          "following_count": 295,
+          "like_count": 2118,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1552
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-08T02:24:40.000Z",
+        "description": "MtF/海洋生物/HRT.2024/永远十七岁/生日10.2/🚪8964/持证含糖/ADHD/rle进行中/来和我逛街/来玩第五人格/常驻南京/南京药娘骰子/欢迎同类约我贴贴!/泛中左翼激跨/脑婆❤️@bghtnya @Rose2156747667/永远的妹妹💙@LiciiQAQ/南京第一深情/屁屁虫生物学研究中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 100,
+                "username": "bghtnya"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "Rose2156747667"
+              },
+              {
+                "end": 140,
+                "start": 131,
+                "username": "LiciiQAQ"
+              }
+            ]
+          }
+        },
+        "id": "2085914615574306816",
+        "is_identity_verified": false,
+        "location": "佛罗里达州 种植园",
+        "most_recent_tweet_id": "2108224065135861907",
+        "name": "🪸Sea Anemone-海音寺 葵🐠🏳️‍⚧️",
+        "pinned_tweet_id": "2102198827264676221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085914615574306816/1786156056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085915281285849088/I6iAJqxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 123,
+          "like_count": 890,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 344
+        },
+        "url": "",
+        "username": "chicosiaasgard",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-27T04:08:29.000Z",
+        "description": "素抽象mtf（xyn）🏳️‍⚧️🍥成分复杂，可能偏日常些？都来找我玩喵🥺；；求互fo（没回可私信捏）//\n🫥@Grinin_mark，❤️姐姐：@chicosiaasgard ，😺猫猫：@laneunya_QWQ，💜主人：@dddddhxwys\n出自制凝胶，可零售土色、日雌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "Grinin_mark"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "chicosiaasgard"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "laneunya_QWQ"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "dddddhxwys"
+              }
+            ]
+          }
+        },
+        "id": "1695649420539219968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105366767099154478",
+        "name": "Licii🍥",
+        "pinned_tweet_id": "2054983484259889500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1695649420539219968/1737909112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 2136,
+          "like_count": 121851,
+          "listed_count": 8,
+          "media_count": 481,
+          "tweet_count": 8387
+        },
+        "url": "",
+        "username": "LiciiQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
